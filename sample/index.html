@@ -86,7 +86,7 @@ footer{text-align:center;font-size:13px;padding:40px 0 30px;opacity:.85}
   <div class="player" id="player">
     <div class="now">
       <div class="disc"></div>
-      <div class="t"><b id="tTitle">タイトルテーマ</b><span id="tNote">タイトル画面の曲</span></div>
+      <div class="t"><b id="tTitle">オープニングテーマ</b><span id="tNote">オープニングムービーの曲</span></div>
       <div class="ctrl"><button class="btn" id="bPlay">▶ 再生</button><button class="btn sub" id="bNext">次へ</button></div>
     </div>
     <div class="bar" id="bar"><i id="barFill"></i></div>
@@ -126,6 +126,7 @@ footer{text-align:center;font-size:13px;padding:40px 0 30px;opacity:.85}
 (function(){
   // ---- sound ----
   var TR=[
+    {f:"../op_movie.mp4",t:"オープニングテーマ",n:"オープニングムービーの曲"},
     {f:"../title_bgm.m4a",t:"タイトルテーマ",n:"タイトル画面の曲"},
     {f:"../bgm.spring.mp3",t:"春のテーマ",n:"春の牧場で流れる曲"},
     {f:"../bgm.summer.mp3",t:"夏のテーマ",n:"夏の牧場で流れる曲"},
