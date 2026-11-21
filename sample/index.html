@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>のんびり牧場 サウンド＆ギャラリー（作品紹介ページの見本）</title>
+<link rel="icon" type="image/png" href="../icon.png">
+<link rel="apple-touch-icon" href="../icon-180.jpg">
+<meta name="description" content="自作の曲や絵を、聴ける・見られる・遊べるページにした見本です。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@500&family=Zen+Maru+Gothic:wght@500;700&display=swap" rel="stylesheet">
+<style>
+:root{--cream:#fffdf4;--pink:#e9789f;--pink2:#fbe3ec;--leaf:#8dae6b;--leaf2:#e8f1dc;--brown:#5d3c1e;--gold:#e8be5a}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--cream);color:var(--brown);font-family:"Zen Maru Gothic","Hiragino Maru Gothic ProN",sans-serif;line-height:1.7;
+  background-image:radial-gradient(circle at 10% 20%,#fff3d6 0,transparent 40%),radial-gradient(circle at 90% 70%,#fde8ef 0,transparent 45%)}
+a{color:var(--pink)}
+.wrap{max-width:980px;margin:0 auto;padding:0 18px}
+header{text-align:center;padding:28px 0 6px}
+header img{width:min(440px,80vw);filter:drop-shadow(0 6px 10px rgba(93,60,30,.18))}
+header p{margin:6px 0 0;font-size:15px}
+nav{position:sticky;top:0;z-index:5;background:rgba(255,253,244,.92);backdrop-filter:blur(6px);border-bottom:2px dashed var(--gold)}
+nav .wrap{display:flex;gap:8px;justify-content:center;padding:8px 18px;flex-wrap:wrap}
+nav a{text-decoration:none;color:var(--brown);background:#fff;border:2px solid var(--pink2);border-radius:999px;padding:4px 14px;font-weight:700;font-size:14px}
+nav a:hover{border-color:var(--pink)}
+section{padding:34px 0 10px}
+h2{font-family:"Kiwi Maru",serif;font-size:26px;margin:0 0 14px;display:flex;align-items:center;gap:10px}
+h2::before{content:"";width:12px;height:28px;border-radius:6px;background:var(--pink)}
+.lead{margin:-6px 0 16px;font-size:14px;opacity:.85}
+/* sound */
+.player{background:#fff;border:3px solid var(--pink2);border-radius:22px;padding:16px;box-shadow:0 6px 0 var(--pink2)}
+.now{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.disc{width:64px;height:64px;border-radius:50%;background:conic-gradient(var(--pink),var(--gold),var(--leaf),var(--pink));position:relative;flex:none}
+.disc::after{content:"";position:absolute;inset:24px;border-radius:50%;background:#fff}
+.playing .disc{animation:spin 4s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.now .t{flex:1;min-width:160px}
+.now .t b{display:block;font-size:18px}
+.now .t span{font-size:13px;opacity:.75}
+.ctrl{display:flex;gap:8px}
+.btn{border:0;border-radius:999px;background:var(--pink);color:#fff;font:700 15px inherit;font-family:inherit;padding:9px 18px;cursor:pointer;box-shadow:0 3px 0 #c75b81}
+.btn:active{transform:translateY(2px);box-shadow:0 1px 0 #c75b81}
+.btn.sub{background:#fff;color:var(--pink);border:2px solid var(--pink);box-shadow:none}
+.bar{height:8px;background:var(--pink2);border-radius:99px;margin:14px 0 6px;cursor:pointer;overflow:hidden}
+.bar i{display:block;height:100%;width:0;background:var(--pink);border-radius:99px}
+.time{display:flex;justify-content:space-between;font-size:12px;opacity:.7}
+.tracks{list-style:none;margin:14px 0 0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:8px}
+.tracks li button{width:100%;text-align:left;background:var(--cream);border:2px solid #f3e6c8;border-radius:14px;padding:8px 12px;font-family:inherit;color:var(--brown);cursor:pointer}
+.tracks li button.on{border-color:var(--pink);background:var(--pink2)}
+.tracks small{display:block;font-size:12px;opacity:.7}
+/* gallery */
+.gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
+.gal figure{margin:0;background:#fff;border-radius:18px;padding:8px;border:3px solid var(--leaf2);cursor:zoom-in;transition:transform .15s}
+.gal figure:hover{transform:translateY(-3px) rotate(-.4deg)}
+.gal img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:12px;display:block}
+.gal figcaption{font-size:13px;padding:6px 4px 0}
+#lb{position:fixed;inset:0;background:rgba(40,25,10,.8);display:none;align-items:center;justify-content:center;z-index:20;padding:20px}
+#lb.on{display:flex}
+#lb img{max-width:100%;max-height:85vh;border-radius:14px;border:4px solid #fff}
+/* game */
+.gamebox{background:#fff;border:3px solid var(--leaf2);border-radius:22px;padding:12px;box-shadow:0 6px 0 var(--leaf2)}
+.gamehead{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:8px;font-weight:700}
+.gamehead .pill{background:var(--leaf2);border-radius:999px;padding:3px 12px}
+.stage{position:relative;width:100%;aspect-ratio:16/9;border-radius:16px;overflow:hidden;background:linear-gradient(#cfe9f7 0,#eaf6fb 45%,#cfe8b3 46%,#a9d17f 100%);touch-action:none;user-select:none}
+.stage canvas{position:absolute;inset:0;width:100%;height:100%}
+.overlay{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;background:rgba(255,253,244,.88);gap:10px;padding:14px}
+.overlay h3{margin:0;font-family:"Kiwi Maru",serif;font-size:26px}
+.overlay p{margin:0;font-size:14px}
+.hidden{display:none!important}
+footer{text-align:center;font-size:13px;padding:40px 0 30px;opacity:.85}
+.note{background:var(--leaf2);border-radius:16px;padding:12px 16px;font-size:14px;margin-top:16px}
+</style>
+</head>
+<body>
+<header class="wrap">
+  <img src="../title_logo.png" alt="のんびり牧場">
+  <p>サウンド＆ギャラリー ― 聴いて、見て、遊べる作品ページ</p>
+</header>
+<nav><div class="wrap"><a href="#sound">♪ サウンド</a><a href="#gallery">ギャラリー</a><a href="#game">ミニゲーム</a><a href="../">本編を遊ぶ</a></div></nav>
+
+<main class="wrap">
+<section id="sound">
+  <h2>サウンド</h2>
+  <p class="lead">ゲームで使っている曲を、ここで聴けます。曲名をタップすると切り替わります。</p>
+  <div class="player" id="player">
+    <div class="now">
+      <div class="disc"></div>
+      <div class="t"><b id="tTitle">タイトルテーマ</b><span id="tNote">タイトル画面の曲</span></div>
+      <div class="ctrl"><button class="btn" id="bPlay">▶ 再生</button><button class="btn sub" id="bNext">次へ</button></div>
+    </div>
+    <div class="bar" id="bar"><i id="barFill"></i></div>
+    <div class="time"><span id="tCur">0:00</span><span id="tDur">0:00</span></div>
+    <ul class="tracks" id="tracks"></ul>
+  </div>
+</section>
+
+<section id="gallery">
+  <h2>ギャラリー</h2>
+  <p class="lead">画像をタップすると大きく見られます。</p>
+  <div class="gal" id="gal"></div>
+</section>
+
+<section id="game">
+  <h2>ミニゲーム「やさいキャッチ」</h2>
+  <p class="lead">かごを左右に動かして、落ちてくる野菜を受け止めよう。虫はよけてね。30秒の勝負です。</p>
+  <div class="gamebox">
+    <div class="gamehead"><span class="pill">スコア <span id="gScore">0</span></span><span class="pill">のこり <span id="gTime">30</span> 秒</span><span class="pill">ベスト <span id="gBest">0</span></span></div>
+    <div class="stage" id="stage">
+      <canvas id="cv"></canvas>
+      <div class="overlay" id="ov">
+        <h3 id="ovT">やさいキャッチ</h3>
+        <p id="ovP">指でなぞるか、← → キーでかごを動かします</p>
+        <button class="btn" id="bStart">スタート</button>
+      </div>
+    </div>
+  </div>
+  <div class="note">このページは、ココナラ「ゲーム制作代行」の<b>発表の場プラン</b>の見本です。曲・絵・紹介文をいただければ、同じように「聴ける・見られる・遊べる」ページにします。</div>
+</section>
+</main>
+<footer>© のんびり牧場 ／ <a href="../">ゲーム本編はこちら</a></footer>
+
+<div id="lb"><img alt=""></div>
+<audio id="au" preload="none"></audio>
+<script>
+(function(){
+  // ---- sound ----
+  var TR=[
+    {f:"../title_bgm.m4a",t:"タイトルテーマ",n:"タイトル画面の曲"},
+    {f:"../bgm.spring.mp3",t:"春のテーマ",n:"春の牧場で流れる曲"},
+    {f:"../bgm.summer.mp3",t:"夏のテーマ",n:"夏の牧場で流れる曲"},
+    {f:"../bgm.autumn.mp3",t:"秋のテーマ",n:"秋の牧場で流れる曲"},
+    {f:"../bgm.winter.mp3",t:"冬のテーマ",n:"冬の牧場で流れる曲"},
+    {f:"../talk_minori.m4a",t:"みのりのテーマ",n:"会話シーンの曲"},
+    {f:"../talk_hinata_v2.m4a",t:"ひなたのテーマ",n:"会話シーンの曲"},
+    {f:"../talk_kohaku.m4a",t:"こはくのテーマ",n:"会話シーンの曲"}
+  ];
+  var au=document.getElementById("au"),cur=0,ul=document.getElementById("tracks"),pl=document.getElementById("player");
+  TR.forEach(function(x,i){var li=document.createElement("li");li.innerHTML='<button type="button">'+x.t+'<small>'+x.n+'</small></button>';li.firstChild.onclick=function(){load(i,true)};ul.appendChild(li)});
+  function fmt(s){if(!isFinite(s))return"0:00";s=Math.floor(s);return Math.floor(s/60)+":"+("0"+s%60).slice(-2)}
+  function mark(){[].forEach.call(ul.querySelectorAll("button"),function(b,i){b.classList.toggle("on",i===cur)})}
+  function load(i,play){cur=(i+TR.length)%TR.length;au.src=TR[cur].f;document.getElementById("tTitle").textContent=TR[cur].t;document.getElementById("tNote").textContent=TR[cur].n;mark();if(play)au.play().catch(function(){})}
+  var bPlay=document.getElementById("bPlay");
+  bPlay.onclick=function(){if(!au.src)load(cur,false);if(au.paused)au.play().catch(function(){});else au.pause()};
+  document.getElementById("bNext").onclick=function(){load(cur+1,true)};
+  au.onplay=function(){bPlay.textContent="❚❚ 一時停止";pl.classList.add("playing")};
+  au.onpause=function(){bPlay.textContent="▶ 再生";pl.classList.remove("playing")};
+  au.onended=function(){load(cur+1,true)};
+  au.ontimeupdate=function(){document.getElementById("tCur").textContent=fmt(au.currentTime);document.getElementById("tDur").textContent=fmt(au.duration);document.getElementById("barFill").style.width=(au.duration?au.currentTime/au.duration*100:0)+"%"};
+  document.getElementById("bar").onclick=function(e){if(!au.duration)return;var r=this.getBoundingClientRect();au.currentTime=(e.clientX-r.left)/r.width*au.duration};
+  mark();
+
+  // ---- gallery ----
+  var G=[
+    ["../promo/key_group.jpg","6人の仲間たち"],
+    ["../promo/shot_home.jpg","ホーム画面"],
+    ["../promo/shot_field.jpg","畑の画面"],
+    ["../promo/shot_honey.jpg","養蜂の画面"],
+    ["../promo/shot_talk.jpg","解説つきの会話シーン"]
+  ];
+  var gal=document.getElementById("gal"),lb=document.getElementById("lb");
+  G.forEach(function(x){var f=document.createElement("figure");f.innerHTML='<img loading="lazy" src="'+x[0]+'" alt="'+x[1]+'"><figcaption>'+x[1]+'</figcaption>';f.onclick=function(){lb.querySelector("img").src=x[0];lb.classList.add("on")};gal.appendChild(f)});
+  lb.onclick=function(){lb.classList.remove("on")};
+
+  // ---- mini game ----
+  var cv=document.getElementById("cv"),ctx=cv.getContext("2d"),st=document.getElementById("stage");
+  var W=960,H=540,dpr=1;
+  function size(){var r=st.getBoundingClientRect();dpr=Math.min(2,window.devicePixelRatio||1);cv.width=r.width*dpr;cv.height=r.height*dpr;ctx.setTransform(cv.width/W,0,0,cv.height/H,0,0)}
+  window.addEventListener("resize",size);size();
+  var GOOD=["🍅","🥕","🌽","🥬","🍓","🥔","🍆"],BAD=["🐛"],items=[],basket=W/2,target=W/2,score=0,left=30,run=false,last=0,spawn=0,keys={};
+  var best=0;try{best=+localStorage.getItem("nbSampleBest")||0}catch(e){}
+  document.getElementById("gBest").textContent=best;
+  function toLocal(cx){var r=st.getBoundingClientRect();return (cx-r.left)/r.width*W}
+  st.addEventListener("pointerdown",function(e){target=toLocal(e.clientX)});
+  st.addEventListener("pointermove",function(e){if(e.buttons||e.pointerType==="touch")target=toLocal(e.clientX)});
+  window.addEventListener("keydown",function(e){keys[e.key]=1});window.addEventListener("keyup",function(e){keys[e.key]=0});
+  function start(){items=[];score=0;left=30;run=true;last=performance.now();spawn=0;document.getElementById("ov").classList.add("hidden");upd();requestAnimationFrame(loop)}
+  document.getElementById("bStart").onclick=start;
+  function upd(){document.getElementById("gScore").textContent=score;document.getElementById("gTime").textContent=Math.ceil(left)}
+  var pops=[];
+  function loop(t){
+    var dt=Math.min(.05,(t-last)/1000);last=t;
+    if(run){
+      left-=dt;if(left<=0){left=0;end()}
+      document.getElementById("gTime").textContent=Math.ceil(left);
+      if(keys.ArrowLeft)target-=700*dt;if(keys.ArrowRight)target+=700*dt;
+      target=Math.max(60,Math.min(W-60,target));basket+=(target-basket)*Math.min(1,dt*14);
+      spawn-=dt;var rate=Math.max(.32,.8-(30-left)*.015);
+      if(spawn<=0){spawn=rate;var bad=Math.random()<.18;items.push({x:40+Math.random()*(W-80),y:-30,v:180+Math.random()*120+(30-left)*6,e:bad?BAD[0]:GOOD[Math.random()*GOOD.length|0],bad:bad})}
+      for(var i=items.length-1;i>=0;i--){var it=items[i];it.y+=it.v*dt;
+        if(it.y>H-95&&it.y<H-40&&Math.abs(it.x-basket)<62){items.splice(i,1);if(it.bad){score=Math.max(0,score-3);pops.push({x:it.x,y:H-110,s:"-3",c:"#7a5",a:1})}else{score++;pops.push({x:it.x,y:H-110,s:"+1",c:"#e9789f",a:1})}upd();continue}
+        if(it.y>H+30)items.splice(i,1)}
+    }
+    draw(dt);
+    if(run||pops.length)requestAnimationFrame(loop);
+  }
+  function draw(dt){
+    ctx.clearRect(0,0,W,H);
+    ctx.fillStyle="#8fbf63";for(var r=0;r<5;r++){ctx.fillRect(0,300+r*48,W,6)}
+    ctx.textAlign="center";ctx.textBaseline="middle";ctx.font="48px serif";
+    items.forEach(function(it){ctx.fillText(it.e,it.x,it.y)});
+    // basket
+    ctx.save();ctx.translate(basket,H-60);
+    ctx.fillStyle="#c98b4b";ctx.strokeStyle="#7a4f22";ctx.lineWidth=5;
+    ctx.beginPath();ctx.moveTo(-62,-22);ctx.lineTo(62,-22);ctx.lineTo(48,30);ctx.lineTo(-48,30);ctx.closePath();ctx.fill();ctx.stroke();
+    ctx.strokeStyle="#a86b33";ctx.lineWidth=3;for(var k=-40;k<=40;k+=20){ctx.beginPath();ctx.moveTo(k,-20);ctx.lineTo(k*.8,28);ctx.stroke()}
+    ctx.restore();
+    for(var i=pops.length-1;i>=0;i--){var p=pops[i];p.y-=60*dt;p.a-=dt*1.6;if(p.a<=0){pops.splice(i,1);continue}ctx.globalAlpha=p.a;ctx.font="bold 34px sans-serif";ctx.fillStyle=p.c;ctx.fillText(p.s,p.x,p.y);ctx.globalAlpha=1}
+  }
+  function end(){run=false;items=[];
+    var nb=score>best;if(nb){best=score;try{localStorage.setItem("nbSampleBest",best)}catch(e){}document.getElementById("gBest").textContent=best}
+    document.getElementById("ovT").textContent=(nb?"ベスト更新！ ":"")+score+" こ キャッチ！";
+    document.getElementById("ovP").textContent=score>=30?"すばらしい収穫です！":score>=15?"いい調子！ もう一回どう？":"虫をよけて、野菜だけ受け止めよう";
+    document.getElementById("bStart").textContent="もう一回";
+    document.getElementById("ov").classList.remove("hidden")}
+  draw(0);
+})();
+</script>
+</body>
+</html>
