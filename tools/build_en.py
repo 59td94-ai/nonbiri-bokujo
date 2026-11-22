@@ -11,6 +11,22 @@ root = pathlib.Path(__file__).resolve().parent.parent
 html = root / "index.html"
 data = json.loads((root / "i18n" / "en.json").read_text(encoding="utf-8"))
 nouns = data.get("nouns", {}); text = dict(data.get("text", {}))
+# ストーリーの題名（titles）から、題名入りの表示をまとめて作る
+CH = {"みのり": "Minori", "こはく": "Kohaku", "ひなた": "Hinata", "あかり": "Akari", "つばき": "Tsubaki", "しずく": "Shizuku"}
+for jp, en in data.get("titles", {}).items():
+    text.setdefault(f"「{jp}」 💗がたまりました", f"“{en}” 💗 is full")
+    text.setdefault(f"「{jp}」", f"“{en}”")
+    for cj, ce in CH.items():
+        for pre in ("", "📖 "):
+            text.setdefault(f"{pre}{cj}のストーリー\u3000第{{1}}話「{jp}」", f"{pre}{ce}'s story, Ep. {{1}} “{en}”")
+        for cj2, ce2 in CH.items():
+            if cj2 != cj: text.setdefault(f"{cj}と{cj2}「{jp}」", f"{ce} & {ce2}: “{en}”")
+for cj, ce in CH.items():
+    for sp in (" ", "\u3000"):
+        for pre in ("", "📖 "):
+            text.setdefault(f"{pre}{cj}のストーリー{sp}第{{1}}話", f"{pre}{ce}'s story, Ep. {{1}}")
+    for cj2, ce2 in CH.items():
+        if cj2 != cj: text.setdefault(f"{cj}と{cj2}", f"{ce} & {ce2}")
 keys = sorted(nouns, key=len, reverse=True)
 NRX = re.compile("|".join(re.escape(k) for k in keys)) if keys else None
 gen = {}
