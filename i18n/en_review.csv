@@ -16,8 +16,7 @@
 名前,じゃがいも,Potato
 名前,つばき,Tsubaki
 名前,とうもろこし,Corn
-名前,なし,None
-名前,にわとり,chicken
+名前,にわとり,Chicken
 名前,にわとりふれあい広場,Chicken petting plaza
 名前,にんじん,Carrot
 名前,はちみつ,Honey
@@ -28,7 +27,7 @@
 名前,ひまわり,Sunflower
 名前,ぶどう,Grapes
 名前,ほうじ茶,Hojicha
-名前,みつばち,honeybee
+名前,みつばち,Honeybee
 名前,みのり,Minori
 名前,りんご,Apple
 名前,ろ過,Filtering
@@ -75,7 +74,7 @@
 名前,マフラー,Scarf
 名前,ミックスジュース,Mixed juice
 名前,ミルク,Milk
-名前,ヤギ,goat
+名前,ヤギ,Goat
 名前,リンドウ,Gentian
 名前,レンガの洋館,Brick mansion
 名前,中国,Chugoku
@@ -195,7 +194,7 @@
 名前,溶解,Melting
 名前,炭酸水,Sparkling water
 名前,焼酎,Shochu
-名前,牛,cow
+名前,牛,Cow
 名前,牛小屋,Cow barn
 名前,牛舎,Cowshed
 名前,牧場主,Farm owner
@@ -236,7 +235,7 @@
 名前,織布,Weaving
 名前,繭,Cocoons
 名前,繭の収穫,Cocoon harvest
-名前,羊,sheep
+名前,羊,Sheep
 名前,羊小屋,Sheep barn
 名前,羊毛,Wool
 名前,美咲,Misaki
@@ -246,7 +245,7 @@
 名前,肥料,Fertilizer
 名前,肥料・飼料,Fertilizer & feed
 名前,花の在庫,Flower stock
-名前,花の種,Flower Seeds
+名前,花の種,Flower seeds
 名前,花卉,Flowers
 名前,花子,Hanako
 名前,芽依,Mei
@@ -257,12 +256,12 @@
 名前,蒸し・揉み,Steaming & rolling
 名前,蓮,Ren
 名前,薬品工場,Chemical Plant
-名前,蚕,silkworm
+名前,蚕,Silkworm
 名前,衣料品,Clothing
 名前,衣料品売り場,Apparel section
 名前,製造,Manufacture
 名前,製錬,Smelting
-名前,豚,pig
+名前,豚,Pig
 名前,豚小屋,Pig barn
 名前,財務,Finance
 名前,資材,Materials
@@ -300,12 +299,12 @@
 名前,養蚕,Sericulture
 名前,養蜂,Beekeeping
 名前,養鶏,Poultry
-名前,馬,horse
+名前,馬,Horse
 名前,馬を売る,Sell horses
 名前,高品質肥料,Premium fertilizer
 名前,高橋,Takahashi
 名前,高級飼料,Luxury feed
-名前,鶏,chicken
+名前,鶏,Chicken
 名前,鶏小屋,Chicken coop
 名前,麻のバッグ,Hemp bag
 文,AIを止める,Stop AI
@@ -909,12 +908,12 @@
 文,🐾 寿命が近い家畜,🐾 Animals near the end of life
 文,👆 {1}匹ずつ選んで治療する,👆 Choose and treat one at a time
 文,👘 着物×{1}　🐛生糸{2}個 → ¥{3}×{4}　{5}秒,👘 Kimono ×{1}　🐛Raw silk {2} → ¥{3}×{4}　{5}s
-文,💗 あかりのストーリー 第{1}話が ✉️ に届きました,💗 Akari's story Ep. {1} arrived in ✉️
-文,💗 こはくのストーリー 第{1}話が ✉️ に届きました,💗 Kohaku's story Ep. {1} arrived in ✉️
-文,💗 しずくのストーリー 第{1}話が ✉️ に届きました,💗 Shizuku's story Ep. {1} arrived in ✉️
-文,💗 つばきのストーリー 第{1}話が ✉️ に届きました,💗 Tsubaki's story Ep. {1} arrived in ✉️
-文,💗 ひなたのストーリー 第{1}話が ✉️ に届きました,💗 Hinata's story Ep. {1} arrived in ✉️
-文,💗 みのりのストーリー 第{1}話が ✉️ に届きました,💗 Minori's story Ep. {1} arrived in ✉️
+文,💗 あかりのストーリー 第{1}話が ✉️ に届きました,"💗 Akari's story, Ep. {1} has arrived in ✉️"
+文,💗 こはくのストーリー 第{1}話が ✉️ に届きました,"💗 Kohaku's story, Ep. {1} has arrived in ✉️"
+文,💗 しずくのストーリー 第{1}話が ✉️ に届きました,"💗 Shizuku's story, Ep. {1} has arrived in ✉️"
+文,💗 つばきのストーリー 第{1}話が ✉️ に届きました,"💗 Tsubaki's story, Ep. {1} has arrived in ✉️"
+文,💗 ひなたのストーリー 第{1}話が ✉️ に届きました,"💗 Hinata's story, Ep. {1} has arrived in ✉️"
+文,💗 みのりのストーリー 第{1}話が ✉️ に届きました,"💗 Minori's story, Ep. {1} has arrived in ✉️"
 文,💧 天然水×{1} 💧天然水（採水地）{2}個 → ¥{3}×{4} {5}秒,💧 Spring water ×{1} 💧Spring water (source) {2} → ¥{3}×{4} {5}s
 文,💧 天然水×{1}　💧天然水（採水地）{2}個 → ¥{3}×{4}　{5}秒,💧 Spring water ×{1}　💧Spring water (source) {2} → ¥{3}×{4}　{5}s
 文,💧 天然水工場,💧 Water Plant
