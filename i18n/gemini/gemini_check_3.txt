@@ -1,0 +1,377 @@
+以下は、のんびりした牧場経営ゲーム「のんびり牧場」の日本語→英語の対訳です。
+先にお渡しした説明資料（gemini_brief.pdf）のキャラクター表・用語集にそって見てください。
+英語として不自然な表現・誤訳・意味のずれがある行だけ、番号と直した英語を書いてください。問題のない行は書かなくてかまいません。
+
+決まりごと：
+・{1} {2} などの記号は数字が入る場所です。そのまま残してください（順番は入れかえてよい）
+・絵文字・¥・Lv. もそのまま残してください
+・画面がせまいので、短く分かりやすい英語にしてください
+・キャラの名前（Minori, Kohaku, Hinata, Akari, Tsubaki, Shizuku）は変えないでください
+
+返事の形：
+番号｜元の日本語｜今の英訳｜直した英訳｜理由（ひとこと）
+
+（1〜150行目）
+
+1｜APがなくなったら、少し休憩してくださいね。従業員さんのお仕事にはAPはいりませんので、人を雇うのも大事ですよ。｜When you're out of AP, take a little break. Your staff don't need AP to work, so hiring people matters too.
+2｜{1}%短縮（すぐ完成します）｜{1}% faster (done right away)
+3｜{1}〜{2}着なら調教値の{3}〜{4}%が経験値として残り、ずっと能力に加わります。｜Placing {1}–{2} keeps {3}–{4}% of training as experience, added to ability for good.
+4｜{1}〜{2}着の馬には経験値が残りました｜Horses that placed {1}–{2} kept some experience
+5｜{name}さん、ですね。「{farm}」……とってもすてきな名前です！｜{name}, is it? And “{farm}”… what a lovely name!
+6｜{name}さん、ですね。「{farm}」、これからもよろしくお願いしますね！｜{name}, is it? And “{farm}.” I look forward to working with you!
+7｜…きれいだと、お客が増える。売上も上がる。…地味だけど、大事。｜…Clean means more customers. Sales go up too. …Not flashy, but it matters.
+8｜…ここは厩舎。馬を育てる場所。｜…This is the stable. Where you raise horses.
+9｜…こはく。厩舎とか、木材とか…力仕事の担当。｜…Kohaku. Stable, lumber… I handle the heavy work.
+10｜…よろしく。｜…Nice to meet you.
+11｜…人手が足りないなら、事務所の人事で雇って。…以上。｜…If you're short on hands, hire at HR in the Office. …That's all.
+12｜…切りすぎないこと。…植えるのも、仕事。｜…Don't cut too much. …Planting is part of the job.
+13｜…厩舎を増やせば、飼える馬も増える。増設は、ショップの「🏗 増設」。｜…More stables, more horses. Expand from “🏗 Expand” in the Store.
+14｜…建築。資材で建物を建てて、引き渡す。｜…Construction. Put up buildings with materials and hand them over.
+15｜…建築の材料になる。…重いから、気をつけて。｜…It's for construction. …It's heavy, so be careful.
+16｜…引き渡せば、収入になる。…重機があれば、早い。｜…Hand them over and you get paid. …Heavy machinery makes it faster.
+17｜…木を切って、木材にする。植林や、土地・山の開拓もここから。｜…Cut trees, make lumber. Tree planting and clearing land and mountains start here too.
+18｜…木材の持ち場。｜…The lumber workplace.
+19｜…棚が空にならないように。…それだけ。｜…Don't let the shelves go empty. …That's it.
+20｜…清掃。ホームセンターやパークを、きれいに保つ。｜…Cleaning. Keep the Home Center and park clean.
+21｜…物流。品物を、お店の売り場へ運ぶ。｜…Logistics. Carry goods to the store's sections.
+22｜…石材。山から石を切り出す。｜…Stone. Quarry it from the mountain.
+23｜…育てた馬は、レースにも出せる。…勝つと、ちょっとうれしい。｜…You can race the horses you raise. …Winning feels kind of nice.
+24｜…青果、生鮮、飲料…運ぶものごとに持ち場がある。｜…Produce, fresh foods, drinks… each kind of load has its own workplace.
+25｜…馬はエサと世話で育つ。育った馬で、乗馬体験とかの依頼に応える。｜…Horses grow with feed and care. Grown horses take on requests like riding experiences.
+26｜※ 条件と資金が足りる分だけ増やします。｜* Only as many as the conditions and your funds allow.
+27｜※いまの投資担当の人は待機に戻ります。｜* The current investment staff will return to standby.
+28｜※現在、販売できるものがありません。｜* There's nothing to sell right now.
+29｜← 横にスワイプしてハウスを切り替えられます →｜← Swipe sideways to switch greenhouses →
+30｜← 横にスワイプして小屋を切り替えられます →｜← Swipe sideways to switch barns →
+31｜⏳ 風邪の治療をあとまわしにしました。{1}分以内に厩舎で治療してください。｜⏳ Put off treating the cold. Treat it at the stable within {1} min.
+32｜① ホームと「部門」｜① Home and “departments”
+33｜② 畑の画面（種と肥料）｜② The field screen (seeds & fertilizer)
+34｜③ 区画の確認｜③ Checking plots
+35｜④ 畑を増やす（ショップ）｜④ Adding fields (Store)
+36｜⑤ 事務所の部署｜⑤ Office departments
+37｜⑥ 人の増やし方｜⑥ How to hire people
+38｜⑦ 総務でまとめて｜⑦ Bulk actions in General Affairs
+39｜⑧ 人事でまとめて｜⑧ Bulk actions in HR
+40｜⑨ 方針を決める｜⑨ Setting a plan
+41｜⑩ 設定でできること｜⑩ What Settings can do
+42｜⑪ やり直しの注意｜⑪ About starting over
+43｜⑫ セーブ｜⑫ Saving
+44｜⑬ 画面の大きさ｜⑬ Screen size
+45｜⑭ 引き継ぎコード｜⑭ Transfer code
+46｜☑️ 販売先にチェックを入れてください｜☑️ Please check an outlet
+47｜♨️ 天然水工場の近くで温泉源泉が湧きました！🏬商業施設に「♨️温泉旅館」を開けます。天然水が足りないときは温泉の水も使います。｜♨️ A hot spring has appeared near the Water Plant! You can open a “♨️Hot spring inn” in 🏬Shops. Hot spring water is used when spring water runs short.
+48｜♨️ 温泉の水がたまるのを待っています｜♨️ Waiting for hot spring water to build up
+49｜⚗️ これからは害虫・イナゴには自社の🧴農薬、雑草には🧫除草剤の完成品を使って、お金を払わずに対応できます。｜⚗️ From now on, you can handle pests and locusts with your own 🧴pesticide and weeds with 🧫herbicide, free of charge.
+50｜⚙️ 導入・整備が必要な機械はありません｜⚙️ No machines need installing or maintenance
+51｜⚠️ AIの維持費が払えず停止しました｜⚠️ Stopped: couldn't pay the AI's upkeep
+52｜⚠️ このブラウザにはまだセーブデータがありません。｜⚠️ This browser has no save data yet.
+53｜⚠️ コピーできませんでした。選択された状態なので「コピー」を押してください｜⚠️ Couldn't copy. The text is selected, so press “Copy.”
+54｜⚠️ 人数が一気に増えると給料の負担も大きくなります。資金が尽きたところで止まります。｜⚠️ Hiring many people at once means big wage costs. It stops when the money runs out.
+55｜⚠️ 出走すると調教値は{1}〜{2}%まで下がります。｜⚠️ Racing drops training to {1}–{2}%.
+56｜⚠️ 妨害イベントが発生しました｜⚠️ A trouble event has occurred
+57｜⚠️ 従業員がいないため、このページのゲージは止まっています。｜⚠️ There are no employees, so this page's gauge has stopped.
+58｜⚠️ 最初からやり直しますか？｜⚠️ Start over from the beginning?
+59｜⚠️ 空いている場所がありません（🏗 増設で小屋を増やしましょう）｜⚠️ No open spots (add barns with 🏗 Expand)
+60｜⚠️ 買い付けがオフなので、手持ちで足りるブロックだけ仕込みます。｜⚠️ Buying is off, so only blocks covered by what's on hand will start.
+61｜⚡ いまのルールで一括判断しますか？｜⚡ Decide everything now with your current rules?
+62｜✅ これ以上は増やせません（上限です）｜✅ Can't add any more (that's the limit)
+63｜✅ すべての作業が解放されています｜✅ Every task is unlocked
+64｜。作業・受け取り・建築は続けるので、木材が在庫にたまって建築に回せます。｜. Work, receiving and construction continue, so lumber builds up in stock for construction.
+65｜「⚙️ 設定」では、音量の調整だけでなく、セーブややり直しもできます。｜In “⚙️ Settings,” you can adjust the volume, save, or start over.
+66｜「やり直し」を選ぶとデータが初めからになりますので、気をつけてくださいね。｜“Start over” resets your data to the beginning, so please be careful.
+67｜「人事」では、人手の足りない持ち場へ、まとめて人を配置することもできますよ。｜In “HR,” you can also send people to short-staffed workplaces all at once.
+68｜「引き継ぎコード」の発行もここからできますよ。今の説明の画像は、設定の「チュートリアル」からいつでも見返せます。｜You can get a “transfer code” here as well. These guide pictures can be viewed again anytime from “Tutorial” in Settings.
+69｜「総務」では、区画をまとめて増設したり、機械をまとめて入れたりできます。｜In “General Affairs,” you can expand plots or install machines all at once.
+70｜「🌾 耕種」は畑のお仕事です。畑のページを開くと、作物を植える区画が並んでいます。｜“🌾 Crops” is field work. Open the field page and you'll see rows of plots for planting.
+71｜「🏢 事務所」で最初に使えるのは、「総務/経理」「人事」「営業」の{1}つの部署です。｜In the “🏢 Office,” you can use {1} departments at first: “General Affairs/Accounting,” “HR” and “Sales.”
+72｜あ〜…はじめましてっス〜…あかりっス〜…｜Ah~… nice to meet you~… I'm Akari~…
+73｜おいしそうでしょ！ 材料は酪農と養鶏から届くよ！｜Looks yummy, right? The ingredients come from the dairy and poultry!
+74｜おかえりなさい！ ……あっ、そういえば、まだお名前を伺っていませんでした。｜Welcome back! …Oh, come to think of it, I never asked your name.
+75｜おもてなしに妥協は許されませんわ。わたくしがしっかり仕切って差し上げますわよ。｜There's no compromising on hospitality. I shall run things properly, you'll see.
+76｜お客さんがいっぱい来るとうれしいね！ 清掃でパークをきれいにしておくと、売上も上がるよ！｜It's so nice when lots of visitors come! Keep the park clean and sales go up too!
+77｜お茶工場ですわ。茶畑の茶葉から、緑茶・紅茶などを作りますの。｜This is the Tea Factory. We make green tea, black tea and more from tea field leaves.
+78｜お金・レベル・収穫数・畑の状態・肥料の効果はすべて消え、元に戻すことはできません。｜Money, level, harvest count, field states and fertilizer effects will all be erased. This can't be undone.
+79｜ここでは牧場でとれた品物を棚に並べて、お客さまに買っていただきます。｜Here, we put farm goods on the shelves for customers to buy.
+80｜ここの担当っス〜…よろしくっス〜…｜I'm in charge here~… nice to meet you~…
+81｜このふれあいエリアの動物がいません（畜産で飼育すると開けます）｜No animals for this petting area (raise them in Livestock to open it)
+82｜このページには作業を始められる空きブロックがありません。｜This page has no empty blocks to start work on.
+83｜この持ち場はまだ始めていません。｜This workplace hasn't started yet.
+84｜この種類の持ち場はまだありません。｜There are no workplaces of this type yet.
+85｜ごきげんよう。わたくし、つばきと申しますわ。｜Good day. My name is Tsubaki.
+86｜さっそくですが、あなたのお名前と、この牧場の名前を教えていただけますか？｜First things first: may I ask your name, and the name of this farm?
+87｜さらに「人事」では、育てるものの方針もまとめて決められます。ぜひ活用してみてくださいね。｜“HR” also lets you set a plan for what everyone grows. Do make good use of it!
+88｜すべてのページに機械が入っていて、アップグレードも済んでいます。｜Every page has machines, and all upgrades are done.
+89｜すべての持ち場に従業員が{1}人以上います。｜Every workplace has at least {1} employee.
+90｜その下に並んでいるのが「部門」のボタンです。｜The buttons below it are your “departments.”
+91｜それぞれの見出しを開くと、そこから働く人を増やせます。人手が増えると、お仕事を任せられるようになりますよ。｜Open each heading to hire more people. With more hands, you can leave the work to them.
+92｜それでは、さっそく始めましょう！ まずは畑に種を植えてみてくださいね。｜Well then, let's get started! Try planting some seeds in the field first.
+93｜ついにホームセンターを開きましたね！｜You've finally opened the Home Center!
+94｜できあがった製品を自動でまとめて納品します。｜Finished products are delivered automatically in bulk.
+95｜できたガラスは、工芸品とかの材料になるっス〜…割らないように…っス〜…｜The glass gets used for crafts and stuff~… Try not to break it~…
+96｜ときどき田んぼで出来事が起こることもあります。そのときは様子を見てあげてください。｜Now and then, things happen in the paddies. When they do, please go take a look.
+97｜どの持ち場も定員までそろっています。｜Every workplace is fully staffed.
+98｜はじめまして！ わたし、ひなた！ 動物のお世話ならまかせてね！｜Nice to meet you! I'm Hinata! Leave the animal care to me!
+99｜はじめまして！ 今日からこの牧場のお手伝いをさせていただく、みのりと申します。｜Nice to meet you! I'm Minori, and I'll be helping out on this farm starting today.
+100｜まあ、悪くありませんでしたわ。お疲れさまでした｜Well, that wasn't bad. Good work today.
+101｜まずは、最初に使える場所を説明させてくださいね。｜First, let me show you the places you can use right away.
+102｜よろしければ、あなたのお名前と、この牧場の名前を教えていただけますか？｜If you don't mind, may I ask your name, and the name of this farm?
+103｜アミューズメントパークだよ！ 畜産の動物たちとふれあえるんだ！｜It's the amusement park! Visitors get to meet our farm animals!
+104｜イナゴの群れが稲を食い荒らしはじめています。｜A swarm of locusts is starting to eat the rice.
+105｜エサをあげてお世話すると、どんどん卵を産んでくれるよ！｜Feed them and take care of them, and they'll lay lots and lots of eggs!
+106｜ガラスの持ち場っス〜…砂からガラスを作るっス〜…｜This is the glass workplace~… We make glass from sand~…
+107｜ガラス温室の花のそばに巣箱を置き、みつばちからはちみつを採ります。みつばちが受粉を助けるので、ガラス温室の花と果樹園の実りが増えます（+{1}%〜最大+{2}%）。｜Place beehives near the glass greenhouse flowers and collect honey. The bees help pollinate, so flowers and orchard yields increase (+{1}% up to +{2}%).
+108｜ジュース工場っス〜…果樹園の果実から、ジュースを作るっス〜…｜This is the Juice Factory~… We make juice from orchard fruit~…
+109｜スズメの群れが実った穂をついばんでいます。｜A flock of sparrows is pecking at the ripe ears.
+110｜データの読み込み中のため保存を止めています。｜Saving is paused while data loads.
+111｜ノルマはありませんので、のんびり植えて、実ったら収穫してくださいね。｜There are no quotas, so plant at your own pace and harvest when it's ripe.
+112｜ハウス{1}棟目｜Greenhouse {1}
+113｜ハウス{1}棟目の機械が{2}区画を自動収穫しました。（¥{3}）｜Greenhouse {1} machines auto-harvested {2} plots. (¥{3})
+114｜ハウス{1}棟目の機械をアップグレードしました！一括自動収穫が使えます。（¥{2}）｜Upgraded the machines in Greenhouse {1}! Auto harvest (all) is now available. (¥{2})
+115｜ハウス{1}棟目を機械化しました！{2}ブロックの作業時間が{3}%短くなります。（¥{4}／寿命{5}年）｜Greenhouse {1} mechanized! Work on {2} blocks is {3}% faster. (¥{4} / {5}-year life)
+116｜ハウスの中なら、季節に関係なく一年中作物を育てられます。冬でも収穫できるのがうれしいですね。｜Inside a greenhouse, crops grow all year, whatever the season. Harvesting even in winter is so nice.
+117｜ハチが受粉してくれると、お花や果樹の実りも増えるんだ！ すごいでしょ！｜When the bees pollinate, flowers and fruit trees produce more too! Amazing, right?
+118｜ビニールハウスが使えるようになりましたね。｜Vinyl greenhouses are now available.
+119｜ブラウザの保存領域に書き込めませんでした。プライベートモードではないか確かめてください。｜Couldn't write to the browser's storage. Check that you're not in private mode.
+120｜レベルが上がり、海外から買い付けの話が届きました！｜You leveled up, and buyers from overseas have come calling!
+121｜レベルが上がると、田んぼや養鶏など、新しいお仕事が少しずつ増えていきます。楽しみにしていてくださいね。｜As you level up, new work like rice paddies and poultry opens up little by little. Something to look forward to!
+122｜レースのムービーが流れますが、スキップしますか？｜The race movie will play. Skip it?
+123｜・✨金の卵がまざるようになりました｜· ✨Golden eggs now appear now and then
+124｜・作物（畑・ハウス・田んぼ）の収穫の一部が🌾繊維原料としてここに届きます（割合は画面で変えられます）｜· Part of your crop harvest (fields, greenhouses, paddies) arrives here as 🌾fiber (you can change the share on screen)
+125｜一括調教を止めています（治療・乗馬体験の対象もいません）｜Bulk training is stopped (no horses to treat or ride either)
+126｜上のバーには季節と日付、右上の「✉️」は「発生イベント」です。お知らせが届くと数字や ❗ ⚠️ が付きますので、ときどき確かめてみてください。｜The top bar shows the season and date, and “✉️” at the top right is “Events.” A number, ❗ or ⚠️ appears when news arrives, so check it now and then.
+127｜下のボタンから建てられます。🧃ジュース工場の材料は🍒果樹園の果実です。｜Build it with the button below. The 🧃Juice Factory uses fruit from the 🍒Orchard.
+128｜乳製品工場だよ！ 牛乳や卵から、チーズ・プリン・アイスを作るの！｜This is the Dairy Factory! We make cheese, pudding and ice cream from milk and eggs!
+129｜乳製品工場のチーズなどを運びます。｜Carries cheese and more from the Dairy Factory.
+130｜事務所で働けるのは👔従業員だけです（係員・係長は勤続年数で自動的に上がってきます）。｜Only 👔employees can work in the Office (staff and supervisors rise automatically with years of service).
+131｜事業の経過をチェックし、シーズンの変わり目にルールで追加投資・売却を判断｜Checks how businesses are doing and, at each change of season, decides on more investment or selling by your rules
+132｜今日から{farm}がスタートしますね。最初は小さな畑だけですが、一緒にのんびり大きくしていきましょう。｜{farm} starts today. It's just a small field for now, but let's grow it together, nice and easy.
+133｜今日からここはわたくしの担当ですの。だらしない仕事は許しませんわよ。｜From today, I am in charge here. I won't tolerate sloppy work.
+134｜伐採で開けた山に桑を植えて蚕を育て、繭から生糸をとります。｜Plant mulberry on the cleared mountain, raise silkworms, and take raw silk from their cocoons.
+135｜作業・受け取り・出荷のどれもできない状態です｜Work, receiving and shipping are all impossible right now
+136｜作業・建築・出荷のどれもできない状態です｜Work, construction and shipping are all impossible right now
+137｜作物から回した繊維原料を加工して植物繊維材にします。｜Process fiber from your crops into plant fiber.
+138｜作物・果樹園・ビニールハウスに害虫がわいています。｜Pests have appeared in your crops, orchard and vinyl greenhouses.
+139｜係につくと持ち場を離れ、事務所ではたらきます。｜Once given a role, they leave their workplace and work in the Office.
+140｜先にホームセンター（商業施設）を開いてください。｜Open the Home Center (Shops) first.
+141｜出荷を止めていて、作業・建築もできない状態です｜Shipping is stopped, and neither work nor construction is possible
+142｜動物がいないか、収穫できるものがありません｜Either there are no animals, or nothing to collect
+143｜動物がいなければ「いなくなったら買い直す」をオンにしてください。｜If there are no animals, turn on “Rebuy when gone.”
+144｜動物は切り替えられるよ！ 牛はミルク、羊は羊毛、豚はお肉！｜You can switch animals! Cows give milk, sheep give wool, pigs give meat!
+145｜化学原料から農薬・化学肥料・除草剤を作ります。自社の農薬があれば害虫イベントに無料で対応できます。｜Makes pesticide, chemical fertilizer and herbicide from chemicals. With your own pesticide, pest events cost nothing to handle.
+146｜区画は一つずつ、最大{1}区画まで増やせますわ。欲張りすぎて手が回らない、なんてことのないように。｜Plots can be added one at a time, up to {1}. Don't get greedy and end up unable to keep up.
+147｜厳しい冷え込みで作物が傷みかけています。｜A hard frost is starting to damage the crops.
+148｜収穫できるようになったものを自動でまとめて収穫・出荷します。｜Anything ready is harvested and shipped automatically in bulk.
+149｜収穫できる作物が {1}区画（畑{2}区画＋ハウス{3}区画）（{4}個）あります。 /  / 「小売販売」に出すと買取価格が上がります。どうしますか？｜You have {1} plots ready to harvest ({2} in fields + {3} in greenhouses) ({4}). /  / Selling them through “Retail” raises the price. What will you do?
+150｜収穫までの時間を{1}%短縮（すぐに収穫できます）｜Time to harvest {1}% shorter (ready right away)
+
+（151〜300行目）
+
+151｜収穫までの時間を{1}%短縮（すぐ収穫できます）｜Time to harvest {1}% shorter (ready right away)
+152｜収穫・作業できるものがありません｜Nothing to harvest or work on
+153｜古い内容で上書きしないように、この画面からの保存を止めています。ページを開き直すと、最新の状態で続きから遊べます。｜To avoid overwriting it with older data, saving from this screen is stopped. Reopen the page to continue from the latest state.
+154｜右の欄では、{name}さんのレベルや作物の育ち具合、いまの依頼、次の季節までの日数が見られます。左下の🐥も、次に行くとよさそうな場所を教えてくれますよ。｜The right panel shows your level, {name}, how your crops are growing, current requests, and days until the next season. The 🐥 at the bottom left also suggests where to go next.
+155｜右の牧場主の欄の「⚡ AP」は、畑に種をまくときなどに使う元気のようなものです。区画のボタンで{1}、一括のボタンで{2}使います。収穫と肥料にはAPはいりません。{3}秒ごとに{4}ずつ回復して、レベルが上がると満タンに戻りますよ。｜“⚡ AP” in the farm owner panel on the right is like your energy for things such as sowing. A plot button uses {1}, and an “all” button uses {2}. Harvesting and fertilizing need no AP. It recovers {4} every {3}s and refills when you level up.
+156｜各区画の確認は、上の「ページを選ぶバー」から。押すと、区画の一覧が開きます。｜To check each plot, use the “page bar” at the top. Tap it to open a list of plots.
+157｜同じ牧場が別の画面で進められているため、この画面からの保存を止めています。｜The same farm is being played on another screen, so saving from this screen is stopped.
+158｜同じ牧場が別の画面（別のタブや、開き直した画面）でも開かれていて、そちらで進めた内容が保存されました。｜The same farm is open on another screen (another tab, or a reopened page), and progress there was saved.
+159｜品物は「物流」で売り場に運びます。お店をきれいに保つ「清掃」もお忘れなく。｜Goods are carried to the sections by “Logistics.” And don't forget “Cleaning” to keep the store tidy.
+160｜売り場の在庫がありません（🚚物流から届くのを待っています）｜No stock in the section (waiting for 🚚 logistics)
+161｜売り場は全店で在庫を分け合っています。生産量（直売品）が売る速さに追いついていないので、売り場の人数を減らすか、生産を増やすと解消します。｜All stores share section stock. Production (direct-sale items) can't keep up with sales, so reduce section staff or produce more.
+162｜売却ルールに当てはまる会社はありません｜No companies match your selling rules
+163｜大雨で畑に水がたまりはじめています。｜Heavy rain is starting to flood the fields.
+164｜天然水工場っス〜…採水地の水をボトルに詰めるっス〜…｜This is the Water Plant~… We bottle water from the water source~…
+165｜実った果実は、そのまま売っても、ジュース工場などの材料にしてもよろしくてよ。｜You may sell the ripe fruit as is, or use it as ingredients for the Juice Factory and such.
+166｜害虫が出たときにも役に立つっス〜…あつかいは…慎重にっス〜…｜Comes in handy when pests show up~… Handle it… carefully~…
+167｜山の木を切り出して木材にします。｜Cut trees on the mountain and turn them into lumber.
+168｜山を切り拓き、まとまった量の木材を得ます。｜Clear the mountain and get a large amount of lumber.
+169｜岩山から石を切り出して石材にします。｜Quarry rock from the mountain and turn it into stone.
+170｜工場のページは、ショップの「🏗 増設」から増やせるっス〜…｜You can add factory pages from “🏗 Expand” in the Store~…
+171｜工場は「🏭 工場」タブで動かせます。増設すると作れる製品のレパートリーが増えます。｜Run factories from the “🏭 Factories” tab. Expanding adds more products you can make.
+172｜工場を建てると、🧃ジュース工場から始められます。｜Build a factory to start with the 🧃Juice Factory.
+173｜工芸品工房ですわ。ガラス・粘土焼成品・植物繊維材から、工芸品を作りますの。｜This is the Craft Workshop. We make crafts from glass, fired clay and plant fiber.
+174｜左の列の一番上の「🏠 ホーム」では、牧場の様子と、いま使える持ち場のカードが見られます。カードを押すと、その持ち場へすぐ行けますよ。｜“🏠 Home” at the top of the left column shows how the farm is doing, plus cards for the workplaces you can use. Tap a card to go straight there.
+175｜店員を増やすほど、たくさんのお客さまをおもてなしできますわ。席はレベルが上がると増えますのよ。｜The more clerks we have, the more guests we can serve. Seats increase as you level up.
+176｜引き継ぎコードの中身が壊れているようです。コード全体がもれなく貼り付けられているか確かめてください。｜The transfer code seems to be broken. Check that the whole code was pasted.
+177｜手動でセーブもできますが、{1}分に一度オートセーブもしていますので、安心して遊べます。｜You can save by hand, but the game also autosaves every {1} minute, so you can play worry-free.
+178｜投資先（独立した人の事業）がありません｜No investments (businesses of people who went independent)
+179｜持ち場が開いたり、条件がそろったりすると、ここに増設できるものが並びます。｜Things you can expand appear here as workplaces open and conditions are met.
+180｜持ち場：｜Workplace:
+181｜採水地の水をボトルに詰めます。温泉源泉が湧くと温泉水も作れます。｜Bottles water from the water source. Once a hot spring appears, it can make hot spring water too.
+182｜摘んだ茶葉は、お茶工場で緑茶や紅茶になりますのよ。｜The picked leaves become green tea and black tea at the Tea Factory.
+183｜最初に使えるのは「🌾 耕種」と「🏢 事務所」です。右上の「⚙️」が設定です。ゲームが始まったら、まずは「耕種」を押してみてくださいね。｜At first you can use “🌾 Crops” and “🏢 Office.” The “⚙️” at the top right is Settings. Once the game starts, try tapping “Crops” first.
+184｜本当に最初からやり直しますか？｜Are you sure you want to start over?
+185｜材料がそろっていないと作れませんわ。資材の持ち場もきちんと回してくださいまし。｜We can't make anything without the materials. Do keep the materials workplaces running properly.
+186｜材料が足りないか、ブロックが埋まって納品待ちになっています｜Either ingredients are short, or blocks are full and waiting for delivery
+187｜材料が足りません（買い付けはオフです）｜Not enough ingredients (buying is off)
+188｜材料の羊毛は酪農の羊から。足りなければ、ひなたさんにお願いなさいな。｜The wool comes from the dairy's sheep. If you're short, ask Hinata.
+189｜材料は酪農の豚から届くよ！ がんばろうね！｜The ingredients come from the dairy's pigs! Let's do our best!
+190｜果実は傷ひとつで値が落ちますの。丁寧に扱ってくださいまし。｜A single bruise lowers the price of fruit. Do handle it with care.
+191｜果樹の増設は🍒果樹園のページへ｜Add fruit trees on the 🍒Orchard page
+192｜果樹園{1}P目｜Orchard page {1}
+193｜果樹園ですわ。さくらんぼ・桃・ぶどう・りんごを育てますの。｜This is the orchard. We grow cherries, peaches, grapes and apples here.
+194｜果樹園の在庫（果実・ジュース・酒）｜Orchard stock (fruit, juice, liquor)
+195｜森の採水地で湧き水を汲み、ろ過して天然水にします。（{1}-{2}-{3} 追加）｜Draw spring water at the forest water source and filter it into bottled water.
+196｜植物から繊維を取り出して、資材にします。工芸品工房などで使われますよ。｜We pull fiber from plants and turn it into materials. It's used in places like the Craft Workshop.
+197｜横画面版のデータで上書きする前の、本番のデータに戻します。｜Restores the main data from before it was overwritten by the landscape version.
+198｜横画面版のデータを本番に同期しました。これからは縦でも横でも、同じデータで遊べますよ｜Your landscape data is now synced with the main game. From now on you can play with the same data in portrait or landscape.
+199｜機械はすべてのページに入っています。｜Every page has machines.
+200｜次のレースまで少し待ちましょう｜Wait a little until the next race
+201｜止めた小屋では、調教者が一括調教をしなくなります（「🏋 一括で調教」ボタンも、止めた小屋はとばします）。いま調教中の馬は最後まで調教します。｜In stopped stables, trainers stop bulk training (the “🏋 Train all” button skips them too). Horses already training will finish.
+202｜止めると導入費は戻りません。もう一度使うときは導入費がかかります。｜If you stop it, the setup fee isn't refunded. Using it again costs the setup fee again.
+203｜治療しないと{1}分で死んでしまいます。養鶏・酪農のページで「治療」を｜Without treatment, they'll die in {1} min. Use “Treat” on the Poultry or Dairy page
+204｜派遣で手伝える育ち中の家畜がいません｜No growing animals for dispatch workers to help with
+205｜派遣で手伝える運搬中のブロックがありません｜No blocks in transit for dispatch workers to help with
+206｜温泉旅館ですわ。湧いた温泉で、お客さまにお泊まりいただきますの。｜This is the hot spring inn. Guests stay with us and enjoy the springs.
+207｜温泉水も作れるっス〜…温泉…入りたいっス〜…｜We can make hot spring water too~… A hot spring… sounds nice right about now~…
+208｜温泉源泉の湯で、お客さまに泊まってもらいます。｜Guests stay and enjoy the hot spring water.
+209｜温泉源泉の湯につかって泊まれる旅館です。お客さま{1}人につき温泉の水を{2}使います。｜An inn where guests stay and soak in the hot spring. Each guest uses {2} hot spring water.
+210｜焼き加減で出来が変わるっス〜…建築や工芸品の材料になるっス〜…窯の前は…あったかいっス〜…｜How long you bake it changes how it turns out~… It's used for construction and crafts~… It's warm… in front of the kiln~…
+211｜照りつける日差しで畑が乾ききっています。｜The blazing sun has dried out the fields.
+212｜牛乳や卵からチーズ・プリン・アイスを作ります。｜Makes cheese, pudding and ice cream from milk and eggs.
+213｜物流の人手ではなく、運ぶ直売品（生産量）が足りていません。前のページが先に棚の品を積むので、後ろのページほど止まりやすくなります。｜It's not a lack of logistics staff — there aren't enough direct-sale items (production) to carry. Earlier pages load goods first, so later pages stall more often.
+214｜珪砂を集めて溶かし、板ガラスに仕上げます。｜Collect silica sand and melt it into sheet glass.
+215｜生糸は繊維工場の材料になりますわ。絹の艶は、丁寧なお世話あってこそですのよ。｜Raw silk goes to the Textile Mill. The sheen of silk comes only from careful tending.
+216｜用水路が干上がり、田んぼの水が足りません。｜The irrigation channel has dried up, and the paddies are short of water.
+217｜田んぼ{1}P目｜Rice paddy page {1}
+218｜田んぼ{1}P目・🏠ハウス{2}棟目・🍒果樹園{3}P目）｜Rice paddy page {1} · 🏠Greenhouse {2} · 🍒Orchard page {3})
+219｜田んぼが開きましたね。ここではお米を育てます。｜The rice paddies are open. This is where we grow rice.
+220｜画面の並びも新しくなりました。左上の「🏠 ホーム」から、いろいろな持ち場へ行けますよ。｜The screen layout is new, too. You can get to all kinds of workplaces from “🏠 Home” at the top left.
+221｜画面の大きさも調整できます。お好みの見やすさで遊んでくださいね。｜You can adjust the screen size too. Play at whatever size suits you.
+222｜畑{1}P目・🍚田んぼ{2}P目・🏠ハウス{3}棟目・🍒果樹園{4}P目）｜Field page {1} · 🍚Rice paddy page {2} · 🏠Greenhouse {3} · 🍒Orchard page {4})
+223｜畑{1}P目・🏠ハウス{2}棟目・🍒果樹園{3}P目）｜Field page {1} · 🏠Greenhouse {2} · 🍒Orchard page {3})
+224｜畑とビニールハウスの収穫可能な作物｜Harvestable crops in fields and vinyl greenhouses
+225｜畑を増やすときは「🛒 ショップ」の「🏗 増設」からどうぞ。新しく増やせるものがあると❗が付きます。畑が増えるほど、たくさん収穫できますよ。｜To add fields, go to “🏗 Expand” in the “🛒 Store.” A ❗ appears when there's something new to add. More fields mean bigger harvests!
+226｜畑・ハウス・果樹園の作物を運びます。｜Carries crops from fields, greenhouses and the orchard.
+227｜発注に間に合わず販売が止まっています｜Sales are stopped because an order was missed
+228｜種と肥料の種類は、上の欄から選べます。作物ごとに値段や育つまでの時間がちがいますので、見比べてみてくださいね。｜Pick seeds and fertilizer from the boxes at the top. Each crop has its own price and growing time, so take a look and compare.
+229｜種と肥料は在庫から使います。はじめは小麦の種が{1}袋と肥料が{2}袋ありますので、足りなくなったら左のメニューの「🛒 ショップ」で買い足してくださいね。｜Seeds and fertilizer come from your stock. You start with {1} bags of wheat seeds and {2} bags of fertilizer. When you run low, buy more at “🛒 Store” in the left menu.
+230｜種をまくときは緑のボタン、肥料をまくときは青のボタン。育ったら畑をタップして収穫しましょう。｜The green button sows seeds, and the blue button spreads fertilizer. When crops are grown, tap the field to harvest.
+231｜粘土を掘って形を作り、窯で焼いてレンガや瓦にします。｜Dig clay, shape it, and fire it in a kiln into bricks and tiles.
+232｜粘土焼成品の持ち場っス〜…粘土を焼いて、レンガとかを作るっス〜…｜This is the fired clay workplace~… We bake clay into bricks and stuff~…
+233｜精肉工場だよ！ 豚のお肉から、ベーコン・ハム・ソーセージを作るんだ！｜This is the Meat Plant! We make bacon, ham and sausages from pork!
+234｜繊維原料に回すのをやめました。｜Stopped sending crops to fiber.
+235｜繊維工場ですわ。羊毛から、毛糸・マフラー・コートを作りますの。｜This is the Textile Mill. We make yarn, scarves and coats from wool.
+236｜繊維工場の毛糸や服を運びます。｜Carries yarn and clothes from the Textile Mill.
+237｜羊の羊毛から毛糸・マフラー・コートを作ります。｜Makes yarn, scarves and coats from sheep's wool.
+238｜群は、「🛒 ショップ」の「🏗 増設」から増やせるよ！｜You can add colonies from “🏗 Expand” in the “🛒 Store”!
+239｜肥料の種類を変更しました。｜Fertilizer type changed.
+240｜肥料をまける作業中のブロックがありません｜No blocks in progress can be fertilized
+241｜肥料を使うと早く育ちますよ。棟数は、「🛒 ショップ」の「🏗 増設」から増やせます。｜Fertilizer makes things grow faster. You can add more greenhouses from “🏗 Expand” in the “🛒 Store.”
+242｜育っている区画の残り時間を{1}%短くします。{2}袋で{3}区画（{4}マス分のまき方は{5}袋）。｜Cuts the remaining time of growing plots by {1}%. {2} bag per {3} plot ({5} bags when spreading over {4} plots).
+243｜良いお酒は、良い材料から。手を抜いたら承知しませんわよ。｜Good drink comes from good ingredients. No cutting corners, you hear?
+244｜花卉{1}P目｜Flowers page {1}
+245｜苗木を植えて、次に切り出せる木を増やします。｜Plant saplings so there are more trees to cut next time.
+246｜茶畑ですわ。茶葉を摘んで仕上げますの。｜This is the tea field. We pick the leaves and finish them here.
+247｜茶畑で茶葉を摘み、蒸して仕上げます。お茶工場の材料になります。｜Pick tea leaves in the tea field and steam them. They're used by the Tea Factory.
+248｜茶畑の茶葉から緑茶・ほうじ茶・紅茶・抹茶を作ります。｜Makes green tea, hojicha, black tea and matcha from tea field leaves.
+249｜茶葉の質がそのまま味に出ますわ。茶畑もきちんと手入れなさってね。｜The quality of the leaves shows right in the taste. Do look after the tea field properly.
+250｜荒れ地を切り拓き、出てきた木をまとめて木材にします。｜Clear wasteland and turn the trees you find into lumber.
+251｜薬品工場っス〜…農薬・化学肥料・除草剤を作るっス〜…｜This is the Chemical Plant~… We make pesticide, chemical fertilizer and herbicide~…
+252｜薬品工場の農薬などを運びます。｜Carries pesticide and more from the Chemical Plant.
+253｜読み込むと画面を読み込み直します。｜The page will reload after loading.
+254｜調教・治療・乗馬体験できる馬がいません（厩舎に移したなど）｜No horses can train, be treated or give rides (moved to another stable, etc.)
+255｜豚の肉からベーコン・ハム・ソーセージを作ります。｜Makes bacon, ham and sausages from pork.
+256｜資材で建物を建てて引き渡します。木材・石材・鉄鋼材・ガラス・粘土焼成品の建物があります。｜Put up buildings with materials and hand them over. There are lumber, stone, steel, glass and fired clay buildings.
+257｜資金が尽きたところまで採用します。｜Hiring continues until the money runs out.
+258｜資金が足りなくなったら、そこまでで止めます。｜Stops when the money runs out.
+259｜農作業の経験は少しだけあります。｜Has a little farm work experience.
+260｜農園を設立すると🍒果樹園が開きます。｜Establishing the farm opens the 🍒Orchard.
+261｜農業・畜産・清掃の持ち場がすべて定員です。🏢事務所の総務から区画を増やすと、置ける人数が増えます。｜All farming, livestock and cleaning workplaces are full. Add plots from General Affairs in the 🏢Office to make room for more people.
+262｜運ぶ直売品がありません（棚が空です）｜No direct-sale items to carry (shelves are empty)
+263｜配置後は「📍 仕事を決める」から細かい指示を変えられます。｜After assigning, adjust their tasks with “📍 Set jobs.”
+264｜酒造工場ですわ。果実・小麦・米から、果実酒・ビール・焼酎を造りますの。｜This is the Brewery. We make fruit wine, beer and shochu from fruit, wheat and rice.
+265｜酪農だよ！ 牛・羊・豚を育てて、ミルクなんかを出荷するの！｜This is the dairy! We raise cows, sheep and pigs and ship milk and stuff!
+266｜重いっス〜…でも、建築には欠かせないっス〜…｜It's heavy~… but you can't build without it~…
+267｜鉄鉱石を掘り、製錬・圧延して鉄鋼材にします。｜Mine iron ore, then smelt and roll it into steel.
+268｜鉄鋼材の持ち場っス〜…鉄を加工して、建築用の鉄鋼材を作るっス〜…｜This is the steel workplace~… We process iron into steel for construction~…
+269｜雑草が広がって稲の育ちが悪くなっています。｜Weeds are spreading and slowing the rice.
+270｜飲料工場のジュースや酒を運びます。｜Carries juice and liquor from the Juice Factory.
+271｜飲食店ですわ。この牧場の野菜や卵、ミルクで作ったお料理をお出ししますの。｜This is the restaurant. We serve dishes made with this farm's vegetables, eggs and milk.
+272｜飼料をあげると早く育つよ！ 特製飼料と高級飼料があるんだ！｜Feed makes them grow faster! There's special feed and luxury feed!
+273｜養蚕ですわ。蚕を育てて、繭から生糸をとりますの。｜This is sericulture. We raise silkworms and take raw silk from their cocoons.
+274｜養蜂だよ！ ミツバチを育てて、はちみつを採るの！｜This is beekeeping! We raise honeybees and collect honey!
+275｜養鶏だよ！ 鶏を育てて、卵を出荷するんだ！｜This is poultry! We raise chickens and ship their eggs!
+276｜鶏小屋は、「🛒 ショップ」の「🏗 増設」から増やせるからね！｜You can add chicken coops from “🏗 Expand” in the “🛒 Store”!
+277｜（いまの進行は上書きされます）｜(Your current progress will be overwritten)
+278｜（ここはガラス温室。季節ごとに植えられる花が変わるらしい）｜(This is the glass greenhouse. The flowers you can plant seem to change with the season.)
+279｜（ここは採水地。森の湧き水を汲んで、天然水にするらしい）｜(This is the water source. Spring water from the forest seems to become bottled water.)
+280｜（作業は「汲み上げ」「ろ過」「名水の採取」。レベルが上がるとできることが増えるらしい）｜(The jobs seem to be “pumping,” “filtering” and “collecting famous water.” More becomes possible as you level up.)
+281｜（収穫した豚は小屋からいなくなりました）｜(The collected pigs have left the barn)
+282｜（名前は「しずく」というらしい）｜(Her name seems to be “Shizuku.”)
+283｜（肥料をまくと早く咲くらしい）｜(Fertilizer seems to make them bloom faster.)
+284｜（豚は出荷され、小屋からいなくなりました）｜(The pigs were shipped and have left the barn)
+285｜（🌹バラだけは一年中育てられるらしい）｜(Only 🌹roses seem to grow all year.)
+286｜（🎒在庫の種／足りない分は買い足し）｜(🎒Seeds from stock / the rest bought)
+287｜＋ {1}P増設｜+ Add {1} page
+288｜🌾 作物（畑・ハウス・田んぼ）の収穫の一部を繊維原料として受け取り、加工します。｜🌾 Receives part of your crop harvest (fields, greenhouses, paddies) as fiber and processes it.
+289｜🌾繊維原料が足りません（作物から回す割合を確認してください）｜🌾 Not enough fiber (check the share sent from crops)
+290｜🍶 果実酒は新しい「酒造工場」で造るようになりました。（酒造工場はそのまま使えます）｜🍶 Fruit wine is now made at the new “Brewery.” (The Brewery can be used as is)
+291｜🎌 全国制覇！海外進出が解放されました｜🎌 Nationwide! Overseas expansion unlocked
+292｜🎌 全国制覇！🌏海外進出が解放されています｜🎌 Nationwide! 🌏Overseas expansion is unlocked
+293｜🎬 レースのムービーが流れます｜🎬 The race movie will play
+294｜🏁 レース参加用厩舎に馬を入れてから出走させましょう｜🏁 Put a horse in the racing stable before entering a race
+295｜🏋 調教が終わってから売りましょう｜🏋 Sell after training is finished
+296｜🏗 いま増やせる区画はありません｜🏗 No plots can be added right now
+297｜🏗 区画をまとめて増設しますか？｜🏗 Expand plots all at once?
+298｜🏗 建築が解放されています！（🏭事業所 → 🏗建築）｜🏗 Construction is unlocked! (🏭Factories → 🏗Construction)
+299｜🏗 建築は、🪵資材で木材の仕事を始めると使えるようになります。｜🏗 Construction becomes available once you start lumber work in 🪵Materials.
+300｜🏗 木材を使って建物を建て、引き渡すと大きな収入になります。木材は🪵資材で作り、木材担当の労働者が空き枠での着工・引き渡しもこなします。｜🏗 Build with lumber and hand buildings over for big income. Lumber comes from 🪵Materials, and lumber workers also start and hand over buildings in open slots.
+
+（301〜356行目）
+
+301｜🏠ハウス{1}棟目｜🏠Greenhouse {1}
+302｜🏠ハウス{1}棟目の{2}ブロック／寿命あと {3}年｜🏠Greenhouse {1}, block {2} / {3} years of life left
+303｜🏠ハウス{1}棟目の機械に一括自動収穫の機能を追加します。 /  / ・収穫できるようになったものを自動でまとめて収穫・出荷します。 / ・出荷先は「🏪 オート出荷」や牧場の方針にしたがいます。 /  / 費用: ¥{2}（機械{3}台につき）｜Add auto harvest (all) to the machines in 🏠Greenhouse {1}. /  / · Anything ready is harvested and shipped automatically in bulk. / · Destinations follow “🏪 Auto shipping” and your farm policy. /  / Cost: ¥{2} (per {3} machine)
+304｜🏡 農園設立おめでとうございます！｜🏡 Congratulations on establishing your farm!
+305｜🏡 農園設立で解放（ここを押すか、🌾畑のページで設立）｜🏡 Unlocks when you establish the farm (tap here, or establish it on the 🌾Field page)
+306｜🏢 事務所ではたらく係の一覧です。任命・解任は各係のページからも行えます。｜🏢 Staff working in the Office. You can also appoint or remove them from each role's page.
+307｜🏪 作物の小売販売オートを解除しました。｜🏪 Turned off auto retail for crops.
+308｜🏪 小売販売できるものがまだありません｜🏪 Nothing to sell at retail yet
+309｜🏪 工場の納品先オートを解除しました。｜🏪 Turned off auto delivery destinations for the factories.
+310｜🏭 卵・畜産物は今まで通り販売します。｜🏭 Eggs and livestock products will be sold as before.
+311｜🏭 卵・畜産物を工場の材料に回すようにしました。（売らずに在庫へ入ります）｜🏭 Eggs and livestock products now go to the factories. (They go to stock instead of being sold)
+312｜🏭 工場のページをまとめて増設｜🏭 Add factory pages all at once
+313｜🐎 いまは移せません（調教中・風邪・対応待ち・出払い中）｜🐎 Can't move it now (training, sick, awaiting action, or out)
+314｜🐛 蚕のいる区画がありません（🛒ショップで買えます）｜🐛 No plots with silkworms (buy them at the 🛒Store)
+315｜🐛養蚕の区画（ブロック）に{1}箱ずつ入ります。蚕がいる区画で、桑の葉やり・繭の収穫などの作業ができます。｜{1} box goes into each 🐛sericulture plot (block). Plots with silkworms can be fed mulberry leaves, harvested for cocoons and more.
+316｜🐝 みつばちのいる巣箱がありません（🛒ショップで買えます）｜🐝 No beehives with bees (buy them at the 🛒Store)
+317｜🐝養蜂の巣箱（ブロック）に{1}群ずつ入ります。みつばちがいる巣箱で、見回り・採蜜などの作業ができます。｜{1} colony goes into each 🐝beehive (block). Hives with bees can be checked, harvested for honey and more.
+318｜🐴 いまは乗馬体験を開けません｜🐴 Can't host a riding experience right now
+319｜🐴 乗馬体験から戻ってから売りましょう｜🐴 Sell after it's back from the riding experience
+320｜🐴 乗馬体験から戻るまで待ちましょう｜🐴 Wait until it's back from the riding experience
+321｜🐾 寿命を迎えた家畜がいなくなりました｜🐾 Animals that reached the end of their lives are gone
+322｜🐾 寿命を迎えた家畜がいなくなりました。｜🐾 Animals that reached the end of their lives are gone.
+323｜👔 投資担当を置けるようにしました。「👷 担当を雇う」か、人事から配置してください。｜👔 You can now assign investment staff. Use “👷 Hire staff” or assign someone from HR.
+324｜👔従業員がいないためゲージが進みません｜The gauge isn't moving because there are no 👔employees
+325｜👔従業員は事務所の係（🧮事務・🧑‍💼人事・💼営業）に昇進できます。｜👔Employees can be promoted to Office roles (🧮Clerical · 🧑‍💼HR · 💼Sales).
+326｜👥 すべての持ち場を最大人数まで増やしますか？｜👥 Fill every workplace to the maximum?
+327｜💉 治療が必要な個体はいません｜💉 No animals need treatment
+328｜💉 治療のしかたを選んでください｜💉 Choose how to treat them
+329｜💉 風邪をひいている個体をタップして治療してください｜💉 Tap animals with a cold to treat them
+330｜💡 受け取る金額は、収穫した羽数・販売先（倍率・郵送料）・直売の棚へ回る数・金の卵で変わります。記録にくわしく出ます。｜💡 What you earn depends on how many birds you collect from, the outlet (multiplier, shipping), how many go to direct-sale shelves, and golden eggs. The log shows the details.
+331｜💰 納税 {1}円！（従業員のおかげ）｜💰 Taxes: ¥{1}! (thanks to your staff)
+332｜💰 資金が足りません（または持ち場に空きがありません）｜💰 Not enough money (or no open workplaces)
+333｜💴 工場の材料が足りないときは買い付けます。｜💴 Factory ingredients will be bought when short.
+334｜💸 やりくりが苦しくなっています｜💸 Money is getting tight
+335｜📈 途中で辞めずに契約期間を働き切ると👔従業員に昇格します。｜📈 Those who finish their contract without quitting are promoted to 👔employees.
+336｜📉 売却候補をまとめて売りますか？｜📉 Sell all the candidates?
+337｜📋 依頼イベントが発生しました｜📋 A request event has occurred
+338｜📍 持ち場が決まっていない人です。「仕事を決める」から配置してください。｜📍 People without a workplace. Assign them with “Set jobs.”
+339｜📍 空いている持ち場がありません｜📍 No open workplaces
+340｜📥 このデータを読み込みますか？｜📥 Load this data?
+341｜📥 読み込みました。再開します…｜📥 Loaded. Resuming…
+342｜📱 別の画面で牧場が開かれています｜📱 The farm is open on another screen
+343｜🔒 まだ商業施設は建てられません｜🔒 You can't build shops yet
+344｜🙅 乗馬体験の依頼を断りました。｜🙅 Declined the riding request.
+345｜🚫 工場の材料の買い付けを止めました。手持ちの材料だけで作ります。｜🚫 Stopped buying factory ingredients. Only what's on hand will be used.
+346｜🛌 蹄を痛めた馬を休ませました。｜🛌 Let the horse with a sore hoof rest.
+347｜🤒 風邪の治療と乗馬体験は、止めても続けます（風邪を放置すると馬がいなくなるため）。｜🤒 Cold treatment and riding experiences continue even when stopped (a neglected cold means losing the horse).
+348｜🤖 先に係の人を外してください｜🤖 Remove the staff member first
+349｜🤖 投資AIの維持費が払えないため、投資AIを止めました。｜🤖 Couldn't pay the investment AI's upkeep, so it was stopped.
+350｜🧑‍💼 任命できる人がいません｜🧑‍💼 No one can be appointed
+351｜🧑‍💼 安く雇える人を優先します｜🧑‍💼 Cheaper hires will be preferred
+352｜🧮事務は👔従業員が担当します。｜🧮Clerical work is done by 👔employees.
+353｜🧮事務は👔従業員が担当します。まず従業員を雇ってください。｜🧮Clerical work is done by 👔employees. Hire an employee first.
+354｜🧹 ホームセンター（🏬商業施設）を開くと、清掃の仕事ができます。｜🧹 Cleaning work becomes available once you open the Home Center (🏬Shops).
+355｜🪓伐採から始めて、🌲植林・⛰山開拓と広げ、最後は🏗建築業まで発展します。｜Begin with 🪓felling, expand into 🌲tree planting and ⛰mountain clearing, and grow all the way to 🏗construction.
+356｜🪵資材の仕事（伐採）を始めると開けます。｜Opens once you start 🪵materials work (felling).
