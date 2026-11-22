@@ -1,0 +1,164 @@
+以下は、のんびりした牧場経営ゲーム「のんびり牧場」の日本語→英語の対訳です。
+英語として不自然な表現・誤訳・意味のずれがある行だけ、番号と直した英語を書いてください。問題のない行は書かなくてかまいません。
+
+決まりごと：
+・{1} {2} などの記号は数字が入る場所です。そのまま残してください（順番は入れかえてよい）
+・絵文字・¥・Lv. もそのまま残してください
+・画面がせまいので、短く分かりやすい英語にしてください
+・キャラの名前（Minori, Kohaku, Hinata, Akari, Tsubaki, Shizuku）は変えないでください
+
+返事の形：
+番号｜直した英語｜理由（ひとこと）
+
+（751〜900行目）
+
+751｜解雇する｜Dismiss
+752｜設立する｜Establish
+753｜評価額が高い順｜Highest valuation
+754｜誕生日：冬の上旬（{1}〜{2}日）｜Birthday: early Winter (days {1}–{2})
+755｜誕生日：冬の下旬（{1}〜{2}日）｜Birthday: late Winter (days {1}–{2})
+756｜誕生日：冬の中旬（{1}〜{2}日）｜Birthday: mid Winter (days {1}–{2})
+757｜誕生日：夏の上旬（{1}〜{2}日）｜Birthday: early Summer (days {1}–{2})
+758｜誕生日：夏の下旬（{1}〜{2}日）｜Birthday: late Summer (days {1}–{2})
+759｜誕生日：夏の中旬（{1}〜{2}日）｜Birthday: mid Summer (days {1}–{2})
+760｜誕生日：春の上旬（{1}〜{2}日）｜Birthday: early Spring (days {1}–{2})
+761｜誕生日：春の下旬（{1}〜{2}日）｜Birthday: late Spring (days {1}–{2})
+762｜誕生日：春の中旬（{1}〜{2}日）｜Birthday: mid Spring (days {1}–{2})
+763｜誕生日：秋の上旬（{1}〜{2}日）｜Birthday: early Autumn (days {1}–{2})
+764｜誕生日：秋の下旬（{1}〜{2}日）｜Birthday: late Autumn (days {1}–{2})
+765｜誕生日：秋の中旬（{1}〜{2}日）｜Birthday: mid Autumn (days {1}–{2})
+766｜読み込む｜Load
+767｜豚小屋｜Pig barn
+768｜販売先を選ぶと、工場でできあがった製品を高い価格でまとめて出荷できます。（販売可能: {1}個）｜Choose an outlet to ship finished factory products in bulk at a higher price. (Available: {1})
+769｜販売先を選ぶと、田んぼの収穫できる区画を高い価格でまとめて出荷できます。（販売可能: {1}区画 ／ {2}個）｜Choose an outlet to ship harvestable rice paddy plots in bulk at a higher price. (Available: {1} plots / {2})
+770｜販売先を選ぶと、畑とビニールハウスの収穫可能な作物を高い価格でまとめて出荷できます。（販売可能: {1}区画 ／ {2}個）｜Choose an outlet to ship harvestable crops from fields and vinyl greenhouses in bulk at a higher price. (Available: {1} plots / {2})
+771｜販売先を選ぶと、畜舎の収穫可能な畜産物を高い価格でまとめて出荷できます。（販売可能: {1}匹分）｜Choose an outlet to ship collectable livestock products in bulk at a higher price. (Available: from {1} animals)
+772｜販売先を選ぶと、資材（木材）の在庫を高い価格でまとめて出荷できます。（販売可能: {1}個）｜Choose an outlet to ship your materials (lumber) stock in bulk at a higher price. (Available: {1})
+773｜販売先を選ぶと、鶏小屋の収穫可能な卵を高い価格でまとめて出荷できます。（販売可能: {1}個）｜Choose an outlet to ship collectable eggs from the coops in bulk at a higher price. (Available: {1})
+774｜買う｜Buy
+775｜買取価格 {1}倍｜Buying price ×{1}
+776｜資材で🐛養蚕の部門を開くと買えます｜Available once you open 🐛Sericulture in Materials
+777｜資材で🐝養蜂の部門を開くと買えます｜Available once you open 🐝Beekeeping in Materials
+778｜資材の仕事を始めました｜Materials work started
+779｜資材の仕事を始めました！まずは🪓伐採からです。（¥{1}）｜Materials work started! First up: 🪓felling. (¥{1})
+780｜資材の仕事を始めますか？｜Start materials work?
+781｜資材の仕事を始める｜Start materials work
+782｜農協 で販売 ({1}倍)｜Sell at the Farm co-op (×{1})
+783｜返事待ち（確認カードで参加するか選べます）｜Awaiting reply (choose whether to join on the card)
+784｜通算損益が多い順｜Highest total profit
+785｜道の駅 で販売 ({1}倍)｜Sell at the Roadside station (×{1})
+786｜達成済み｜Done
+787｜選択をやめる｜Cancel selection
+788｜郵送料 ¥{1}/回｜Shipping ¥{1} each
+789｜都市部商業施設での販売｜City mall sales
+790｜都市部商業施設での販売 で販売 ({1}倍)｜Sell at city malls (×{1})
+791｜酒造工場で作るもの｜Made at the Brewery
+792｜酒造工場に増築｜Add to Brewery
+793｜野の花｜Wildflowers
+794｜開く｜Open
+795｜青果売り場で販売｜Sell in the produce section
+796｜食べ物｜Food
+797｜飲料工場のジュース・酒｜Juice and liquor from the drink factory
+798｜飼う｜Raise
+799｜養鶏で鶏小屋を建てると買えます｜Available once you build a chicken coop in Poultry
+800｜馬を{1}頭購入しました「テンクウ{2}」。（¥{3}）｜Bought {1} horse(s): “Tenku {2}”. (¥{3})
+801｜高品質肥料(5マス分)｜Premium fertilizer (5 plots)
+802｜高品質肥料の在庫がありません。🛒ショップで買いましょう｜No premium fertilizer in stock. Buy some at the 🛒Store.
+803｜鶏小屋{1}を建設しました！（¥{2}）｜Chicken coop {1} built! (¥{2})
+804｜鶏小屋がまだありません。下の「小屋作成」ボタンで建てましょう。｜No chicken coop yet. Build one with the “Build coop” button below.
+805｜鶏小屋を建設しました｜Chicken coop built
+806｜鶏小屋を建設しますか？｜Build a chicken coop?
+807｜（売値 ¥{1}）｜(price ¥{1})
+808｜（達成で ♥+{1}）｜(♥+{1} when done)
+809｜（🌾畑{1}P目・🍒果樹園{2}P目・🧃ジュース工場 {3}P目）｜(🌾Field page {1} · 🍒Orchard page {2} · 🧃Juice Factory page {3})
+810｜（🌾畑{1}P目・🍒果樹園{2}P目・🪵木材{3}P目・🪵木材{4}P目 ほか）｜(🌾Field page {1} · 🍒Orchard page {2} · 🪵Lumber page {3} · 🪵Lumber page {4} and more)
+811｜（🧃ジュース工場 {1}P目）｜(🧃Juice Factory page {1})
+812｜＋ {1}P増設（¥{2}）｜+ Add {1} page (¥{2})
+813｜＋ {1}P増設（全工場）｜+ Add {1} page (all factories)
+814｜🌟 最終回｜🌟 Finale
+815｜🌱 決めて再開｜🌱 Choose and resume
+816｜🌷 {1}袋 買う｜🌷 Buy {1} bags
+817｜🌷花卉{1}P目の{2}ブロック／寿命あと {3}年{4}季｜🌷Flowers page {1}, block {2} / {3} years {4} seasons of life left
+818｜🌸 {1}個 買う｜🌸 Buy {1}
+819｜🌸 {1}年目 春になりました｜🌸 Year {1}: Spring has come
+820｜🌸 {1}袋 買う｜🌸 Buy {1} bags
+821｜🌸 季節のテーマ｜🌸 Seasonal themes
+822｜🌹 バラの種を{1}袋 買いました！｜🌹 Bought {1} bags of rose seeds!
+823｜🌺 ハイビスカス　🎒在庫 {1}袋 → ¥{2}×{3}本　{4}秒｜🌺 Hibiscus　🎒{1} bags → ¥{2}×{3} stems　{4}s
+824｜🌻 {1}個 買う｜🌻 Buy {1}
+825｜🌻 {1}袋 買う｜🌻 Buy {1} bags
+826｜🌻 ひまわり　🎒在庫 {1}袋 → ¥{2}×{3}本　{4}秒｜🌻 Sunflower　🎒{1} bags → ¥{2}×{3} stems　{4}s
+827｜🌼 {1}袋 買う｜🌼 Buy {1} bags
+828｜🌽 とうもろこし　🎒在庫 {1}袋 → ¥{2}（{3}個）　{4}秒｜🌽 Corn　🎒{1} bags → ¥{2} ({3})　{4}s
+829｜🌾 小麦の種を{1}袋 買いました！｜🌾 Bought {1} bags of wheat seeds!
+830｜🌾 小麦を収穫して（{1}個）¥{2} で売りました。｜🌾 Harvested wheat ({1}) and sold it for ¥{2}.
+831｜🌾 畑 {1}/{2}　🏠 ハウス {3}/{4}　🍒 果樹園 {5}/{6}　🐄 牛小屋 {7}/{8}｜🌾 Fields {1}/{2}　🏠 Greenhouses {3}/{4}　🍒 Orchard {5}/{6}　🐄 Cow barns {7}/{8}
+832｜🌾 畑 {1}/{2}　🏠 ハウス {3}/{4}　🍒 果樹園 {5}/{6}　🐔 鶏小屋 {7}/{8}｜🌾 Fields {1}/{2}　🏠 Greenhouses {3}/{4}　🍒 Orchard {5}/{6}　🐔 Coops {7}/{8}
+833｜🌾畑{1}P目の{2}ブロック／寿命あと {3}年｜🌾Field page {1}, block {2} / {3} years of life left
+834｜🌾畑{1}P目の{2}ブロック／寿命あと {3}年{4}季｜🌾Field page {1}, block {2} / {3} years {4} seasons of life left
+835｜🌾耕種の🍵茶畑を開くと増築できます｜Expand after opening 🍵Tea Field in 🌾Crops
+836｜🌾農業｜🌾Farming
+837｜🍀 ☀️夏は 🍑桃 の季節です。苗 ¥{1}／{2}区画 {3}個・約{4}秒／出荷単価 ¥{5}。｜🍀 ☀️Summer is 🍑peach season. Seedlings ¥{1} / {2} plot gives {3} · about {4}s / unit price ¥{5}.
+838｜🍁 {1}年目 秋になりました｜🍁 Year {1}: Autumn has come
+839｜🍅 {1}袋 買う｜🍅 Buy {1} bags
+840｜🍅 トマト　🎒在庫 {1}袋 → ¥{2}（{3}個）　{4}秒｜🍅 Tomato　🎒{1} bags → ¥{2} ({3})　{4}s
+841｜🍅 トマトの種を{1}袋 買いました！｜🍅 Bought {1} bags of tomato seeds!
+842｜🍒 果樹園　いま {1} / {2}区画。次の{3}区画は ¥{4}。｜🍒 Orchard　{1} / {2} plots now. Next {3}: ¥{4}.
+843｜🍒果樹園{1}P目の{2}ブロック／寿命あと {3}年｜🍒Orchard page {1}, block {2} / {3} years of life left
+844｜🍒果樹園{1}P目の{2}ブロック／寿命あと {3}年{4}季｜🍒Orchard page {1}, block {2} / {3} years {4} seasons of life left
+845｜🍙 {1}個 買う｜🍙 Buy {1}
+846｜🍚 🍚米を田んぼ{1}で収穫して（{2}個）¥{3} で売りました。｜🍚 Harvested 🍚rice in rice paddy {1} ({2}) and sold it for ¥{3}.
+847｜🍡 {1}個 買う｜🍡 Buy {1}
+848｜🍪 {1}個 買う｜🍪 Buy {1}
+849｜🍪 クッキー ×{1}｜🍪 Cookies ×{1}
+850｜🍪 クッキーを{1}個 買いました！💗から渡せます｜🍪 Bought {1} cookies! Give them from 💗
+851｜🍬 {1}個 買う｜🍬 Buy {1}
+852｜🍮 {1}個 買う｜🍮 Buy {1}
+853｜🍯 はちみつ酒×{1} 🍯はちみつ{2}個 → ¥{3}×{4} {5}秒｜🍯 Mead ×{1} 🍯Honey {2} → ¥{3}×{4} {5}s
+854｜🍯 はちみつ酒×{1}　🍯はちみつ{2}個 → ¥{3}×{4}　{5}秒｜🍯 Mead ×{1}　🍯Honey {2} → ¥{3}×{4}　{5}s
+855｜🍵 お茶工場｜🍵 Tea Factory
+856｜🍶 酒造工場｜🍶 Brewery
+857｜🍶酒造工場 {1}P目　{2}ブロック（未増築）｜🍶Brewery page {1}　{2} blocks (not expanded)
+858｜🍶酒造工場 {1}P目の{2}ブロック／寿命あと {3}年｜🍶Brewery page {1}, block {2} / {3} years of life left
+859｜🍷 果実酒×{1}　🍇果実{2}個 → ¥{3}×{4}　{5}秒｜🍷 Fruit wine ×{1}　🍇Fruit {2} → ¥{3}×{4}　{5}s
+860｜🍺 ビール×{1}　🌾小麦{2}個 → ¥{3}×{4}　{5}秒｜🍺 Beer ×{1}　🌾Wheat {2} → ¥{3}×{4}　{5}s
+861｜🍽 飲食店｜🍽 Restaurant
+862｜🎁 プレゼント：とっておき（♥ 特大）｜🎁 Gift: Treasures (♥ extra large)
+863｜🎁 プレゼント：品物（♥ 大）｜🎁 Gift: Goods (♥ large)
+864｜🎁 プレゼント：花（♥ 中）｜🎁 Gift: Flowers (♥ medium)
+865｜🎁 プレゼント：食べ物（♥ 小）｜🎁 Gift: Food (♥ small)
+866｜🎁 🍪クッキー → つばき ♥+{1}｜🎁 🍪Cookies → Tsubaki ♥+{1}
+867｜🎁 🍪クッキー → みのり 💝 ♥+{1}｜🎁 🍪Cookies → Minori 💝 ♥+{1}
+868｜🎂 いまはしずくの誕生日（夏の上旬（{1}〜{2}日））！プレゼントを渡すと ♥{3}倍｜🎂 It's Shizuku's birthday (early Summer, days {1}–{2})! Gifts give ♥×{3}
+869｜🎂 いまはみのりの誕生日（春の上旬（{1}〜{2}日））！プレゼントを渡すと ♥{3}倍｜🎂 It's Minori's birthday (early Spring, days {1}–{2})! Gifts give ♥×{3}
+870｜🎉 いまが誕生日！プレゼントの ♥ が{1}倍｜🎉 It's their birthday! Gifts give ♥×{1}
+871｜🎉 出荷イベント「🧃ジュース工場の製品×{1} 納品」を達成しました！｜🎉 Completed the shipping event “Deliver 🧃Juice Factory products ×{1}”!
+872｜🎏 かかし一式｜🎏 Scarecrow set
+873｜🎒 在庫から 🌾小麦の種を{1}区画に植えました。（のこり {2}袋）｜🎒 Planted wheat seeds from stock in {1} plots. ({2} bags left)
+874｜🎒 持ち物 {1}個・{2}個 ¥{3}｜🎒 Bag {1} · {2} × ¥{3}
+875｜🎒持ち物｜🎒Bag
+876｜🎒持ち物 {1}個｜🎒Bag: {1}
+877｜🎒持ち物 {1}個・💝みのり｜🎒Bag {1} · 💝Minori
+878｜🎬 タイトル・ムービー｜🎬 Title & movies
+879｜🏋 調教 ¥{1}｜🏋 Train ¥{1}
+880｜🏗 まとめて増設｜🏗 Expand all
+881｜🏗 まとめて増設（資金の足りる分だけ）｜🏗 Expand all (as far as funds allow)
+882｜🏗 🌾 畑 +{1}枚（¥{2}）｜🏗 🌾 Fields +{1} (¥{2})
+883｜🏚 厩舎｜🏚 Stable
+884｜🏚 🐄牛小屋 {1}棟目（¥{2}）｜🏚 🐄Cow barn no. {1} (¥{2})
+885｜🏚 🐑羊小屋 {1}棟目（¥{2}）｜🏚 🐑Sheep barn no. {1} (¥{2})
+886｜🏚 🐖豚小屋 {1}棟目（¥{2}）｜🏚 🐖Pig barn no. {1} (¥{2})
+887｜🏠 ハウス｜🏠 Greenhouse
+888｜🏠 ビニールハウス　いま {1} / {2}棟。次の{3}棟は ¥{4}。｜🏠 Vinyl greenhouses　{1} / {2} now. Next {3}: ¥{4}.
+889｜🏠ビニールハウス専用・🎒在庫 {1}袋｜🏠Vinyl greenhouse only · 🎒{1} bags in stock
+890｜🏡 農園設立（¥{1}）｜🏡 Establish the farm (¥{1})
+891｜🏪 小売販売にする｜🏪 Switch to retail
+892｜🏬 本店の青果売り場に予約 {1}点｜🏬 {1} item(s) reserved at the main store's produce section
+893｜🏭 工場を建てる｜🏭 Build a factory
+894｜🏭 工房（仕込み {1}/{2}）｜🏭 Workshop (brewing {1}/{2})
+895｜🏺 工芸品工房｜🏺 Craft Workshop
+896｜🐄 {1}頭 購入する｜🐄 Buy {1}
+897｜🐄 牛を{1}頭 迎えました！｜🐄 Welcomed {1} cow(s)!
+898｜🐄 牛小屋 {1} / {2}｜🐄 Cow barn {1} / {2}
+899｜🐄畜産｜🐄Livestock
+900｜🐎 馬を{1}頭 迎えました！｜🐎 Welcomed {1} horse(s)!

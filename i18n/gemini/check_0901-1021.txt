@@ -1,0 +1,135 @@
+以下は、のんびりした牧場経営ゲーム「のんびり牧場」の日本語→英語の対訳です。
+英語として不自然な表現・誤訳・意味のずれがある行だけ、番号と直した英語を書いてください。問題のない行は書かなくてかまいません。
+
+決まりごと：
+・{1} {2} などの記号は数字が入る場所です。そのまま残してください（順番は入れかえてよい）
+・絵文字・¥・Lv. もそのまま残してください
+・画面がせまいので、短く分かりやすい英語にしてください
+・キャラの名前（Minori, Kohaku, Hinata, Akari, Tsubaki, Shizuku）は変えないでください
+
+返事の形：
+番号｜直した英語｜理由（ひとこと）
+
+（901〜1021行目）
+
+901｜🐑 {1}頭 購入する｜🐑 Buy {1}
+902｜🐔 {1}羽 購入する｜🐔 Buy {1}
+903｜🐔 鶏小屋｜🐔 Chicken coop
+904｜🐔 鶏小屋　いま {1} / {2}棟。次の{3}棟は ¥{4}。｜🐔 Chicken coops　{1} / {2} now. Next {3}: ¥{4}.
+905｜🐖 {1}頭 購入する｜🐖 Buy {1}
+906｜🐛養蚕｜🐛Sericulture
+907｜🐝養蜂｜🐝Beekeeping
+908｜🐾 寿命が近い家畜｜🐾 Animals near the end of life
+909｜👆 {1}匹ずつ選んで治療する｜👆 Choose and treat one at a time
+910｜👘 着物×{1}　🐛生糸{2}個 → ¥{3}×{4}　{5}秒｜👘 Kimono ×{1}　🐛Raw silk {2} → ¥{3}×{4}　{5}s
+911｜💗 あかりのストーリー 第{1}話が ✉️ に届きました｜💗 Akari's story Ep. {1} arrived in ✉️
+912｜💗 こはくのストーリー 第{1}話が ✉️ に届きました｜💗 Kohaku's story Ep. {1} arrived in ✉️
+913｜💗 しずくのストーリー 第{1}話が ✉️ に届きました｜💗 Shizuku's story Ep. {1} arrived in ✉️
+914｜💗 つばきのストーリー 第{1}話が ✉️ に届きました｜💗 Tsubaki's story Ep. {1} arrived in ✉️
+915｜💗 ひなたのストーリー 第{1}話が ✉️ に届きました｜💗 Hinata's story Ep. {1} arrived in ✉️
+916｜💗 みのりのストーリー 第{1}話が ✉️ に届きました｜💗 Minori's story Ep. {1} arrived in ✉️
+917｜💧 天然水×{1} 💧天然水（採水地）{2}個 → ¥{3}×{4} {5}秒｜💧 Spring water ×{1} 💧Spring water (source) {2} → ¥{3}×{4} {5}s
+918｜💧 天然水×{1}　💧天然水（採水地）{2}個 → ¥{3}×{4}　{5}秒｜💧 Spring water ×{1}　💧Spring water (source) {2} → ¥{3}×{4}　{5}s
+919｜💧 天然水工場｜💧 Water Plant
+920｜💧 揚水ポンプ｜💧 Water pump
+921｜💧 散水セット｜💧 Sprinkler set
+922｜💧天然水工場 {1}P目　{2}ブロック（未増築）｜💧Water Plant page {1}　{2} blocks (not expanded)
+923｜💧天然水工場 {1}P目の{2}ブロック／寿命あと {3}年｜💧Water Plant page {1}, block {2} / {3} years of life left
+924｜💬 会話のテーマ｜💬 Conversation themes
+925｜📋 このまま様子を見る｜📋 Wait and see
+926｜📋 依頼 {1}件（達成 {2}件）｜📋 {1} requests ({2} done)
+927｜📖 つばきのストーリー 第{1}話｜📖 Tsubaki's story, Ep. {1}
+928｜📖 みのりのストーリー 第{1}話｜📖 Minori's story, Ep. {1}
+929｜📖 第{1}話まで あと ♥{2}｜📖 ♥{2} to Ep. {1}
+930｜📝 🏬 本店の青果売り場に予約 {1}点｜📝 🏬 {1} item(s) reserved at the main store's produce section
+931｜📦 出荷イベント「🥒きゅうり×{1} 出荷」への参加を見送りました。｜📦 Passed on the shipping event “Ship 🥒Cucumber ×{1}”.
+932｜📦 出荷イベント「🥔じゃがいも×{1} 出荷」に参加しました！｜📦 Joined the shipping event “Ship 🥔Potato ×{1}”!
+933｜📦 出荷イベント「🥔じゃがいも×{1}＋🥬キャベツ×{2} 出荷」への参加を見送りました。｜📦 Passed on the shipping event “Ship 🥔Potato ×{1} + 🥬Cabbage ×{2}”.
+934｜📦 出荷イベント「🥬キャベツ×{1} 出荷」への参加を見送りました。｜📦 Passed on the shipping event “Ship 🥬Cabbage ×{1}”.
+935｜📦 出荷イベント「🧃ジュース工場の製品×{1} 納品」への参加を見送りました。｜📦 Passed on the shipping event “Deliver 🧃Juice Factory products ×{1}”.
+936｜📦 出荷イベント「🧅かぶ×{1} 出荷」に参加しました！｜📦 Joined the shipping event “Ship 🧅Turnip ×{1}”!
+937｜📦 🥔じゃがいも×{1} 出荷｜📦 Ship 🥔Potato ×{1}
+938｜📦 🧅かぶ×{1} 出荷｜📦 Ship 🧅Turnip ×{1}
+939｜🔒 Lv.{1}で解放（いま Lv.{2}）｜🔒 Unlocks at Lv.{1} (now Lv.{2})
+940｜🔒 飲食店：Lv.{1}で解放（いま Lv.{2}）｜🔒 Restaurant: unlocks at Lv.{1} (now Lv.{2})
+941｜🔜 次の売り場は 🥛生鮮売り場（Lv.{1} で開きます）｜🔜 Next section: 🥛Fresh foods (opens at Lv.{1})
+942｜🙅 断って調教を続ける｜🙅 Decline and keep training
+943｜🙏 お願い達成！ あかり ♥+{1}｜🙏 Request done! Akari ♥+{1}
+944｜🙏 お願い達成！ こはく ♥+{1}｜🙏 Request done! Kohaku ♥+{1}
+945｜🙏 お願い達成！ しずく ♥+{1}｜🙏 Request done! Shizuku ♥+{1}
+946｜🙏 お願い達成！ つばき ♥+{1}｜🙏 Request done! Tsubaki ♥+{1}
+947｜🙏 お願い達成！ ひなた ♥+{1}｜🙏 Request done! Hinata ♥+{1}
+948｜🙏 お願い達成！ みのり ♥+{1}｜🙏 Request done! Minori ♥+{1}
+949｜🚚 そのまま納品する｜🚚 Deliver as is
+950｜🚚 工場の製品を納品：🍋はちみつレモネード×{1}　¥{2} を獲得しました。｜🚚 Delivered factory products: 🍋Honey lemonade ×{1}　earned ¥{2}.
+951｜🚚 工場の製品を納品：🧃ジュース×{1}　¥{2} を獲得しました。｜🚚 Delivered factory products: 🧃Juice ×{1}　earned ¥{2}.
+952｜🚚 急送｜🚚 Rush
+953｜🚚 木材{1}個を出荷しました。¥{2} を獲得しました。｜🚚 Shipped {1} lumber and earned ¥{2}.
+954｜🛌 休ませる（無料）｜🛌 Let it rest (free)
+955｜🛒 ショップで 🌹バラの種を{1}袋買いました。（¥{2}・在庫 {3}袋）｜🛒 Bought {1} bags of rose seeds at the Store. (¥{2} · {3} bags in stock)
+956｜🛒 ショップで 🌾小麦の種を{1}袋買いました。（¥{2}・在庫 {3}袋）｜🛒 Bought {1} bags of wheat seeds at the Store. (¥{2} · {3} bags in stock)
+957｜🛒 ショップで 🍅トマトの種を{1}袋買いました。（¥{2}・在庫 {3}袋）｜🛒 Bought {1} bags of tomato seeds at the Store. (¥{2} · {3} bags in stock)
+958｜🤒 風邪の家畜｜🤒 Sick animals
+959｜🤝 出荷イベント「🍋はちみつレモネード×{1} 大量注文」に参加しました！｜🤝 Joined the shipping event “Bulk order: 🍋Honey lemonade ×{1}”!
+960｜🤝 大量注文：🍋はちみつレモネード×{1} 大量注文｜🤝 Bulk order: 🍋Honey lemonade ×{1}
+961｜🥃 焼酎×{1}　🍚米{2}個 → ¥{3}×{4}　{5}秒｜🥃 Shochu ×{1}　🍚Rice {2} → ¥{3}×{4}　{5}s
+962｜🥒 {1}袋 買う｜🥒 Buy {1} bags
+963｜🥒 きゅうり　🎒在庫 {1}袋 → ¥{2}（{3}個）　{4}秒｜🥒 Cucumber　🎒{1} bags → ¥{2} ({3})　{4}s
+964｜🥒きゅうり×{1}＋🍅トマト｜🥒Cucumber ×{1} + 🍅Tomato
+965｜🥓 精肉工場｜🥓 Meat Plant
+966｜🥔 {1}袋 買う｜🥔 Buy {1} bags
+967｜🥔じゃがいも｜🥔Potato
+968｜🥔じゃがいも {1}/{2}｜🥔Potato {1}/{2}
+969｜🥔じゃがいも×{1} 出荷｜Ship 🥔Potato ×{1}
+970｜🥔じゃがいも×{1}＋🥬キャベツ｜🥔Potato ×{1} + 🥬Cabbage
+971｜🥚卵｜🥚Eggs
+972｜🥛 生鮮｜🥛 Fresh foods
+973｜🥛ミルク｜🥛Milk
+974｜🥤 飲料｜🥤 Drinks
+975｜🥩肉｜🥩Meat
+976｜🥬 {1}袋 買う｜🥬 Buy {1} bags
+977｜🥬 青果｜🥬 Produce
+978｜🥬キャベツ｜🥬Cabbage
+979｜🧀 乳製品｜🧀 Dairy products
+980｜🧀 乳製品工場｜🧀 Dairy Factory
+981｜🧃 出荷イベント「🧃ジュース工場の製品×{1} 納品」に参加しました！｜🧃 Joined the shipping event “Deliver 🧃Juice Factory products ×{1}”!
+982｜🧃 🧃ジュース工場の製品×{1} 納品｜🧃 Deliver 🧃Juice Factory products ×{1}
+983｜🧃ジュース工場 {1}P目の{2}ブロック／寿命あと {3}年{4}季｜🧃Juice Factory page {1}, block {2} / {3} years {4} seasons of life left
+984｜🧃ジュース工場の製品 {1}/{2}｜🧃Juice Factory products {1}/{2}
+985｜🧃ジュース工場の製品×{1} 納品｜Deliver 🧃Juice Factory products ×{1}
+986｜🧅 {1}袋 買う｜🧅 Buy {1} bags
+987｜🧅かぶ｜🧅Turnip
+988｜🧅かぶ {1}/{2}｜🧅Turnip {1}/{2}
+989｜🧅かぶ×{1} 出荷｜Ship 🧅Turnip ×{1}
+990｜🧑‍💼 事務員に安い人を優先してもらう｜🧑‍💼 Ask the clerk to prefer cheaper hires
+991｜🧣 {1}個 買う｜🧣 Buy {1}
+992｜🧣 マフラー×{1}　🧶羊毛{2}個 → ¥{3}×{4}　{5}秒｜🧣 Scarf ×{1}　🧶Wool {2} → ¥{3}×{4}　{5}s
+993｜🧣 絹のスカーフ×{1}　🐛生糸{2}個 → ¥{3}×{4}　{5}秒｜🧣 Silk scarf ×{1}　🐛Raw silk {2} → ¥{3}×{4}　{5}s
+994｜🧣 防寒シート｜🧣 Frost cover
+995｜🧥 コート×{1}　🧶羊毛{2}個 → ¥{3}×{4}　{5}秒｜🧥 Coat ×{1}　🧶Wool {2} → ¥{3}×{4}　{5}s
+996｜🧥 衣料品｜🧥 Clothing
+997｜🧴 殺虫剤｜🧴 Insecticide
+998｜🧴 防虫ネット｜🧴 Insect net
+999｜🧵 絹糸×{1}　🐛生糸{2}個 → ¥{3}×{4}　{5}秒｜🧵 Silk thread ×{1}　🐛Raw silk {2} → ¥{3}×{4}　{5}s
+1000｜🧵 繊維工場｜🧵 Textile Mill
+1001｜🧵繊維工場 {1}P目　{2}ブロック（未増築）｜🧵Textile Mill page {1}　{2} blocks (not expanded)
+1002｜🧶 毛糸×{1} 🧶羊毛{2}個 → ¥{3}×{4} {5}秒｜🧶 Yarn ×{1} 🧶Wool {2} → ¥{3}×{4} {5}s
+1003｜🧶 毛糸×{1}　🧶羊毛{2}個 → ¥{3}×{4}　{5}秒｜🧶 Yarn ×{1}　🧶Wool {2} → ¥{3}×{4}　{5}s
+1004｜🧶羊毛｜🧶Wool
+1005｜🧹清掃｜🧹Cleaning
+1006｜🧺 そのまま収穫する｜🧺 Harvest as is
+1007｜🧺 木材を一括で受け取りました：{1}ブロック／木材{2}個（在庫 {3}個）｜🧺 Received all lumber: {1} blocks / {2} lumber ({3} in stock)
+1008｜🧺 田んぼ{1}区画を収穫：🍚米×{2}　¥{3} を獲得しました。｜🧺 Harvested {1} rice paddy plots: 🍚Rice ×{2}　earned ¥{3}.
+1009｜🧺 畑で {1}か所 収穫できるよ！｜🧺 {1} spots ready to harvest in the fields!
+1010｜🪣 排水ポンプ｜🪣 Drainage pump
+1011｜🪴 {1}個 買う｜🪴 Buy {1}
+1012｜🪵 ⛰山開拓で木材を{1}個 手に入れました。（在庫 {2}個）｜🪵 Got {1} lumber from ⛰mountain clearing. ({2} in stock)
+1013｜🪵 木材は季節に関係なく一年中売れます。　🔜 次は 🏗建築（Lv.{1} で解放）｜🪵 Lumber sells all year, whatever the season.　🔜 Next: 🏗Construction (unlocks at Lv.{1})
+1014｜🪵 🌲植林で木材を{1}個 手に入れました。（在庫 {2}個）｜🪵 Got {1} lumber from 🌲tree planting. ({2} in stock)
+1015｜🪵 🏞土地開拓で木材を{1}個 手に入れました。（在庫 {2}個）｜🪵 Got {1} lumber from 🏞land clearing. ({2} in stock)
+1016｜🪵 🪓伐採で木材を{1}個 手に入れました。（在庫 {2}個）｜🪵 Got {1} lumber from 🪓felling. ({2} in stock)
+1017｜🪵木材{1}P目の{2}ブロック／寿命あと {3}年｜🪵Lumber page {1}, block {2} / {3} years of life left
+1018｜🪵資材の⛰山開拓が解放されると採水地が見つかります｜A water source is found once ⛰Mountain clearing unlocks in 🪵Materials
+1019｜🪵資材のガラス・粘土焼成品・植物繊維材のどれかを開くと増築できます｜Expand after opening Glass, Fired clay or Plant fiber in 🪵Materials
+1020｜🪷 蓮　🎒在庫 {1}袋 → ¥{2}×{3}本　{4}秒｜🪷 Lotus　🎒{1} bags → ¥{2}×{3} stems　{4}s
+1021｜🫧 炭酸水×{1}　💧天然水（採水地）{2}個 → ¥{3}×{4}　{5}秒｜🫧 Sparkling water ×{1}　💧Spring water (source) {2} → ¥{3}×{4}　{5}s

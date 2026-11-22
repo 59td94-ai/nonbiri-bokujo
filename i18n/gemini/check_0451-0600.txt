@@ -1,0 +1,164 @@
+以下は、のんびりした牧場経営ゲーム「のんびり牧場」の日本語→英語の対訳です。
+英語として不自然な表現・誤訳・意味のずれがある行だけ、番号と直した英語を書いてください。問題のない行は書かなくてかまいません。
+
+決まりごと：
+・{1} {2} などの記号は数字が入る場所です。そのまま残してください（順番は入れかえてよい）
+・絵文字・¥・Lv. もそのまま残してください
+・画面がせまいので、短く分かりやすい英語にしてください
+・キャラの名前（Minori, Kohaku, Hinata, Akari, Tsubaki, Shizuku）は変えないでください
+
+返事の形：
+番号｜直した英語｜理由（ひとこと）
+
+（451〜600行目）
+
+451｜ホームセンターを経営しますか？｜Run a Home Center?
+452｜ホームセンターを開くと使えます｜Available once you open the Home Center
+453｜レベルが上がると増えます｜Increases as you level up
+454｜・すべての場所が機械化ずみです。｜· Every place is mechanized.
+455｜・まだ機械化していない場所が {1}か所 あります（例：🍒果樹園{2}P目／¥{3}）。｜· {1} places aren't mechanized yet (e.g. 🍒Orchard page {2} / ¥{3}).
+456｜・まだ機械化していない場所が {1}か所 あります（例：🧃ジュース工場 {2}P目／¥{3}）。｜· {1} places aren't mechanized yet (e.g. 🧃Juice Factory page {2} / ¥{3}).
+457｜・まだ機械化していない場所が {1}か所 あります（例：🪵木材{2}P目／¥{3}）。｜· {1} places aren't mechanized yet (e.g. 🪵Lumber page {2} / ¥{3}).
+458｜一年中・いまは植えられません｜Year-round · can't plant now
+459｜一括で伐採しますか？｜Fell all at once?
+460｜一括で土地開拓｜Clear all land
+461｜一括で土地開拓しますか？｜Clear land everywhere?
+462｜一括で山開拓しますか？｜Clear the mountain everywhere?
+463｜一括で植える：田んぼ{1}P目の{2}区画に🍚米を植えました。（¥{3}）｜Plant all: planted 🍚rice in {2} plots on Rice paddy page {1}. (¥{3})
+464｜一括で植林しますか？｜Plant trees everywhere?
+465｜一括で治療する｜Treat all
+466｜一括で蒔く：畑{1}P目の{2}区画に🌾小麦を蒔きました。（🎒在庫から{3}袋・のこり{4}袋）｜Sow all: sowed 🌾wheat in {2} plots on Field page {1}. ({3} bags from 🎒stock · {4} left)
+467｜一括伐採：{1}ブロックで作業を始めました。｜Fell all: started work on {1} blocks.
+468｜一括導入・整備｜Install / maintain all
+469｜一括植林：{1}ブロックで作業を始めました。（¥{2}）｜Plant all: started work on {1} blocks. (¥{2})
+470｜一括自動収穫｜Auto harvest (all)
+471｜一括自動収穫を追加しました｜Auto harvest (all) added
+472｜一括自動納品を追加しました｜Auto delivery (all) added
+473｜一括製造：🧃ジュース工場の{1}ブロックで🍋はちみつレモネードの製造を始めました。｜Produce all: started making 🍋honey lemonade in {1} blocks of the 🧃Juice Factory.
+474｜一括製造：🧃ジュース工場の{1}ブロックで🧃ジュースの製造を始めました。｜Produce all: started making 🧃juice in {1} blocks of the 🧃Juice Factory.
+475｜乳製品工場のチーズ・プリン・アイス｜Cheese, pudding and ice cream from the Dairy Factory
+476｜予約が入りました（青果売り場・{1}点）｜Reservation received (produce section · {1} item(s))
+477｜事務所で人を雇ってみよう｜Try hiring people at the Office
+478｜今回のお願いは達成しました｜This request is done
+479｜今日はもう渡しました（また明日）｜Already given today (try again tomorrow)
+480｜伐採を始めました。｜Started felling.
+481｜作る｜Make
+482｜作業・受け取り・建築は続けるので、木材が在庫にたまって建築に回せます。｜Work, receiving and construction continue, so lumber builds up in stock for construction.
+483｜作物や生き物が成長しました！｜Your crops and animals have grown!
+484｜使う派遣｜Dispatch to use
+485｜使用する｜Use
+486｜停止中｜Stopped
+487｜傘｜Umbrella
+488｜全て最大まで増やす｜Max out all
+489｜全店の売り場を定員（{1}人）まで補充（あと{2}人）｜Fill every store's sections to capacity ({1} staff, {2} more needed)
+490｜冬のテーマ｜Winter theme
+491｜冬の作物・いまは植えられません｜Winter crop · can't plant now
+492｜冬の作物・🎒在庫 {1}袋｜Winter crop · 🎒{1} bags in stock
+493｜冬の出荷依頼｜Winter shipping request
+494｜冬の花｜Winter flower
+495｜冬の花・🎒在庫 {1}袋｜Winter flower · 🎒{1} bags in stock
+496｜冬まで（約{1}分）｜Until winter (about {1} min)
+497｜出荷しなくなります｜Stops shipping
+498｜出荷できる在庫がありません｜No stock to ship
+499｜出走まであと{1}季｜{1} seasons until racing
+500｜分前のお知らせ｜min. warning
+501｜動いています｜Running
+502｜勝率{1}%・{2}勝｜Win rate {1}% · {2} wins
+503｜北海道に出店｜Open a store in Hokkaido
+504｜匹）｜animals)
+505｜区画に小麦を蒔きました｜plots sown with wheat
+506｜区画増設（¥{1}）｜Add plot (¥{1})
+507｜厩舎{1}を建てました！（¥{2}）｜Stable {1} built! (¥{2})
+508｜厩舎から堆肥が{1}個できたので、そのまま出荷しました。（¥{2}）｜The stable produced {1} manure, so it was shipped as is. (¥{2})
+509｜厩舎がまだありません。下の「厩舎を建てる」から建てましょう。｜No stable yet. Build one with “Build a stable” below.
+510｜厩舎を建てました｜Stable built
+511｜厩舎を建てますか？｜Build a stable?
+512｜厩舎を建てる｜Build a stable
+513｜収穫する｜Harvest
+514｜収穫できる卵がありません｜No eggs to collect
+515｜受け取る｜Receive
+516｜呼ぶ｜Call
+517｜和菓子｜Japanese sweets
+518｜品物｜Goods
+519｜商業施設を建てると解放｜Unlocks when you build shops
+520｜商業施設経営｜Shop management
+521｜商業施設（他社）｜Shops (other companies)
+522｜商業施設（他社） で販売 ({1}倍)｜Sell at Shops (other companies) (×{1})
+523｜土地開拓する｜Clear land
+524｜土地開拓を始めました。｜Started clearing land.
+525｜増やす｜Add
+526｜増築すると作れる製品のレパートリーが増えます。｜Expanding adds more products you can make.
+527｜増設しますか？｜Expand?
+528｜増設する（¥{1}）｜Expand (¥{1})
+529｜売った店舗の売上｜Sales of the store that sold it
+530｜売り場の在庫がありません（「🚚 物流」から届きます）｜No stock in the sections (it arrives via “🚚 Logistics”)
+531｜売値 ¥{1}｜Price ¥{1}
+532｜売値はいちばん高い段階です｜Selling price is at its highest
+533｜売却する｜Sell
+534｜変更して植える｜Change and plant
+535｜夏に植えられます。{1}袋で{2}区画。約{3}秒で育ち、{4}個とれます（いま{5}個¥{6}）。｜Plant in summer. {1} bag = {2} plot. Grows in about {3}s and yields {4} (now {5} = ¥{6}).
+536｜夏のテーマ｜Summer theme
+537｜夏の作物なので、いまは植えられません（いまは春）｜It's a summer crop, so you can't plant it now (it's spring)
+538｜夏の作物・いまは植えられません｜Summer crop · can't plant now
+539｜夏の作物・🎒在庫 {1}袋｜Summer crop · 🎒{1} bags in stock
+540｜夏の花｜Summer flower
+541｜夏の花・🎒在庫 {1}袋｜Summer flower · 🎒{1} bags in stock
+542｜夏まで（約{1}分）｜Until summer (about {1} min)
+543｜夏祭り用とうもろこし｜Corn for the summer festival
+544｜夕立｜Evening shower
+545｜大量注文：🍋はちみつレモネード×{1} 大量注文｜Bulk order: 🍋Honey lemonade ×{1}
+546｜天然水工場で作るもの｜Made at the Water Plant
+547｜天然水工場に増築｜Add to Water Plant
+548｜天然水工場（🪵資材の⛰山開拓が解放されると採水地が見つかります）｜Water Plant (a water source is found once 🪵Materials' ⛰Mountain clearing unlocks)
+549｜始める｜Start
+550｜季節が冬になりました。（{1}年目）｜It's now winter. (Year {1})
+551｜季節が夏になりました。（{1}年目）｜It's now summer. (Year {1})
+552｜季節が春になりました。（{1}年目）｜It's now spring. (Year {1})
+553｜季節が秋になりました。（{1}年目）｜It's now autumn. (Year {1})
+554｜季節ノルマ：｜Season quota:
+555｜季節ノルマ：夏祭り用とうもろこし｜Season quota: Corn for the summer festival
+556｜実行する｜Run
+557｜害虫｜Pests
+558｜対象がありません｜Nothing to apply to
+559｜寿命あと{1}季｜{1} seasons of life left
+560｜小売販売にする｜Switch to retail
+561｜小売販売（工場の製品）｜Retail (factory products)
+562｜小売販売（畜産物）｜Retail (livestock products)
+563｜小屋{1}｜Barn {1}
+564｜小屋{1}（{2}/{3}匹）｜Barn {1} ({2}/{3} animals)
+565｜小屋を建てる｜Build a barn
+566｜小麦 成長完了｜Wheat ready
+567｜小麦を{1}区画に植えました！｜Planted wheat in {1} plots!
+568｜小麦を植えました。｜Planted wheat.
+569｜山開拓する｜Clear the mountain
+570｜山開拓を始めました。｜Started clearing the mountain.
+571｜巣箱｜Beehive
+572｜工具｜Tools
+573｜工場の製品｜Factory products
+574｜工場を増築しますか？｜Expand the factory?
+575｜工場を建てますか？｜Build a factory?
+576｜工場を建てると、各工場の持ち場が使えます。｜Build a factory to unlock each factory's workplace.
+577｜工場を建てると使えます｜Available after you build a factory
+578｜工場を建設しました｜Factory built
+579｜工場を建設しました！（¥{1}）｜Factory built! (¥{1})
+580｜工房を建てますか？｜Build a workshop?
+581｜工房を建設しました｜Workshop built
+582｜工房を建設しました！果実を酒やジュースに加工できます。（¥{1}）｜Workshop built! You can turn fruit into liquor and juice. (¥{1})
+583｜工芸品工房（🪵資材のガラス・粘土焼成品・植物繊維材のどれかを開くと増築できます）｜Craft Workshop (expand after opening Glass, Fired clay or Plant fiber in 🪵Materials)
+584｜広げる｜Expand
+585｜店舗数｜Stores
+586｜建てる｜Build
+587｜建てる家畜小屋を選んでください。｜Choose a barn to build.
+588｜建てる（¥{1}）｜Build (¥{1})
+589｜建築現場（Lv.{1}で🏗建築が解放されると増築できます）｜Construction site (expand once 🏗Construction unlocks at Lv.{1})
+590｜建設する｜Build
+591｜快晴｜Clear skies
+592｜成功率が低い順｜Lowest success rate
+593｜成功率が高い順｜Highest success rate
+594｜戦{1}勝・あと{2}季｜races, {1} wins · {2} seasons left
+595｜手伝ってもらうブロックをタップしてください｜Tap the blocks to get help with
+596｜担当の持ち場で自分で作業｜Work by hand at their workplace
+597｜担当の持ち場を開くと、お願いが届くことがあります｜Visit their workplace and they may ask you for something
+598｜持っていません｜You don't have any
+599｜新しい持ち場：「お茶工場」｜New workplace: “Tea Factory”
+600｜新しい持ち場：「ジュース工場」｜New workplace: “Juice Factory”

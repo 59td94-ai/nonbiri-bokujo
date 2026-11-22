@@ -1,0 +1,164 @@
+以下は、のんびりした牧場経営ゲーム「のんびり牧場」の日本語→英語の対訳です。
+英語として不自然な表現・誤訳・意味のずれがある行だけ、番号と直した英語を書いてください。問題のない行は書かなくてかまいません。
+
+決まりごと：
+・{1} {2} などの記号は数字が入る場所です。そのまま残してください（順番は入れかえてよい）
+・絵文字・¥・Lv. もそのまま残してください
+・画面がせまいので、短く分かりやすい英語にしてください
+・キャラの名前（Minori, Kohaku, Hinata, Akari, Tsubaki, Shizuku）は変えないでください
+
+返事の形：
+番号｜直した英語｜理由（ひとこと）
+
+（151〜300行目）
+
+151｜工房｜Workshop
+152｜工芸品工房｜Craft Workshop
+153｜店員｜Shop clerk
+154｜建築｜Construction
+155｜建築現場｜Construction site
+156｜待機｜Standby
+157｜従業員｜Employee
+158｜悠斗｜Yuto
+159｜成形｜Forming
+160｜成形・乾燥｜Shaping & drying
+161｜投資｜Invest
+162｜抹茶｜Matcha
+163｜拓也｜Takuya
+164｜採水地｜Water source
+165｜採石｜Quarrying
+166｜採蜜｜Honey harvest
+167｜斎藤｜Saito
+168｜日照り｜Drought
+169｜日雇いバイト｜Day laborer
+170｜春｜Spring
+171｜木材｜Lumber
+172｜木村｜Kimura
+173｜東北｜Tohoku
+174｜松本｜Matsumoto
+175｜果実｜Fruit
+176｜果実酒｜Fruit wine
+177｜果樹園｜Orchard
+178｜桑の葉やり｜Mulberry feeding
+179｜植木鉢｜Flower pot
+180｜植林｜Afforestation
+181｜植物繊維材｜Plant fiber
+182｜毛糸｜Yarn
+183｜沖縄｜Okinawa
+184｜派遣社員｜Temp worker
+185｜涼子｜Ryoko
+186｜清掃｜Cleaning
+187｜清水｜Shimizu
+188｜渡辺｜Watanabe
+189｜温泉の水｜Hot spring water
+190｜温泉旅館｜Hot spring inn
+191｜温泉水｜Hot spring water
+192｜湊｜Minato
+193｜湧き水の汲み上げ｜Pumping spring water
+194｜溶解｜Melting
+195｜炭酸水｜Sparkling water
+196｜焼酎｜Shochu
+197｜牛｜cow
+198｜牛小屋｜Cow barn
+199｜牛舎｜Cowshed
+200｜牧場主｜Farm owner
+201｜物流｜Logistics
+202｜特製飼料｜Special feed
+203｜珪砂採取｜Silica sand collecting
+204｜生糸｜Raw silk
+205｜生糸の繰糸｜Silk reeling
+206｜生鮮｜Fresh foods
+207｜生鮮売り場｜Fresh section
+208｜用水路の干上がり｜Dry irrigation canal
+209｜田んぼ｜Rice paddy
+210｜田中｜Tanaka
+211｜畑｜Field
+212｜畜産｜Livestock
+213｜発破採掘｜Blast mining
+214｜白菜｜Napa cabbage
+215｜百花蜜の熟成｜Wildflower honey aging
+216｜着物｜Kimono
+217｜短期バイト｜Short-term worker
+218｜石材｜Stone
+219｜石造りの蔵｜Stone storehouse
+220｜秋｜Autumn
+221｜種｜Seeds
+222｜粘土採取｜Clay digging
+223｜粘土焼成品｜Fired clay
+224｜精肉工場｜Meat Plant
+225｜紅茶｜Black tea
+226｜紡績｜Spinning
+227｜結衣｜Yui
+228｜絹のスカーフ｜Silk scarf
+229｜絹糸｜Silk thread
+230｜総務｜General Affairs
+231｜総務/経理｜General Affairs/Accounting
+232｜緑茶｜Green tea
+233｜繊維取り出し｜Fiber extraction
+234｜繊維工場｜Textile Mill
+235｜織布｜Weaving
+236｜繭｜Cocoons
+237｜繭の収穫｜Cocoon harvest
+238｜羊｜sheep
+239｜羊小屋｜Sheep barn
+240｜羊毛｜Wool
+241｜美咲｜Misaki
+242｜翔｜Sho
+243｜耕種｜Crops
+244｜肉｜Meat
+245｜肥料｜Fertilizer
+246｜肥料・飼料｜Fertilizer & feed
+247｜花の在庫｜Flower stock
+248｜花の種｜Flower Seeds
+249｜花卉｜Flowers
+250｜花子｜Hanako
+251｜芽依｜Mei
+252｜茶摘み｜Tea picking
+253｜茶畑｜Tea Field
+254｜茶葉｜Tea leaves
+255｜葵｜Aoi
+256｜蒸し・揉み｜Steaming & rolling
+257｜蓮｜Ren
+258｜薬品工場｜Chemical Plant
+259｜蚕｜silkworm
+260｜衣料品｜Clothing
+261｜衣料品売り場｜Apparel section
+262｜製造｜Manufacture
+263｜製錬｜Smelting
+264｜豚｜pig
+265｜豚小屋｜Pig barn
+266｜財務｜Finance
+267｜資材｜Materials
+268｜資材(新)｜Materials (new)
+269｜蹄の不調｜Hoof trouble
+270｜農協｜Farm co-op
+271｜農業｜Farming
+272｜農業資材｜Farm supplies
+273｜農業資材売り場｜Farm supplies section
+274｜農薬｜Pesticide
+275｜近畿｜Kinki
+276｜道の駅｜Roadside station
+277｜酒造工場｜Brewery
+278｜酪農｜Dairy
+279｜野菜の在庫｜Vegetable stock
+280｜野菜の種｜Vegetable seeds
+281｜鈴木｜Suzuki
+282｜鉄鉱石採掘｜Iron ore mining
+283｜鉄鋼材｜Steel
+284｜鉄骨ビル｜Steel-frame building
+285｜長ネギ｜Leek
+286｜関東｜Kanto
+287｜除草剤｜Herbicide
+288｜陶器の器｜Pottery bowl
+289｜陽菜｜Hina
+290｜雑草の繁茂｜Weed overgrowth
+291｜青果｜Produce
+292｜青果売り場｜Produce section
+293｜風邪｜Cold
+294｜颯太｜Sota
+295｜飲料｜Drinks
+296｜飲料売り場｜Drinks section
+297｜飲食店｜Restaurant
+298｜飼料｜Feed
+299｜養蚕｜Sericulture
+300｜養蜂｜Beekeeping

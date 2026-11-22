@@ -1,0 +1,164 @@
+以下は、のんびりした牧場経営ゲーム「のんびり牧場」の日本語→英語の対訳です。
+英語として不自然な表現・誤訳・意味のずれがある行だけ、番号と直した英語を書いてください。問題のない行は書かなくてかまいません。
+
+決まりごと：
+・{1} {2} などの記号は数字が入る場所です。そのまま残してください（順番は入れかえてよい）
+・絵文字・¥・Lv. もそのまま残してください
+・画面がせまいので、短く分かりやすい英語にしてください
+・キャラの名前（Minori, Kohaku, Hinata, Akari, Tsubaki, Shizuku）は変えないでください
+
+返事の形：
+番号｜直した英語｜理由（ひとこと）
+
+（1〜150行目）
+
+1｜あかり｜Akari
+2｜いちご｜Strawberry
+3｜うしの牧場体験｜Cow farm experience
+4｜うまとのふれあい｜Horse petting
+5｜お茶工場｜Tea Factory
+6｜かご｜Basket
+7｜かぶ｜Turnip
+8｜きゅうり｜Cucumber
+9｜こはく｜Kohaku
+10｜こぶたのレース場｜Piglet race track
+11｜さくら｜Sakura
+12｜さくらんぼ｜Cherry
+13｜さつまいも｜Sweet potato
+14｜しずく｜Shizuku
+15｜じゃがいも｜Potato
+16｜つばき｜Tsubaki
+17｜とうもろこし｜Corn
+18｜なし｜None
+19｜にわとり｜chicken
+20｜にわとりふれあい広場｜Chicken petting plaza
+21｜にんじん｜Carrot
+22｜はちみつ｜Honey
+23｜はちみつレモネード｜Honey lemonade
+24｜はちみつ酒｜Mead
+25｜ひつじの毛刈り体験｜Sheep shearing experience
+26｜ひなた｜Hinata
+27｜ひまわり｜Sunflower
+28｜ぶどう｜Grapes
+29｜ほうじ茶｜Hojicha
+30｜みつばち｜honeybee
+31｜みのり｜Minori
+32｜りんご｜Apple
+33｜ろ過｜Filtering
+34｜アイス｜Ice cream
+35｜イナゴの大発生｜Locust swarm
+36｜ガラス｜Glass
+37｜ガラスの温室｜Glass conservatory
+38｜ガラス温室｜Glass greenhouse
+39｜ガラス細工｜Glasswork
+40｜ガーベラ｜Gerbera
+41｜キャベツ｜Cabbage
+42｜コスモス｜Cosmos
+43｜コート｜Coat
+44｜ゴールド｜Gold
+45｜シクラメン｜Cyclamen
+46｜シルバー｜Silver
+47｜ジュース｜Juice
+48｜ジュース工場｜Juice Factory
+49｜スイセン｜Daffodil
+50｜スイートピー｜Sweet pea
+51｜スズメの食害｜Sparrow damage
+52｜ソーセージ｜Sausage
+53｜チューリップ｜Tulip
+54｜チーズ｜Cheese
+55｜トマト｜Tomato
+56｜ナス｜Eggplant
+57｜ネット販売｜Online sales
+58｜ノーマル｜Normal
+59｜ハイビスカス｜Hibiscus
+60｜ハウス｜House
+61｜ハム｜Ham
+62｜バイト/パート｜Part-timer
+63｜バラ｜Rose
+64｜パーク｜Park
+65｜ビニールハウス｜Vinyl greenhouse
+66｜ビル｜Building
+67｜ビール｜Beer
+68｜ブロンズ｜Bronze
+69｜プラチナ｜Platinum
+70｜プリン｜Pudding
+71｜ベーコン｜Bacon
+72｜ホームセンター｜Home Center
+73｜ポインセチア｜Poinsettia
+74｜マフラー｜Scarf
+75｜ミックスジュース｜Mixed juice
+76｜ミルク｜Milk
+77｜ヤギ｜goat
+78｜リンドウ｜Gentian
+79｜レンガの洋館｜Brick mansion
+80｜中国｜Chugoku
+81｜中川｜Nakagawa
+82｜中村｜Nakamura
+83｜中部｜Chubu
+84｜乗馬体験の依頼｜Riding request
+85｜九州｜Kyushu
+86｜乳製品｜Dairy products
+87｜乳製品売り場｜Dairy section
+88｜乳製品工場｜Dairy Factory
+89｜事務員｜Clerk
+90｜事務所｜Office
+91｜井上｜Inoue
+92｜人事｜HR
+93｜伊藤｜Ito
+94｜伐採｜Felling
+95｜住宅｜House
+96｜佐々木｜Sasaki
+97｜佐藤｜Sato
+98｜作物｜Crops
+99｜倉庫｜Warehouse
+100｜健太｜Kenta
+101｜冬｜Winter
+102｜冷害｜Cold damage
+103｜凛｜Rin
+104｜切り出し｜Cutting
+105｜切子グラス｜Kiriko glass
+106｜加藤｜Kato
+107｜化学原料｜Chemical feedstock
+108｜化学肥料｜Chemical fertilizer
+109｜北海道｜Hokkaido
+110｜区画｜Plots
+111｜卵｜Eggs
+112｜厩舎｜Stable
+113｜各自におまかせ｜Leave it to each
+114｜吉田｜Yoshida
+115｜名水の採取｜Collecting spring water
+116｜商業施設｜Shops
+117｜営業｜Sales
+118｜営業AI｜Sales AI
+119｜営業が取ってきた取引先｜Clients from Sales
+120｜四国｜Shikoku
+121｜土地開拓｜Land clearing
+122｜圧延｜Rolling
+123｜堆肥｜Manure
+124｜増設｜Expand
+125｜売り場｜Sales floor
+126｜売れる馬がいません｜No horses to sell
+127｜夏｜Summer
+128｜外国人労働者｜Foreign worker
+129｜大和｜Yamato
+130｜大根｜Daikon
+131｜大輔｜Daisuke
+132｜大雨｜Heavy rain
+133｜天然水｜Spring water
+134｜天然水工場｜Water Plant
+135｜太郎｜Taro
+136｜害虫の発生｜Pest outbreak
+137｜家畜｜Livestock
+138｜家畜小屋｜Barn
+139｜小屋｜Hut
+140｜小林｜Kobayashi
+141｜小麦｜Wheat
+142｜山口｜Yamaguchi
+143｜山本｜Yamamoto
+144｜山田｜Yamada
+145｜山開拓｜Mountain clearing
+146｜巣箱の見回り｜Hive inspection
+147｜工場｜Factory
+148｜工場のページ｜Factory page
+149｜工場の設定にまかせる｜Use factory setting
+150｜工場を建てる｜Build factory
