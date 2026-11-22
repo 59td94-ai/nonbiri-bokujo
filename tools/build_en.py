@@ -40,11 +40,11 @@ if NRX:
         v2, ok = v, True
         for i, jp in enumerate(found):
             en = nouns[jp]; ph = chr(65 + i)
-            m = re.search(r"(?<![A-Za-z])" + re.escape(en) + r"(?![A-Za-z])", v2, re.I)
+            m = re.search(r"(?<![A-Za-z{])(" + re.escape(en) + r")((?:e?s)?)(?![A-Za-z}])", v2, re.I)
             if not m: ok = False; break
-            hit = m.group(0)
+            hit = m.group(1)
             tag = "{" + (ph.lower() if hit == hit.lower() and en != en.lower() else ph) + "}"
-            v2 = v2[:m.start()] + tag + v2[m.end():]
+            v2 = v2[:m.start()] + tag + m.group(2) + v2[m.end():]
         if ok:
             if k2 in gen and gen[k2] != v2: gen[k2] = None
             elif k2 not in gen: gen[k2] = v2
