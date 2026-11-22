@@ -1,0 +1,20 @@
+{
+  "updated": "2026-11-23 00:35",
+  "confirmed": 562,
+  "goal": 50000,
+  "december": 0,
+  "decemberFloor": 10000,
+  "applying": 24,
+  "reviewing": 4,
+  "contracted": 1,
+  "note": "MANUAL PENDING · DUE DEC 15",
+  "theme": {
+    "bg": "#F5F0E8",
+    "text": "#2B2620",
+    "sub": "#6E6259",
+    "muted": "#8A7D6D",
+    "faint": "#B4A894",
+    "barBg": "#E2D9CB",
+    "accent": "#D2691E"
+  }
+}
