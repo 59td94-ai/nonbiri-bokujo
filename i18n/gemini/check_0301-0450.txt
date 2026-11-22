@@ -12,153 +12,153 @@
 
 （301〜450行目）
 
-301｜養鶏｜Poultry
-302｜馬｜horse
-303｜馬を売る｜Sell horses
-304｜高品質肥料｜Premium fertilizer
-305｜高橋｜Takahashi
-306｜高級飼料｜Luxury feed
-307｜鶏｜chicken
-308｜鶏小屋｜Chicken coop
-309｜麻のバッグ｜Hemp bag
-310｜AIを止める｜Stop AI
-311｜Lv.{1}〜（郵送料 ¥{2}/回）｜Lv.{1}+ (shipping ¥{2} each)
-312｜Lv.{1}で🏗建築が解放されると増築できます｜Expand once 🏗Construction unlocks at Lv.{1}
-313｜{1} / {2}　くわしくは「🏢事務所 → 💼営業」で確認できます。｜{1} / {2}　See “🏢Office → 💼Sales” for details.
-314｜{1} / {2}　納期 あと{3}分{4}秒｜{1} / {2}　Due in {3}m {4}s
-315｜{1}P目｜page {1}
-316｜{1}シーズンのみ｜{1} season only
-317｜{1}年目 冬の月 {2}日｜Year {1}, Winter, Day {2}
-318｜{1}年目 夏の月 {2}日｜Year {1}, Summer, Day {2}
-319｜{1}年目 春の月 {2}日｜Year {1}, Spring, Day {2}
-320｜{1}年目 秋の月 {2}日｜Year {1}, Autumn, Day {2}
-321｜{1}戦{2}勝・あと{3}季｜{1} races, {2} wins · {3} seasons left
-322｜{1}日{2}回・好きな物だと ♥ が多め｜{1} times a day · more ♥ for favorites
-323｜{1}棟目の条件：Lv.{2}（いま Lv.{3}・総収穫数{4}）｜Building {1} needs Lv.{2} (now Lv.{3} · total harvest {4})
-324｜{1}秒で消えます｜Disappears in {1}s
-325｜⏭ スキップして結果を見る（出走する）｜⏭ Skip to the result (race)
-326｜⏰ ⏸ 止めたままのもの {1}件｜⏰ ⏸ {1} things left stopped
-327｜⏳ あとで治療する｜⏳ Treat later
-328｜⏳ あとで（商業施設の画面からも急送できます）｜⏳ Later (you can also rush it from the Shops screen)
-329｜⏳ 納期 あと{1}分{2}秒｜⏳ Due in {1}m {2}s
-330｜⏸ 木材の出荷の停止 ▲｜⏸ Stop lumber shipping ▲
-331｜⏸ 木材の出荷の停止（{1}か所 停止中） ▲｜⏸ Stop lumber shipping ({1} stopped) ▲
-332｜⏸ 木材の出荷の停止（{1}か所 停止中） ▼｜⏸ Stop lumber shipping ({1} stopped) ▼
-333｜⏸ 止めたままのもの｜⏸ Things left stopped
-334｜⏸ 止めたままのもの {1}件 / 　🪵木材{2}P目の出荷　（季節の終わりまであと{3}分）｜⏸ {1} things left stopped / 　🪵Shipping from Lumber page {2}　(about {3} min until the season ends)
-335｜▶ ムービーを見る（出走する）｜▶ Watch the movie (race)
-336｜☀️ {1}年目 夏になりました｜☀️ Year {1}: Summer has come
-337｜☕ {1}個 買う｜☕ Buy {1}
-338｜♨️ 温泉旅館｜♨️ Hot spring inn
-339｜⚗️ 薬品工場｜⚗️ Chemical Plant
-340｜⚗️ 農業資材｜⚗️ Farm supplies
-341｜⚙️ 木材{1}P目の機械が木材{2}個を自動で運び出しました。（在庫 {3}個）｜⚙️ Machines on Lumber page {1} hauled out {2} lumber automatically. ({3} in stock)
-342｜⚙️ 🍶酒造工場 {1}P目を機械化しました！{2}ブロックの作業時間が{3}%短くなります。（¥{4}／寿命{5}年）｜⚙️ 🍶Brewery page {1} mechanized! Work on {2} blocks is {3}% faster. (¥{4} / {5}-year life)
-343｜⚙️ 🍶酒造工場 {1}P目を機械化しますか？｜⚙️ Mechanize 🍶Brewery page {1}?
-344｜⚙️ 💧天然水工場 {1}P目を機械化しました！{2}ブロックの作業時間が{3}%短くなります。（¥{4}／寿命{5}年）｜⚙️ 💧Water Plant page {1} mechanized! Work on {2} blocks is {3}% faster. (¥{4} / {5}-year life)
-345｜⚙️ 💧天然水工場 {1}P目を機械化しますか？｜⚙️ Mechanize 💧Water Plant page {1}?
-346｜⚙️ 🧃ジュース工場 {1}P目の機械をアップグレードしました！一括自動納品が使えます。（¥{2}）｜⚙️ Upgraded the machines on 🧃Juice Factory page {1}! Auto delivery (all) is now available. (¥{2})
-347｜⚙️ 🧃ジュース工場 {1}P目を機械化しました！{2}ブロックの作業時間が{3}%短くなります。（¥{4}／寿命{5}年）｜⚙️ 🧃Juice Factory page {1} mechanized! Work on {2} blocks is {3}% faster. (¥{4} / {5}-year life)
-348｜⚙️ 🧃ジュース工場 {1}P目を機械化しますか？｜⚙️ Mechanize 🧃Juice Factory page {1}?
-349｜⚠️ ⏸ 止めたままのもの {1}件！ ✉️を見てみよう｜⚠️ ⏸ {1} things left stopped! Check ✉️
-350｜⚠️ 出荷イベント「🥔じゃがいも×{1} 出荷」を達成できませんでした。｜⚠️ Couldn't complete the shipping event “Ship 🥔Potato ×{1}”.
-351｜⚠️ 出荷イベント「🧅かぶ×{1} 出荷」を達成できませんでした。｜⚠️ Couldn't complete the shipping event “Ship 🧅Turnip ×{1}”.
-352｜⚠️ 従業員があと{1}人足りません。「🏢 事務所」の人事から配置できます。｜⚠️ {1} more employee(s) needed. Assign them from HR in “🏢 Office”.
-353｜✂️ 除草セット｜✂️ Weeding set
-354｜✖ やめる（出走しない）｜✖ Cancel (don't race)
-355｜✨ {1}袋 買う｜✨ Buy {1} bags
-356｜❄️ {1}年目 冬になりました｜❄️ Year {1}: Winter has come
-357｜⬆️ 一括自動収穫 ¥{1}｜⬆️ Auto harvest (all) ¥{1}
-358｜⬆️ 一括自動納品 ¥{1}｜⬆️ Auto delivery (all) ¥{1}
-359｜⭐ 飲食店：Lv.{1}で解放（いま Lv.{2}）｜⭐ Restaurant: unlocks at Lv.{1} (now Lv.{2})
-360｜「お茶の淹れ方」 💗がたまりました｜“How to Brew Tea” 💗 is full
-361｜「はじめての朝」 💗がたまりました｜“The First Morning” 💗 is full
-362｜あかり 登場｜Akari appears
-363｜あかりに渡す｜Give to Akari
-364｜あかりのお願い：担当の持ち場で自分で作業を{1}回（♥+{2}）｜Akari's request: work by hand at her workplace {1} times (♥+{2})
-365｜あと {1}秒｜{1}s left
-366｜あと{1}秒・そろえば自動で引き渡し｜{1}s left · handed over automatically once stocked
-367｜あとで｜Later
-368｜あめ玉｜Candy
-369｜いちご狩りイベント｜Strawberry-picking event
-370｜いまの売値：{1}倍（レベルで上がります）｜Current price: ×{1} (rises with level)
-371｜いま体験を開ける馬がいません｜No horse can host a ride right now
-372｜いま増設できるものはありません｜Nothing can be expanded right now
-373｜おにぎり｜Rice balls
-374｜お茶工場（🌾耕種の🍵茶畑を開くと増築できます）｜Tea Factory (expand after opening 🍵Tea Field in 🌾Crops)
-375｜お菓子作りセット｜Baking set
-376｜お願い｜Requests
-377｜この店舗の在庫：｜This store's stock:
-378｜こはく 登場｜Kohaku appears
-379｜こはくに渡す｜Give to Kohaku
-380｜こはくのお願い：担当の持ち場で自分で作業を{1}回（♥+{2}）｜Kohaku's request: work by hand at her workplace {1} times (♥+{2})
-381｜しずく 登場｜Shizuku appears
-382｜しずくに渡す｜Give to Shizuku
-383｜しずくのお願い：担当の持ち場で自分で作業を{1}回（♥+{2}）｜Shizuku's request: work by hand at her workplace {1} times (♥+{2})
-384｜そのまま収穫する｜Harvest as is
-385｜そのまま納品する｜Deliver as is
-386｜つばき 登場｜Tsubaki appears
-387｜つばきに渡す｜Give to Tsubaki
-388｜つばきのお願い：担当の持ち場で自分で作業を{1}回（♥+{2}）｜Tsubaki's request: work by hand at her workplace {1} times (♥+{2})
-389｜つばきのストーリー 第{1}話｜Tsubaki's story, Ep. {1}
-390｜とうもろこし×{1}　参加しますか？｜Corn ×{1}　Will you join?
-391｜とっておき｜Treasures
-392｜どの小屋を建てますか？｜Which barn will you build?
-393｜どれを小売販売しますか？｜What will you sell at retail?
-394｜ぬいぐるみ｜Stuffed toy
-395｜はちみつレモネード×{1} 完成｜Honey lemonade ×{1} done
-396｜ひなた 登場｜Hinata appears
-397｜ひなたに渡す｜Give to Hinata
-398｜ひなたのお願い：担当の持ち場で自分で作業を{1}回（♥+{2}）｜Hinata's request: work by hand at her workplace {1} times (♥+{2})
-399｜ほか｜and more
-400｜まずは木材から。始めると各資材の持ち場が使えるようになります。｜Start with lumber. Once you begin, each materials workplace opens up.
-401｜まだ始めていません｜Not started yet
-402｜まとめて増設しますか？｜Expand all at once?
-403｜まとめて増設（+{1}区画・¥{2}）｜Expand all (+{1} plots · ¥{2})
-404｜まとめて増設（+{1}棟・¥{2}）｜Expand all (+{1} buildings · ¥{2})
-405｜まとめて雇う｜Hire in bulk
-406｜みのり 登場｜Minori appears
-407｜みのりに渡す｜Give to Minori
-408｜みのりのお願い：担当の持ち場で自分で作業を{1}回（♥+{2}）｜Minori's request: work by hand at her workplace {1} times (♥+{2})
-409｜みのりのストーリー 第{1}話｜Minori's story, Ep. {1}
-410｜みのりのストーリー　第{1}話｜Minori's story, Ep. {1}
-411｜やめる｜Stop
-412｜やり直す｜Start over
-413｜アップグレード（¥{1}）｜Upgrade (¥{1})
-414｜イベント参加！｜Join event!
-415｜オートにする（チェックした販売先）｜Set to auto (checked outlets)
-416｜カモミール｜Chamomile
-417｜カーディガン｜Cardigan
-418｜ガジェット｜Gadget
-419｜ガラス温室がまだありません（Lv.{1}〜）｜No glass greenhouse yet (Lv.{1}+)
-420｜ガラス温室で夏に植えられます。{1}袋で{2}区画。約{3}秒で咲き、{4}本とれます（いま{5}本¥{6}）。｜Plant in a glass greenhouse in summer. {1} bag = {2} plot. Blooms in about {3}s and yields {4} stems (now {5} = ¥{6}).
-421｜ガラス温室で春に植えられます。{1}袋で{2}区画。約{3}秒で咲き、{4}本とれます（いま{5}本¥{6}）。｜Plant in a glass greenhouse in spring. {1} bag = {2} plot. Blooms in about {3}s and yields {4} stems (now {5} = ¥{6}).
-422｜ガラス温室を始めます（押すと費用の確認が出ます）。｜Start glass greenhouses (you'll see the cost first).
-423｜ガラス温室を始める｜Start glass greenhouses
-424｜ガラス温室を建てて、花卉栽培を始めました！（¥{1}）｜Built a glass greenhouse and started growing flowers! (¥{1})
-425｜ガラス温室を建てる｜Build a glass greenhouse
-426｜キャラへの贈り物（💗から渡す）｜Gifts for characters (give from 💗)
-427｜キャンセル｜Cancel
-428｜クッキー｜Cookies
-429｜コーヒー｜Coffee
-430｜ショップでプレゼントを買う｜Buy gifts at the Store
-431｜ジュース×{1} 完成｜Juice ×{1} done
-432｜ジュース：果実{1}個→{2}本（約{3}秒・{4}倍）　🍶酒：果実{5}個→{6}本（約{7}秒・{8}倍）｜Juice: {1} fruit → {2} bottles (about {3}s · ×{4})　🍶Liquor: {5} fruit → {6} bottles (about {7}s · ×{8})
-433｜タイトル｜Title
-434｜タップで派遣｜Tap to dispatch
-435｜チェックを入れて「オートにする」を押すと、その小売店へ自動で出荷し続けます。｜Check outlets and press “Set to auto” to keep shipping to them automatically.
-436｜チェーン全体の売上の{1}%｜{1}% of chain-wide sales
-437｜テンクウ{1}」を売る（¥{2}）｜Tenku {1}” — sell (¥{2})
-438｜ネット販売｜Online sales
-439｜ネット販売 で販売 ({1}倍)｜Sell online (×{1})
-440｜バラの種がありません。🛒ショップで買いましょう｜No rose seeds. Buy some at the 🛒Store.
-441｜ビニールハウスを建設しますか？｜Build a vinyl greenhouse?
-442｜ブロックではちみつレモネードを製造開始｜blocks started making honey lemonade
-443｜ブロックでジュースを製造開始｜blocks started making juice
-444｜ブロックで伐採｜blocks felling
-445｜ブロックで植林｜blocks planting trees
-446｜ブーツ｜Boots
-447｜プレゼント｜Gifts
-448｜プレゼントを持っていません。｜You don't have any gifts.
-449｜プレゼント用に🍪クッキーを{1}個買いました。（¥{2}）｜Bought {1} 🍪cookies as gifts. (¥{2})
-450｜ホームセンターをオープンしました！買取価格が{1}倍になります。（¥{2}）｜Home Center opened! Buying prices are now ×{1}. (¥{2})
+301｜馬｜horse
+302｜馬を売る｜Sell horses
+303｜高品質肥料｜Premium fertilizer
+304｜高橋｜Takahashi
+305｜高級飼料｜Luxury feed
+306｜鶏｜chicken
+307｜鶏小屋｜Chicken coop
+308｜麻のバッグ｜Hemp bag
+309｜AIを止める｜Stop AI
+310｜Lv.{1}〜（郵送料 ¥{2}/回）｜Lv.{1}+ (shipping ¥{2} each)
+311｜Lv.{1}で🏗建築が解放されると増築できます｜Expand once 🏗Construction unlocks at Lv.{1}
+312｜{1} / {2}　くわしくは「🏢事務所 → 💼営業」で確認できます。｜{1} / {2}　See “🏢Office → 💼Sales” for details.
+313｜{1} / {2}　納期 あと{3}分{4}秒｜{1} / {2}　Due in {3}m {4}s
+314｜{1}P目｜page {1}
+315｜{1}シーズンのみ｜{1} season only
+316｜{1}年目 冬の月 {2}日｜Year {1}, Winter, Day {2}
+317｜{1}年目 夏の月 {2}日｜Year {1}, Summer, Day {2}
+318｜{1}年目 春の月 {2}日｜Year {1}, Spring, Day {2}
+319｜{1}年目 秋の月 {2}日｜Year {1}, Autumn, Day {2}
+320｜{1}戦{2}勝・あと{3}季｜{1} races, {2} wins · {3} seasons left
+321｜{1}日{2}回・好きな物だと ♥ が多め｜{1} times a day · more ♥ for favorites
+322｜{1}棟目の条件：Lv.{2}（いま Lv.{3}・総収穫数{4}）｜Building {1} needs Lv.{2} (now Lv.{3} · total harvest {4})
+323｜{1}秒で消えます｜Disappears in {1}s
+324｜⏭ スキップして結果を見る（出走する）｜⏭ Skip to the result (race)
+325｜⏰ ⏸ 止めたままのもの {1}件｜⏰ ⏸ {1} things left stopped
+326｜⏳ あとで治療する｜⏳ Treat later
+327｜⏳ あとで（商業施設の画面からも急送できます）｜⏳ Later (you can also rush it from the Shops screen)
+328｜⏳ 納期 あと{1}分{2}秒｜⏳ Due in {1}m {2}s
+329｜⏸ 木材の出荷の停止 ▲｜⏸ Stop lumber shipping ▲
+330｜⏸ 木材の出荷の停止（{1}か所 停止中） ▲｜⏸ Stop lumber shipping ({1} stopped) ▲
+331｜⏸ 木材の出荷の停止（{1}か所 停止中） ▼｜⏸ Stop lumber shipping ({1} stopped) ▼
+332｜⏸ 止めたままのもの｜⏸ Things left stopped
+333｜⏸ 止めたままのもの {1}件 / 　🪵木材{2}P目の出荷　（季節の終わりまであと{3}分）｜⏸ {1} things left stopped / 　🪵Shipping from Lumber page {2}　(about {3} min until the season ends)
+334｜▶ ムービーを見る（出走する）｜▶ Watch the movie (race)
+335｜☀️ {1}年目 夏になりました｜☀️ Year {1}: Summer has come
+336｜☕ {1}個 買う｜☕ Buy {1}
+337｜♨️ 温泉旅館｜♨️ Hot spring inn
+338｜⚗️ 薬品工場｜⚗️ Chemical Plant
+339｜⚗️ 農業資材｜⚗️ Farm supplies
+340｜⚙️ 木材{1}P目の機械が木材{2}個を自動で運び出しました。（在庫 {3}個）｜⚙️ Machines on Lumber page {1} hauled out {2} lumber automatically. ({3} in stock)
+341｜⚙️ 🍶酒造工場 {1}P目を機械化しました！{2}ブロックの作業時間が{3}%短くなります。（¥{4}／寿命{5}年）｜⚙️ 🍶Brewery page {1} mechanized! Work on {2} blocks is {3}% faster. (¥{4} / {5}-year life)
+342｜⚙️ 🍶酒造工場 {1}P目を機械化しますか？｜⚙️ Mechanize 🍶Brewery page {1}?
+343｜⚙️ 💧天然水工場 {1}P目を機械化しました！{2}ブロックの作業時間が{3}%短くなります。（¥{4}／寿命{5}年）｜⚙️ 💧Water Plant page {1} mechanized! Work on {2} blocks is {3}% faster. (¥{4} / {5}-year life)
+344｜⚙️ 💧天然水工場 {1}P目を機械化しますか？｜⚙️ Mechanize 💧Water Plant page {1}?
+345｜⚙️ 🧃ジュース工場 {1}P目の機械をアップグレードしました！一括自動納品が使えます。（¥{2}）｜⚙️ Upgraded the machines on 🧃Juice Factory page {1}! Auto delivery (all) is now available. (¥{2})
+346｜⚙️ 🧃ジュース工場 {1}P目を機械化しました！{2}ブロックの作業時間が{3}%短くなります。（¥{4}／寿命{5}年）｜⚙️ 🧃Juice Factory page {1} mechanized! Work on {2} blocks is {3}% faster. (¥{4} / {5}-year life)
+347｜⚙️ 🧃ジュース工場 {1}P目を機械化しますか？｜⚙️ Mechanize 🧃Juice Factory page {1}?
+348｜⚠️ ⏸ 止めたままのもの {1}件！ ✉️を見てみよう｜⚠️ ⏸ {1} things left stopped! Check ✉️
+349｜⚠️ 出荷イベント「🥔じゃがいも×{1} 出荷」を達成できませんでした。｜⚠️ Couldn't complete the shipping event “Ship 🥔Potato ×{1}”.
+350｜⚠️ 出荷イベント「🧅かぶ×{1} 出荷」を達成できませんでした。｜⚠️ Couldn't complete the shipping event “Ship 🧅Turnip ×{1}”.
+351｜⚠️ 従業員があと{1}人足りません。「🏢 事務所」の人事から配置できます。｜⚠️ {1} more employee(s) needed. Assign them from HR in “🏢 Office”.
+352｜✂️ 除草セット｜✂️ Weeding set
+353｜✖ やめる（出走しない）｜✖ Cancel (don't race)
+354｜✨ {1}袋 買う｜✨ Buy {1} bags
+355｜❄️ {1}年目 冬になりました｜❄️ Year {1}: Winter has come
+356｜⬆️ 一括自動収穫 ¥{1}｜⬆️ Auto harvest (all) ¥{1}
+357｜⬆️ 一括自動納品 ¥{1}｜⬆️ Auto delivery (all) ¥{1}
+358｜⭐ 飲食店：Lv.{1}で解放（いま Lv.{2}）｜⭐ Restaurant: unlocks at Lv.{1} (now Lv.{2})
+359｜「お茶の淹れ方」 💗がたまりました｜“How to Brew Tea” 💗 is full
+360｜「はじめての朝」 💗がたまりました｜“The First Morning” 💗 is full
+361｜あかり 登場｜Akari appears
+362｜あかりに渡す｜Give to Akari
+363｜あかりのお願い：担当の持ち場で自分で作業を{1}回（♥+{2}）｜Akari's request: work by hand at her workplace {1} times (♥+{2})
+364｜あと {1}秒｜{1}s left
+365｜あと{1}秒・そろえば自動で引き渡し｜{1}s left · handed over automatically once stocked
+366｜あとで｜Later
+367｜あめ玉｜Candy
+368｜いちご狩りイベント｜Strawberry-picking event
+369｜いまの売値：{1}倍（レベルで上がります）｜Current price: ×{1} (rises with level)
+370｜いま体験を開ける馬がいません｜No horse can host a ride right now
+371｜いま増設できるものはありません｜Nothing can be expanded right now
+372｜おにぎり｜Rice balls
+373｜お茶工場（🌾耕種の🍵茶畑を開くと増築できます）｜Tea Factory (expand after opening 🍵Tea Field in 🌾Crops)
+374｜お菓子作りセット｜Baking set
+375｜お願い｜Requests
+376｜この店舗の在庫：｜This store's stock:
+377｜こはく 登場｜Kohaku appears
+378｜こはくに渡す｜Give to Kohaku
+379｜こはくのお願い：担当の持ち場で自分で作業を{1}回（♥+{2}）｜Kohaku's request: work by hand at her workplace {1} times (♥+{2})
+380｜しずく 登場｜Shizuku appears
+381｜しずくに渡す｜Give to Shizuku
+382｜しずくのお願い：担当の持ち場で自分で作業を{1}回（♥+{2}）｜Shizuku's request: work by hand at her workplace {1} times (♥+{2})
+383｜そのまま収穫する｜Harvest as is
+384｜そのまま納品する｜Deliver as is
+385｜つばき 登場｜Tsubaki appears
+386｜つばきに渡す｜Give to Tsubaki
+387｜つばきのお願い：担当の持ち場で自分で作業を{1}回（♥+{2}）｜Tsubaki's request: work by hand at her workplace {1} times (♥+{2})
+388｜つばきのストーリー 第{1}話｜Tsubaki's story, Ep. {1}
+389｜とうもろこし×{1}　参加しますか？｜Corn ×{1}　Will you join?
+390｜とっておき｜Treasures
+391｜どの小屋を建てますか？｜Which barn will you build?
+392｜どれを小売販売しますか？｜What will you sell at retail?
+393｜ぬいぐるみ｜Stuffed toy
+394｜はちみつレモネード×{1} 完成｜Honey lemonade ×{1} done
+395｜ひなた 登場｜Hinata appears
+396｜ひなたに渡す｜Give to Hinata
+397｜ひなたのお願い：担当の持ち場で自分で作業を{1}回（♥+{2}）｜Hinata's request: work by hand at her workplace {1} times (♥+{2})
+398｜ほか｜and more
+399｜まずは木材から。始めると各資材の持ち場が使えるようになります。｜Start with lumber. Once you begin, each materials workplace opens up.
+400｜まだ始めていません｜Not started yet
+401｜まとめて増設しますか？｜Expand all at once?
+402｜まとめて増設（+{1}区画・¥{2}）｜Expand all (+{1} plots · ¥{2})
+403｜まとめて増設（+{1}棟・¥{2}）｜Expand all (+{1} buildings · ¥{2})
+404｜まとめて雇う｜Hire in bulk
+405｜みのり 登場｜Minori appears
+406｜みのりに渡す｜Give to Minori
+407｜みのりのお願い：担当の持ち場で自分で作業を{1}回（♥+{2}）｜Minori's request: work by hand at her workplace {1} times (♥+{2})
+408｜みのりのストーリー 第{1}話｜Minori's story, Ep. {1}
+409｜みのりのストーリー　第{1}話｜Minori's story, Ep. {1}
+410｜やめる｜Stop
+411｜やり直す｜Start over
+412｜アップグレード（¥{1}）｜Upgrade (¥{1})
+413｜イベント参加！｜Join event!
+414｜オートにする（チェックした販売先）｜Set to auto (checked outlets)
+415｜カモミール｜Chamomile
+416｜カーディガン｜Cardigan
+417｜ガジェット｜Gadget
+418｜ガラス温室がまだありません（Lv.{1}〜）｜No glass greenhouse yet (Lv.{1}+)
+419｜ガラス温室で夏に植えられます。{1}袋で{2}区画。約{3}秒で咲き、{4}本とれます（いま{5}本¥{6}）。｜Plant in a glass greenhouse in summer. {1} bag = {2} plot. Blooms in about {3}s and yields {4} stems (now {5} = ¥{6}).
+420｜ガラス温室で春に植えられます。{1}袋で{2}区画。約{3}秒で咲き、{4}本とれます（いま{5}本¥{6}）。｜Plant in a glass greenhouse in spring. {1} bag = {2} plot. Blooms in about {3}s and yields {4} stems (now {5} = ¥{6}).
+421｜ガラス温室を始めます（押すと費用の確認が出ます）。｜Start glass greenhouses (you'll see the cost first).
+422｜ガラス温室を始める｜Start glass greenhouses
+423｜ガラス温室を建てて、花卉栽培を始めました！（¥{1}）｜Built a glass greenhouse and started growing flowers! (¥{1})
+424｜ガラス温室を建てる｜Build a glass greenhouse
+425｜キャラへの贈り物（💗から渡す）｜Gifts for characters (give from 💗)
+426｜キャンセル｜Cancel
+427｜クッキー｜Cookies
+428｜コーヒー｜Coffee
+429｜ショップでプレゼントを買う｜Buy gifts at the Store
+430｜ジュース×{1} 完成｜Juice ×{1} done
+431｜ジュース：果実{1}個→{2}本（約{3}秒・{4}倍）　🍶酒：果実{5}個→{6}本（約{7}秒・{8}倍）｜Juice: {1} fruit → {2} bottles (about {3}s · ×{4})　🍶Liquor: {5} fruit → {6} bottles (about {7}s · ×{8})
+432｜タイトル｜Title
+433｜タップで派遣｜Tap to dispatch
+434｜チェックを入れて「オートにする」を押すと、その小売店へ自動で出荷し続けます。｜Check outlets and press “Set to auto” to keep shipping to them automatically.
+435｜チェーン全体の売上の{1}%｜{1}% of chain-wide sales
+436｜テンクウ{1}」を売る（¥{2}）｜Tenku {1}” — sell (¥{2})
+437｜ネット販売｜Online sales
+438｜ネット販売 で販売 ({1}倍)｜Sell online (×{1})
+439｜バラの種がありません。🛒ショップで買いましょう｜No rose seeds. Buy some at the 🛒Store.
+440｜ビニールハウスを建設しますか？｜Build a vinyl greenhouse?
+441｜ブロックではちみつレモネードを製造開始｜blocks started making honey lemonade
+442｜ブロックでジュースを製造開始｜blocks started making juice
+443｜ブロックで伐採｜blocks felling
+444｜ブロックで植林｜blocks planting trees
+445｜ブーツ｜Boots
+446｜プレゼント｜Gifts
+447｜プレゼントを持っていません。｜You don't have any gifts.
+448｜プレゼント用に🍪クッキーを{1}個買いました。（¥{2}）｜Bought {1} 🍪cookies as gifts. (¥{2})
+449｜ホームセンターをオープンしました！買取価格が{1}倍になります。（¥{2}）｜Home Center opened! Buying prices are now ×{1}. (¥{2})
+450｜ホームセンターを経営しますか？｜Run a Home Center?

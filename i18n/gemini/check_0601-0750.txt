@@ -12,153 +12,153 @@
 
 （601〜750行目）
 
-601｜新しい持ち場：「乳製品工場」｜New workplace: “Dairy Factory”
-602｜新しい持ち場：「天然水工場」｜New workplace: “Water Plant”
-603｜新しい持ち場：「工芸品工房」｜New workplace: “Craft Workshop”
-604｜新しい持ち場：「精肉工場」｜New workplace: “Meat Plant”
-605｜新しい持ち場：「繊維工場」｜New workplace: “Textile Mill”
-606｜新しい持ち場：「茶畑」｜New workplace: “Tea Field”
-607｜新しい持ち場：「薬品工場」｜New workplace: “Chemical Plant”
-608｜新しい持ち場：「酒造工場」｜New workplace: “Brewery”
-609｜新しい持ち場：「養蚕」｜New workplace: “Sericulture”
-610｜新しい持ち場：「養蜂」｜New workplace: “Beekeeping”
-611｜日雇いバイト{1}人｜{1} day laborers
-612｜春に植えられます。{1}袋で{2}区画。約{3}秒で育ち、{4}個とれます（いま{5}個¥{6}）。｜Plant in spring. {1} bag = {2} plot. Grows in about {3}s and yields {4} (now {5} = ¥{6}).
-613｜春のテーマ｜Spring theme
-614｜春の作物なので、いまは植えられません（いまは夏）｜It's a spring crop, so you can't plant it now (it's summer)
-615｜春の作物・いまは植えられません｜Spring crop · can't plant now
-616｜春の作物・🎒在庫 {1}袋｜Spring crop · 🎒{1} bags in stock
-617｜春の花｜Spring flower
-618｜春の花・いまは植えられません｜Spring flower · can't plant now
-619｜春の花・🎒在庫 {1}袋｜Spring flower · 🎒{1} bags in stock
-620｜春まで（約{1}分）｜Until spring (about {1} min)
-621｜最大{1}シーズン｜Up to {1} seasons
-622｜最大まで増やす｜Max out
-623｜有名ブランド化｜Famous brand
-624｜有名ブランド化 で販売 ({1}倍)｜Sell as a famous brand (×{1})
-625｜木材{1}P目の出荷　（季節の終わりまであと{2}分）｜Shipping from Lumber page {1}　(about {2} min until the season ends)
-626｜木材{1}P目の出荷を再開しました。｜Resumed shipping from Lumber page {1}.
-627｜木材{1}P目の出荷を止めました。（作業・建築は続けます）｜Stopped shipping from Lumber page {1}. (Work and construction continue.)
-628｜木材{1}P目の機械をアップグレードしました！一括自動収穫が使えます。（¥{2}）｜Upgraded the machines on Lumber page {1}! Auto harvest (all) is now available. (¥{2})
-629｜木材{1}P目を機械化しました！{2}ブロックの作業時間が{3}%短くなります。（¥{4}／寿命{5}年）｜Lumber page {1} mechanized! Work on {2} blocks is {3}% faster. (¥{4} / {5}-year life)
-630｜木材{1}P目を機械化しますか？｜Mechanize Lumber page {1}?
-631｜木材{1}個を受け取りました｜Received {1} lumber
-632｜木材の総出荷数｜Total lumber shipped
-633｜木材出荷：¥{1}｜Lumber shipped: ¥{1}
-634｜未増築｜Not expanded
-635｜未解放｜Locked
-636｜本店({1}/{2})｜Main store ({1}/{2})
-637｜本店の青果売り場に予約が入りました：直売品{1}点（{2}分以内・{3}倍）｜Reservation at the main store's produce section: {1} direct-sale item(s) (within {2} min · ×{3})
-638｜本店（{1}/{2}）｜Main store ({1}/{2})
-639｜枚｜fields
-640｜果樹園{1}P目の機械をアップグレードしました！一括自動収穫が使えます。（¥{2}）｜Upgraded the machines on Orchard page {1}! Auto harvest (all) is now available. (¥{2})
-641｜果樹園{1}P目を機械化しました｜Orchard page {1} mechanized
-642｜果樹園{1}P目を機械化しました！{2}ブロックの作業時間が{3}%短くなります。（¥{4}／寿命{5}年）｜Orchard page {1} mechanized! Work on {2} blocks is {3}% faster. (¥{4} / {5}-year life)
-643｜果樹園{1}P目を機械化しますか？｜Mechanize Orchard page {1}?
-644｜果樹園{1}P目）｜Orchard page {1})
-645｜桜の枝｜Cherry branch
-646｜棟｜buildings
-647｜棟増設（¥{1}）｜Add building (¥{1})
-648｜棟）｜buildings)
-649｜植える・見る｜Plant / View
-650｜植え付けの確認｜Confirm planting
-651｜植林する｜Plant trees
-652｜植林を始めました。｜Started planting trees.
-653｜植物繊維材の持ち場です。｜This is the plant fiber workplace.
-654｜椿の花｜Camellia flower
-655｜機械をアップグレードしますか？｜Upgrade the machines?
-656｜機械化する（¥{1}）｜Mechanize (¥{1})
-657｜機械化ずみ・作業時間{1}%短縮｜Mechanized · {1}% faster work
-658｜機械化ずみ・作業時間{1}%短縮／一括自動収穫ON｜Mechanized · {1}% faster work / Auto harvest ON
-659｜機械化ずみ・作業時間{1}%短縮／一括自動納品ON｜Mechanized · {1}% faster work / Auto delivery ON
-660｜止めたページでは、労働者と機械が木材を｜On stopped pages, workers and machines keep lumber
-661｜止める｜Stop
-662｜治療する｜Treat
-663｜派遣の選択をやめました｜Dispatch selection canceled
-664｜派遣社員{1}人｜{1} temp workers
-665｜海外へ輸出｜Export overseas
-666｜海外へ輸出 で販売 ({1}倍 − 郵送料¥{2})｜Export overseas (×{1} − shipping ¥{2})
-667｜温室｜Greenhouse
-668｜無期限｜No time limit
-669｜牛を{1}頭購入しました。（¥{2}）｜Bought {1} cow(s). (¥{2})
-670｜牛乳・卵・肉（精肉工場の製品も並びます）｜Milk, eggs, meat (Meat Plant products are sold too)
-671｜牛小屋｜Cow barn
-672｜牛小屋{1}を建設しました！（¥{2}）｜Cow barn {1} built! (¥{2})
-673｜牛小屋を建設しました｜Cow barn built
-674｜牛小屋を建設しますか？｜Build a cow barn?
-675｜独立した順｜By independence date
-676｜現在、販売できるものがありません。｜There's nothing to sell right now.
-677｜現在成長中の作物がありません。先に種を蒔いてください。｜No crops are growing. Sow some seeds first.
-678｜田んぼに｜to rice paddies
-679｜田んぼの総出荷数｜Total rice paddy shipments
-680｜田んぼはまだありません。ノルマのない田んぼで、🍚米・🌾小麦をじっくり育てられます。｜No rice paddies yet. Grow 🍚rice and 🌾wheat at your own pace, with no quotas.
-681｜田んぼを作りました！（¥{1}／{2}区画）｜Rice paddy made! (¥{1} / {2} plots)
-682｜田んぼを作りますか？｜Make a rice paddy?
-683｜田んぼを作る｜Make a rice paddy
-684｜田んぼを始めます（押すと費用の確認が出ます）。｜Start rice paddies (you'll see the cost first).
-685｜田んぼを始める｜Start rice paddies
-686｜田んぼ一括収穫：¥{1}｜Rice paddy bulk harvest: ¥{1}
-687｜田植えの確認｜Confirm rice planting
-688｜畑{1}P目｜Field page {1}
-689｜畑{1}P目の機械が{2}区画を自動収穫しました。（¥{3}）｜Field page {1} machines auto-harvested {2} plots. (¥{3})
-690｜畑{1}P目の機械をアップグレードしました！一括自動収穫が使えます。（¥{2}）｜Upgraded the machines on Field page {1}! Auto harvest (all) is now available. (¥{2})
-691｜畑{1}P目を機械化しました｜Field page {1} mechanized
-692｜畑{1}P目を機械化しました！{2}ブロックの作業時間が{3}%短くなります。（¥{4}／寿命{5}年）｜Field page {1} mechanized! Work on {2} blocks is {3}% faster. (¥{4} / {5}-year life)
-693｜畑{1}P目を機械化しますか？｜Mechanize Field page {1}?
-694｜畑{1}P目・🍒果樹園{2}P目）｜Field page {1} · 🍒Orchard page {2})
-695｜畑を{1}枚増設しました。（¥{2}）｜Added {1} field(s). (¥{2})
-696｜畑・ハウス・田んぼ・果樹園・茶畑など｜Fields, greenhouses, rice paddies, orchards, tea fields, etc.
-697｜畑・ビニールハウス・果樹園の作物｜Crops from fields, vinyl greenhouses and orchards
-698｜畜産で開けるようになりました｜Now available in Livestock
-699｜発生中｜Ongoing
-700｜石｜Stone
-701｜石材。山から石を切り出す。｜Stone. Quarry stone from the mountain.
-702｜秋のテーマ｜Autumn theme
-703｜秋の作物・いまは植えられません｜Autumn crop · can't plant now
-704｜秋の作物・🎒在庫 {1}袋｜Autumn crop · 🎒{1} bags in stock
-705｜秋の大収穫祭｜Autumn harvest festival
-706｜秋の花｜Autumn flower
-707｜秋の花・🎒在庫 {1}袋｜Autumn flower · 🎒{1} bags in stock
-708｜秋まで（約{1}分）｜Until autumn (about {1} min)
-709｜空いている畑がありません（収穫するか、畑を増やしましょう）｜No empty fields (harvest, or add more fields)
-710｜第{1}話が届いています（✉️）｜Ep. {1} has arrived (✉️)
-711｜箱｜boxes
-712｜米 成長完了｜Rice ready
-713｜米を田んぼ{1}に植えました。（¥{2}）｜Planted rice in rice paddy {1}. (¥{2})
-714｜納品する｜Deliver
-715｜納品完了：¥{1}｜Delivered: ¥{1}
-716｜総売上｜Total sales
-717｜繊維工場で作るもの｜Made at the Textile Mill
-718｜繊維工場に増築｜Add to Textile Mill
-719｜繊維工場の毛糸・マフラー・コート｜Yarn, scarves and coats from the Textile Mill
-720｜羊小屋｜Sheep barn
-721｜羊毛が{1}個とれます（{2}秒ごと）。酪農の羊小屋に入ります。｜Gives {1} wool (every {2}s). Lives in a Dairy sheep barn.
-722｜群｜colonies
-723｜耕種で開けるようになりました｜Now available in Crops
-724｜肉が{1}個とれます（{2}秒ごと）。出荷するといなくなります。酪農の豚小屋に入ります。｜Gives {1} meat (every {2}s). Leaves once shipped. Lives in a Dairy pig barn.
-725｜肥料(5マス分)｜Fertilizer (5 plots)
-726｜肥料を使える場所がありません｜No place to use fertilizer
-727｜育ち中の家畜の残り時間を{1}%短くします。{2}袋で{3}頭。｜Cuts growing animals' remaining time by {1}%. {2} bag per {3} animal.
-728｜育ち中の家畜をすぐ出荷できるようにします。{1}袋で{2}頭。｜Makes growing animals ready to ship right away. {1} bag per {2} animal.
-729｜育っている区画をすぐ収穫できるようにします（{1}%短縮）。{2}袋で{3}区画。｜Makes growing plots ready to harvest right away ({1}% faster). {2} bag per {3} plot.
-730｜能力{1}（調教{2}＋経験{3}）｜Ability {1} (training {2} + experience {3})
-731｜花｜Flowers
-732｜花{1}区画をまとめて収穫しました：🌹バラ×{2}（¥{3}）｜Harvested {1} flower plots: 🌹Rose ×{2} (¥{3})
-733｜花の総出荷数｜Total flowers shipped
-734｜花卉{1}P目に雇いますか？｜Hire for Flowers page {1}?
-735｜花卉{1}P目の機械をアップグレードしました！一括自動収穫が使えます。（¥{2}）｜Upgraded the machines on Flowers page {1}! Auto harvest (all) is now available. (¥{2})
-736｜花卉{1}P目を最大人数まで増やしますか？｜Fill Flowers page {1} to the maximum staff?
-737｜花卉{1}P目を機械化しました！{2}ブロックの作業時間が{3}%短くなります。（¥{4}／寿命{5}年）｜Flowers page {1} mechanized! Work on {2} blocks is {3}% faster. (¥{4} / {5}-year life)
-738｜花卉{1}P目を機械化しますか？｜Mechanize Flowers page {1}?
-739｜花卉栽培を始めますか？｜Start growing flowers?
-740｜蒔く｜Sow
-741｜蒔く種を決めると再開します｜Resumes once you choose seeds to sow
-742｜薬品工場の農薬・化学肥料・除草剤｜Pesticide, chemical fertilizer and herbicide from the Chemical Plant
-743｜藤の花｜Wisteria flower
-744｜袋｜bags
-745｜補充する｜Restock
-746｜製造する｜Produce
-747｜製造中のブロックがありません。先に製造を始めてください。｜No blocks are in production. Start production first.
-748｜見る｜View
-749｜見直す｜Review
-750｜解任する｜Remove
+601｜新しい持ち場：「天然水工場」｜New workplace: “Water Plant”
+602｜新しい持ち場：「工芸品工房」｜New workplace: “Craft Workshop”
+603｜新しい持ち場：「精肉工場」｜New workplace: “Meat Plant”
+604｜新しい持ち場：「繊維工場」｜New workplace: “Textile Mill”
+605｜新しい持ち場：「茶畑」｜New workplace: “Tea Field”
+606｜新しい持ち場：「薬品工場」｜New workplace: “Chemical Plant”
+607｜新しい持ち場：「酒造工場」｜New workplace: “Brewery”
+608｜新しい持ち場：「養蚕」｜New workplace: “Sericulture”
+609｜新しい持ち場：「養蜂」｜New workplace: “Beekeeping”
+610｜日雇いバイト{1}人｜{1} day laborers
+611｜春に植えられます。{1}袋で{2}区画。約{3}秒で育ち、{4}個とれます（いま{5}個¥{6}）。｜Plant in spring. {1} bag = {2} plot. Grows in about {3}s and yields {4} (now {5} = ¥{6}).
+612｜春のテーマ｜Spring theme
+613｜春の作物なので、いまは植えられません（いまは夏）｜It's a spring crop, so you can't plant it now (it's summer)
+614｜春の作物・いまは植えられません｜Spring crop · can't plant now
+615｜春の作物・🎒在庫 {1}袋｜Spring crop · 🎒{1} bags in stock
+616｜春の花｜Spring flower
+617｜春の花・いまは植えられません｜Spring flower · can't plant now
+618｜春の花・🎒在庫 {1}袋｜Spring flower · 🎒{1} bags in stock
+619｜春まで（約{1}分）｜Until spring (about {1} min)
+620｜最大{1}シーズン｜Up to {1} seasons
+621｜最大まで増やす｜Max out
+622｜有名ブランド化｜Famous brand
+623｜有名ブランド化 で販売 ({1}倍)｜Sell as a famous brand (×{1})
+624｜木材{1}P目の出荷　（季節の終わりまであと{2}分）｜Shipping from Lumber page {1}　(about {2} min until the season ends)
+625｜木材{1}P目の出荷を再開しました。｜Resumed shipping from Lumber page {1}.
+626｜木材{1}P目の出荷を止めました。（作業・建築は続けます）｜Stopped shipping from Lumber page {1}. (Work and construction continue.)
+627｜木材{1}P目の機械をアップグレードしました！一括自動収穫が使えます。（¥{2}）｜Upgraded the machines on Lumber page {1}! Auto harvest (all) is now available. (¥{2})
+628｜木材{1}P目を機械化しました！{2}ブロックの作業時間が{3}%短くなります。（¥{4}／寿命{5}年）｜Lumber page {1} mechanized! Work on {2} blocks is {3}% faster. (¥{4} / {5}-year life)
+629｜木材{1}P目を機械化しますか？｜Mechanize Lumber page {1}?
+630｜木材{1}個を受け取りました｜Received {1} lumber
+631｜木材の総出荷数｜Total lumber shipped
+632｜木材出荷：¥{1}｜Lumber shipped: ¥{1}
+633｜未増築｜Not expanded
+634｜未解放｜Locked
+635｜本店({1}/{2})｜Main store ({1}/{2})
+636｜本店の青果売り場に予約が入りました：直売品{1}点（{2}分以内・{3}倍）｜Reservation at the main store's produce section: {1} direct-sale item(s) (within {2} min · ×{3})
+637｜本店（{1}/{2}）｜Main store ({1}/{2})
+638｜枚｜fields
+639｜果樹園{1}P目の機械をアップグレードしました！一括自動収穫が使えます。（¥{2}）｜Upgraded the machines on Orchard page {1}! Auto harvest (all) is now available. (¥{2})
+640｜果樹園{1}P目を機械化しました｜Orchard page {1} mechanized
+641｜果樹園{1}P目を機械化しました！{2}ブロックの作業時間が{3}%短くなります。（¥{4}／寿命{5}年）｜Orchard page {1} mechanized! Work on {2} blocks is {3}% faster. (¥{4} / {5}-year life)
+642｜果樹園{1}P目を機械化しますか？｜Mechanize Orchard page {1}?
+643｜果樹園{1}P目）｜Orchard page {1})
+644｜桜の枝｜Cherry branch
+645｜棟｜buildings
+646｜棟増設（¥{1}）｜Add building (¥{1})
+647｜棟）｜buildings)
+648｜植える・見る｜Plant / View
+649｜植え付けの確認｜Confirm planting
+650｜植林する｜Plant trees
+651｜植林を始めました。｜Started planting trees.
+652｜植物繊維材の持ち場です。｜This is the plant fiber workplace.
+653｜椿の花｜Camellia flower
+654｜機械をアップグレードしますか？｜Upgrade the machines?
+655｜機械化する（¥{1}）｜Mechanize (¥{1})
+656｜機械化ずみ・作業時間{1}%短縮｜Mechanized · {1}% faster work
+657｜機械化ずみ・作業時間{1}%短縮／一括自動収穫ON｜Mechanized · {1}% faster work / Auto harvest ON
+658｜機械化ずみ・作業時間{1}%短縮／一括自動納品ON｜Mechanized · {1}% faster work / Auto delivery ON
+659｜止めたページでは、労働者と機械が木材を｜On stopped pages, workers and machines keep lumber
+660｜止める｜Stop
+661｜治療する｜Treat
+662｜派遣の選択をやめました｜Dispatch selection canceled
+663｜派遣社員{1}人｜{1} temp workers
+664｜海外へ輸出｜Export overseas
+665｜海外へ輸出 で販売 ({1}倍 − 郵送料¥{2})｜Export overseas (×{1} − shipping ¥{2})
+666｜温室｜Greenhouse
+667｜無期限｜No time limit
+668｜牛を{1}頭購入しました。（¥{2}）｜Bought {1} cow(s). (¥{2})
+669｜牛乳・卵・肉（精肉工場の製品も並びます）｜Milk, eggs, meat (Meat Plant products are sold too)
+670｜牛小屋｜Cow barn
+671｜牛小屋{1}を建設しました！（¥{2}）｜Cow barn {1} built! (¥{2})
+672｜牛小屋を建設しました｜Cow barn built
+673｜牛小屋を建設しますか？｜Build a cow barn?
+674｜独立した順｜By independence date
+675｜現在、販売できるものがありません。｜There's nothing to sell right now.
+676｜現在成長中の作物がありません。先に種を蒔いてください。｜No crops are growing. Sow some seeds first.
+677｜田んぼに｜to rice paddies
+678｜田んぼの総出荷数｜Total rice paddy shipments
+679｜田んぼはまだありません。ノルマのない田んぼで、🍚米・🌾小麦をじっくり育てられます。｜No rice paddies yet. Grow 🍚rice and 🌾wheat at your own pace, with no quotas.
+680｜田んぼを作りました！（¥{1}／{2}区画）｜Rice paddy made! (¥{1} / {2} plots)
+681｜田んぼを作りますか？｜Make a rice paddy?
+682｜田んぼを作る｜Make a rice paddy
+683｜田んぼを始めます（押すと費用の確認が出ます）。｜Start rice paddies (you'll see the cost first).
+684｜田んぼを始める｜Start rice paddies
+685｜田んぼ一括収穫：¥{1}｜Rice paddy bulk harvest: ¥{1}
+686｜田植えの確認｜Confirm rice planting
+687｜畑{1}P目｜Field page {1}
+688｜畑{1}P目の機械が{2}区画を自動収穫しました。（¥{3}）｜Field page {1} machines auto-harvested {2} plots. (¥{3})
+689｜畑{1}P目の機械をアップグレードしました！一括自動収穫が使えます。（¥{2}）｜Upgraded the machines on Field page {1}! Auto harvest (all) is now available. (¥{2})
+690｜畑{1}P目を機械化しました｜Field page {1} mechanized
+691｜畑{1}P目を機械化しました！{2}ブロックの作業時間が{3}%短くなります。（¥{4}／寿命{5}年）｜Field page {1} mechanized! Work on {2} blocks is {3}% faster. (¥{4} / {5}-year life)
+692｜畑{1}P目を機械化しますか？｜Mechanize Field page {1}?
+693｜畑{1}P目・🍒果樹園{2}P目）｜Field page {1} · 🍒Orchard page {2})
+694｜畑を{1}枚増設しました。（¥{2}）｜Added {1} field(s). (¥{2})
+695｜畑・ハウス・田んぼ・果樹園・茶畑など｜Fields, greenhouses, rice paddies, orchards, tea fields, etc.
+696｜畑・ビニールハウス・果樹園の作物｜Crops from fields, vinyl greenhouses and orchards
+697｜畜産で開けるようになりました｜Now available in Livestock
+698｜発生中｜Ongoing
+699｜石｜Stone
+700｜石材。山から石を切り出す。｜Stone. Quarry stone from the mountain.
+701｜秋のテーマ｜Autumn theme
+702｜秋の作物・いまは植えられません｜Autumn crop · can't plant now
+703｜秋の作物・🎒在庫 {1}袋｜Autumn crop · 🎒{1} bags in stock
+704｜秋の大収穫祭｜Autumn harvest festival
+705｜秋の花｜Autumn flower
+706｜秋の花・🎒在庫 {1}袋｜Autumn flower · 🎒{1} bags in stock
+707｜秋まで（約{1}分）｜Until autumn (about {1} min)
+708｜空いている畑がありません（収穫するか、畑を増やしましょう）｜No empty fields (harvest, or add more fields)
+709｜第{1}話が届いています（✉️）｜Ep. {1} has arrived (✉️)
+710｜箱｜boxes
+711｜米 成長完了｜Rice ready
+712｜米を田んぼ{1}に植えました。（¥{2}）｜Planted rice in rice paddy {1}. (¥{2})
+713｜納品する｜Deliver
+714｜納品完了：¥{1}｜Delivered: ¥{1}
+715｜総売上｜Total sales
+716｜繊維工場で作るもの｜Made at the Textile Mill
+717｜繊維工場に増築｜Add to Textile Mill
+718｜繊維工場の毛糸・マフラー・コート｜Yarn, scarves and coats from the Textile Mill
+719｜羊小屋｜Sheep barn
+720｜羊毛が{1}個とれます（{2}秒ごと）。酪農の羊小屋に入ります。｜Gives {1} wool (every {2}s). Lives in a Dairy sheep barn.
+721｜群｜colonies
+722｜耕種で開けるようになりました｜Now available in Crops
+723｜肉が{1}個とれます（{2}秒ごと）。出荷するといなくなります。酪農の豚小屋に入ります。｜Gives {1} meat (every {2}s). Leaves once shipped. Lives in a Dairy pig barn.
+724｜肥料(5マス分)｜Fertilizer (5 plots)
+725｜肥料を使える場所がありません｜No place to use fertilizer
+726｜育ち中の家畜の残り時間を{1}%短くします。{2}袋で{3}頭。｜Cuts growing animals' remaining time by {1}%. {2} bag per {3} animal.
+727｜育ち中の家畜をすぐ出荷できるようにします。{1}袋で{2}頭。｜Makes growing animals ready to ship right away. {1} bag per {2} animal.
+728｜育っている区画をすぐ収穫できるようにします（{1}%短縮）。{2}袋で{3}区画。｜Makes growing plots ready to harvest right away ({1}% faster). {2} bag per {3} plot.
+729｜能力{1}（調教{2}＋経験{3}）｜Ability {1} (training {2} + experience {3})
+730｜花｜Flowers
+731｜花{1}区画をまとめて収穫しました：🌹バラ×{2}（¥{3}）｜Harvested {1} flower plots: 🌹Rose ×{2} (¥{3})
+732｜花の総出荷数｜Total flowers shipped
+733｜花卉{1}P目に雇いますか？｜Hire for Flowers page {1}?
+734｜花卉{1}P目の機械をアップグレードしました！一括自動収穫が使えます。（¥{2}）｜Upgraded the machines on Flowers page {1}! Auto harvest (all) is now available. (¥{2})
+735｜花卉{1}P目を最大人数まで増やしますか？｜Fill Flowers page {1} to the maximum staff?
+736｜花卉{1}P目を機械化しました！{2}ブロックの作業時間が{3}%短くなります。（¥{4}／寿命{5}年）｜Flowers page {1} mechanized! Work on {2} blocks is {3}% faster. (¥{4} / {5}-year life)
+737｜花卉{1}P目を機械化しますか？｜Mechanize Flowers page {1}?
+738｜花卉栽培を始めますか？｜Start growing flowers?
+739｜蒔く｜Sow
+740｜蒔く種を決めると再開します｜Resumes once you choose seeds to sow
+741｜薬品工場の農薬・化学肥料・除草剤｜Pesticide, chemical fertilizer and herbicide from the Chemical Plant
+742｜藤の花｜Wisteria flower
+743｜袋｜bags
+744｜補充する｜Restock
+745｜製造する｜Produce
+746｜製造中のブロックがありません。先に製造を始めてください。｜No blocks are in production. Start production first.
+747｜見る｜View
+748｜見直す｜Review
+749｜解任する｜Remove
+750｜解雇する｜Dismiss

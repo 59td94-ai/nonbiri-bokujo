@@ -12,153 +12,153 @@
 
 （151〜300行目）
 
-151｜工房｜Workshop
-152｜工芸品工房｜Craft Workshop
-153｜店員｜Shop clerk
-154｜建築｜Construction
-155｜建築現場｜Construction site
-156｜待機｜Standby
-157｜従業員｜Employee
-158｜悠斗｜Yuto
-159｜成形｜Forming
-160｜成形・乾燥｜Shaping & drying
-161｜投資｜Invest
-162｜抹茶｜Matcha
-163｜拓也｜Takuya
-164｜採水地｜Water source
-165｜採石｜Quarrying
-166｜採蜜｜Honey harvest
-167｜斎藤｜Saito
-168｜日照り｜Drought
-169｜日雇いバイト｜Day laborer
-170｜春｜Spring
-171｜木材｜Lumber
-172｜木村｜Kimura
-173｜東北｜Tohoku
-174｜松本｜Matsumoto
-175｜果実｜Fruit
-176｜果実酒｜Fruit wine
-177｜果樹園｜Orchard
-178｜桑の葉やり｜Mulberry feeding
-179｜植木鉢｜Flower pot
-180｜植林｜Afforestation
-181｜植物繊維材｜Plant fiber
-182｜毛糸｜Yarn
-183｜沖縄｜Okinawa
-184｜派遣社員｜Temp worker
-185｜涼子｜Ryoko
-186｜清掃｜Cleaning
-187｜清水｜Shimizu
-188｜渡辺｜Watanabe
-189｜温泉の水｜Hot spring water
-190｜温泉旅館｜Hot spring inn
-191｜温泉水｜Hot spring water
-192｜湊｜Minato
-193｜湧き水の汲み上げ｜Pumping spring water
-194｜溶解｜Melting
-195｜炭酸水｜Sparkling water
-196｜焼酎｜Shochu
-197｜牛｜cow
-198｜牛小屋｜Cow barn
-199｜牛舎｜Cowshed
-200｜牧場主｜Farm owner
-201｜物流｜Logistics
-202｜特製飼料｜Special feed
-203｜珪砂採取｜Silica sand collecting
-204｜生糸｜Raw silk
-205｜生糸の繰糸｜Silk reeling
-206｜生鮮｜Fresh foods
-207｜生鮮売り場｜Fresh section
-208｜用水路の干上がり｜Dry irrigation canal
-209｜田んぼ｜Rice paddy
-210｜田中｜Tanaka
-211｜畑｜Field
-212｜畜産｜Livestock
-213｜発破採掘｜Blast mining
-214｜白菜｜Napa cabbage
-215｜百花蜜の熟成｜Wildflower honey aging
-216｜着物｜Kimono
-217｜短期バイト｜Short-term worker
-218｜石材｜Stone
-219｜石造りの蔵｜Stone storehouse
-220｜秋｜Autumn
-221｜種｜Seeds
-222｜粘土採取｜Clay digging
-223｜粘土焼成品｜Fired clay
-224｜精肉工場｜Meat Plant
-225｜紅茶｜Black tea
-226｜紡績｜Spinning
-227｜結衣｜Yui
-228｜絹のスカーフ｜Silk scarf
-229｜絹糸｜Silk thread
-230｜総務｜General Affairs
-231｜総務/経理｜General Affairs/Accounting
-232｜緑茶｜Green tea
-233｜繊維取り出し｜Fiber extraction
-234｜繊維工場｜Textile Mill
-235｜織布｜Weaving
-236｜繭｜Cocoons
-237｜繭の収穫｜Cocoon harvest
-238｜羊｜sheep
-239｜羊小屋｜Sheep barn
-240｜羊毛｜Wool
-241｜美咲｜Misaki
-242｜翔｜Sho
-243｜耕種｜Crops
-244｜肉｜Meat
-245｜肥料｜Fertilizer
-246｜肥料・飼料｜Fertilizer & feed
-247｜花の在庫｜Flower stock
-248｜花の種｜Flower Seeds
-249｜花卉｜Flowers
-250｜花子｜Hanako
-251｜芽依｜Mei
-252｜茶摘み｜Tea picking
-253｜茶畑｜Tea Field
-254｜茶葉｜Tea leaves
-255｜葵｜Aoi
-256｜蒸し・揉み｜Steaming & rolling
-257｜蓮｜Ren
-258｜薬品工場｜Chemical Plant
-259｜蚕｜silkworm
-260｜衣料品｜Clothing
-261｜衣料品売り場｜Apparel section
-262｜製造｜Manufacture
-263｜製錬｜Smelting
-264｜豚｜pig
-265｜豚小屋｜Pig barn
-266｜財務｜Finance
-267｜資材｜Materials
-268｜資材(新)｜Materials (new)
-269｜蹄の不調｜Hoof trouble
-270｜農協｜Farm co-op
-271｜農業｜Farming
-272｜農業資材｜Farm supplies
-273｜農業資材売り場｜Farm supplies section
-274｜農薬｜Pesticide
-275｜近畿｜Kinki
-276｜道の駅｜Roadside station
-277｜酒造工場｜Brewery
-278｜酪農｜Dairy
-279｜野菜の在庫｜Vegetable stock
-280｜野菜の種｜Vegetable seeds
-281｜鈴木｜Suzuki
-282｜鉄鉱石採掘｜Iron ore mining
-283｜鉄鋼材｜Steel
-284｜鉄骨ビル｜Steel-frame building
-285｜長ネギ｜Leek
-286｜関東｜Kanto
-287｜除草剤｜Herbicide
-288｜陶器の器｜Pottery bowl
-289｜陽菜｜Hina
-290｜雑草の繁茂｜Weed overgrowth
-291｜青果｜Produce
-292｜青果売り場｜Produce section
-293｜風邪｜Cold
-294｜颯太｜Sota
-295｜飲料｜Drinks
-296｜飲料売り場｜Drinks section
-297｜飲食店｜Restaurant
-298｜飼料｜Feed
-299｜養蚕｜Sericulture
-300｜養蜂｜Beekeeping
+151｜工芸品工房｜Craft Workshop
+152｜店員｜Shop clerk
+153｜建築｜Construction
+154｜建築現場｜Construction site
+155｜待機｜Standby
+156｜従業員｜Employee
+157｜悠斗｜Yuto
+158｜成形｜Forming
+159｜成形・乾燥｜Shaping & drying
+160｜投資｜Invest
+161｜抹茶｜Matcha
+162｜拓也｜Takuya
+163｜採水地｜Water source
+164｜採石｜Quarrying
+165｜採蜜｜Honey harvest
+166｜斎藤｜Saito
+167｜日照り｜Drought
+168｜日雇いバイト｜Day laborer
+169｜春｜Spring
+170｜木材｜Lumber
+171｜木村｜Kimura
+172｜東北｜Tohoku
+173｜松本｜Matsumoto
+174｜果実｜Fruit
+175｜果実酒｜Fruit wine
+176｜果樹園｜Orchard
+177｜桑の葉やり｜Mulberry feeding
+178｜植木鉢｜Flower pot
+179｜植林｜Afforestation
+180｜植物繊維材｜Plant fiber
+181｜毛糸｜Yarn
+182｜沖縄｜Okinawa
+183｜派遣社員｜Temp worker
+184｜涼子｜Ryoko
+185｜清掃｜Cleaning
+186｜清水｜Shimizu
+187｜渡辺｜Watanabe
+188｜温泉の水｜Hot spring water
+189｜温泉旅館｜Hot spring inn
+190｜温泉水｜Hot spring water
+191｜湊｜Minato
+192｜湧き水の汲み上げ｜Pumping spring water
+193｜溶解｜Melting
+194｜炭酸水｜Sparkling water
+195｜焼酎｜Shochu
+196｜牛｜cow
+197｜牛小屋｜Cow barn
+198｜牛舎｜Cowshed
+199｜牧場主｜Farm owner
+200｜物流｜Logistics
+201｜特製飼料｜Special feed
+202｜珪砂採取｜Silica sand collecting
+203｜生糸｜Raw silk
+204｜生糸の繰糸｜Silk reeling
+205｜生鮮｜Fresh foods
+206｜生鮮売り場｜Fresh section
+207｜用水路の干上がり｜Dry irrigation canal
+208｜田んぼ｜Rice paddy
+209｜田中｜Tanaka
+210｜畑｜Field
+211｜畜産｜Livestock
+212｜発破採掘｜Blast mining
+213｜白菜｜Napa cabbage
+214｜百花蜜の熟成｜Wildflower honey aging
+215｜着物｜Kimono
+216｜短期バイト｜Short-term worker
+217｜石材｜Stone
+218｜石造りの蔵｜Stone storehouse
+219｜秋｜Autumn
+220｜種｜Seeds
+221｜粘土採取｜Clay digging
+222｜粘土焼成品｜Fired clay
+223｜精肉工場｜Meat Plant
+224｜紅茶｜Black tea
+225｜紡績｜Spinning
+226｜結衣｜Yui
+227｜絹のスカーフ｜Silk scarf
+228｜絹糸｜Silk thread
+229｜総務｜General Affairs
+230｜総務/経理｜General Affairs/Accounting
+231｜緑茶｜Green tea
+232｜繊維取り出し｜Fiber extraction
+233｜繊維工場｜Textile Mill
+234｜織布｜Weaving
+235｜繭｜Cocoons
+236｜繭の収穫｜Cocoon harvest
+237｜羊｜sheep
+238｜羊小屋｜Sheep barn
+239｜羊毛｜Wool
+240｜美咲｜Misaki
+241｜翔｜Sho
+242｜耕種｜Crops
+243｜肉｜Meat
+244｜肥料｜Fertilizer
+245｜肥料・飼料｜Fertilizer & feed
+246｜花の在庫｜Flower stock
+247｜花の種｜Flower Seeds
+248｜花卉｜Flowers
+249｜花子｜Hanako
+250｜芽依｜Mei
+251｜茶摘み｜Tea picking
+252｜茶畑｜Tea Field
+253｜茶葉｜Tea leaves
+254｜葵｜Aoi
+255｜蒸し・揉み｜Steaming & rolling
+256｜蓮｜Ren
+257｜薬品工場｜Chemical Plant
+258｜蚕｜silkworm
+259｜衣料品｜Clothing
+260｜衣料品売り場｜Apparel section
+261｜製造｜Manufacture
+262｜製錬｜Smelting
+263｜豚｜pig
+264｜豚小屋｜Pig barn
+265｜財務｜Finance
+266｜資材｜Materials
+267｜資材(新)｜Materials (new)
+268｜蹄の不調｜Hoof trouble
+269｜農協｜Farm co-op
+270｜農業｜Farming
+271｜農業資材｜Farm supplies
+272｜農業資材売り場｜Farm supplies section
+273｜農薬｜Pesticide
+274｜近畿｜Kinki
+275｜道の駅｜Roadside station
+276｜酒造工場｜Brewery
+277｜酪農｜Dairy
+278｜野菜の在庫｜Vegetable stock
+279｜野菜の種｜Vegetable seeds
+280｜鈴木｜Suzuki
+281｜鉄鉱石採掘｜Iron ore mining
+282｜鉄鋼材｜Steel
+283｜鉄骨ビル｜Steel-frame building
+284｜長ネギ｜Leek
+285｜関東｜Kanto
+286｜除草剤｜Herbicide
+287｜陶器の器｜Pottery bowl
+288｜陽菜｜Hina
+289｜雑草の繁茂｜Weed overgrowth
+290｜青果｜Produce
+291｜青果売り場｜Produce section
+292｜風邪｜Cold
+293｜颯太｜Sota
+294｜飲料｜Drinks
+295｜飲料売り場｜Drinks section
+296｜飲食店｜Restaurant
+297｜飼料｜Feed
+298｜養蚕｜Sericulture
+299｜養蜂｜Beekeeping
+300｜養鶏｜Poultry
