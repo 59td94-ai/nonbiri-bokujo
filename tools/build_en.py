@@ -16,6 +16,7 @@ CH = {"みのり": "Minori", "こはく": "Kohaku", "ひなた": "Hinata", "あ�
 for jp, en in data.get("titles", {}).items():
     text.setdefault(f"「{jp}」 💗がたまりました", f"“{en}” 💗 is full")
     text.setdefault(f"「{jp}」", f"“{en}”")
+    text.setdefault(jp, en)
     for cj, ce in CH.items():
         for pre in ("", "📖 "):
             text.setdefault(f"{pre}{cj}のストーリー\u3000第{{1}}話「{jp}」", f"{pre}{ce}'s story, Ep. {{1}} “{en}”")

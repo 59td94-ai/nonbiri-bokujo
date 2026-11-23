@@ -1,0 +1,486 @@
+以下は、のんびりした牧場経営ゲーム「のんびり牧場」の日本語→英語の対訳です。
+先にお渡しした説明資料（gemini_brief.pdf）のキャラクター表・用語集にそって見てください。
+英語として不自然な表現・誤訳・意味のずれがある行だけ、番号と直した英語を書いてください。問題のない行は書かなくてかまいません。
+
+決まりごと：
+・{1} {2} などの記号は数字が入る場所です。そのまま残してください（順番は入れかえてよい）
+・絵文字・¥・Lv. もそのまま残してください
+・画面がせまいので、短く分かりやすい英語にしてください
+・キャラの名前（Minori, Kohaku, Hinata, Akari, Tsubaki, Shizuku）は変えないでください
+
+返事の形：
+番号｜元の日本語｜今の英訳｜直した英訳｜理由（ひとこと）
+
+（1〜150行目）
+
+1｜{farm}に来てから、まだちゃんとお礼を言ってなかったなって！｜I realized I never properly thanked you since coming to {farm}!
+2｜{name} がうなずく。｜{name} nods.
+3｜{name} が針と糸で縫うあいだ、しずくはまばたきもせずに見ている。｜While {name} sews it with needle and thread, Shizuku watches without blinking.
+4｜{name}さん、おはようございます。ごめんなさい、早すぎましたか？｜Good morning, {name}. Sorry, am I too early?
+5｜{name}さん、この首輪、どうしましょう！｜{name}, what should we do with this collar?
+6｜{name}さん、たまにはご自分の手でなさいませ。……見ていてさしあげますわ｜{name}, do try doing things by hand once in a while. …I shall watch over you.
+7｜{name}さん、どうしましょうか。｜{name}, what should we do?
+8｜{name}さん、どう思います！？｜What do you think, {name}!?
+9｜{name}さん、もしよければ今日は少しだけ、ご自分の手で見てあげてくれませんか？｜{name}, if you don't mind, could you look after things by hand a little today?
+10｜{name}さん、少しだけお時間をいただけますか？｜{name}, could you spare me a moment?
+11｜{name}さん。｜{name}.
+12｜{name}さん。どちらに合わせるべきかしら。｜{name}. Which should we go by?
+13｜{name}さん。昨日のことですけれど。｜{name}. About yesterday.
+14｜{name}さん〜、今日はちょっとだけ、手で作業してもらえるとうれしいっス〜｜{name}~, I'd be happy if you did a bit of work by hand today~
+15｜{name}さん〜。これ、あげるっス。｜{name}~. This is for you.
+16｜{name}さんは、どっちだと思うっス？｜Which one do you think, {name}?
+17｜{name}さん！ちょうどいいところに！｜{name}! Perfect timing!
+18｜{name}さん！今日はいっしょに手を動かしませんか！みんな喜びます！｜{name}! Want to work together by hand today? Everyone will love it!
+19｜{name}さん！目をつぶって、手を出してください！｜{name}! Close your eyes and hold out your hands!
+20｜……{name}、押さえてて。｜……{name}, hold it steady.
+21｜……{name}さん、天使っス〜……zzz｜…{name}, you're an angel~… zzz
+22｜……{name}さん。あなたはどちらの味方ですの？｜…{name}. Whose side are you on?
+23｜……{name}は、どう思う。｜……What do you think, {name}.
+24｜……¥{1}。……螢ｲ繧後◆。｜……¥{1}. ……螢ｲ繧後◆.
+25｜……¥{1}。悪くない｜……¥{1}. Not bad.
+26｜……………。（じっと {name} を見ている）｜……………. (She's staring at {name})
+27｜…………あんた、わりと鼻がいい。｜…………You've got a decent nose.
+28｜…………そう。そのまま。動かないで。｜…………Yeah. Like that. Don't move.
+29｜…………ひとりで、のつもりでしたのに。｜…………On my own. That was the plan, anyway.
+30｜…………牧場の飯は、うるさい。｜…………Meals at the farm are noisy.
+31｜…………（傘の雨粒を、じっと見ている）｜………… (She's gazing at the raindrops on her umbrella)
+32｜…………（右上の「発生イベント」を指さしている）｜………… (She's pointing at “Events” at the top right)
+33｜……。……今回だけは、認めてさしあげますわ。｜…. …Just this once, I'll admit it.
+34｜……「こむぎ」。……毛の色が、小麦粉みたいだから。｜……“Komugi.” ……Its coat's the color of flour.
+35｜……あ、{name}さん。えへへ、見られちゃいましたね！｜…Oh, {name}. Hehe, you caught me!
+36｜……あ、この話、内緒でお願いしますっス。めんどくさい仕事、増えそうなんで〜。｜…Oh, keep this between us, okay? I'd just get more annoying work~.
+37｜……あいつに、名前つけた。｜……I named that one.
+38｜……あたしも、ちょっとずつでいいっスかね〜。｜…Maybe I can go bit by bit too~.
+39｜……あはは、のんびり屋さんっスね〜｜…Haha, that one's a slowpoke~
+40｜……あら、笑いましたわね？今、笑いましたわね！｜…Oh? You laughed, didn't you? You just laughed!
+41｜……ありがとう。｜……Thank you.
+42｜……ありがとうございます。でも、もっとおいしく淹れたいです｜…Thank you. But I want to brew it even better.
+43｜……ありがとうございます。心から、そう思っていますわ。｜…Thank you. I mean that, from the bottom of my heart.
+44｜……あんた。柱、支えてて。｜……You. Hold the post.
+45｜……あー、ちょっと寝ぼけてないこと言ったっスね。じゃ、おやすみなさいっス〜。｜…Ah, I said something way too awake there. Well, g'night~.
+46｜……いい。……大きさは。｜……Sure. ……What size.
+47｜……うるさいのは、嫌いじゃない。｜……I don't mind noisy.
+48｜……えへへ。じつはわたし、ハチがちょっとだけ……いえ、かなりこわいんです！｜…Hehe. Actually, I'm a little bit… no, really scared of bees!
+49｜……お手やわらかにっス〜｜…Go easy on me~
+50｜……お礼ではありませんわよ？借りを返しただけですの。｜…It's not a thank-you, mind you. I'm simply repaying a debt.
+51｜……お茶を、プリンに？お茶は淹れて香りを味わうものですわ。｜…Tea, in pudding? Tea is meant to be brewed and its aroma savored.
+52｜……ここ。前に住んでた。｜……Here. I used to live here.
+53｜……この着物が気になりますの？｜…Curious about this kimono?
+54｜……これ、見て。｜……Look at this.
+55｜……これ。鉋（かんな）。｜……This. A plane. For wood.
+56｜……じいちゃんが建てた小屋。……今は、屋根が半分ない。｜……A cabin Grandpa built. ……Half the roof's gone now.
+57｜……じいちゃんのは、まんまる。……でかい。｜……Grandpa's were round. ……Big.
+58｜……じいちゃんの馬には、名前があった。……先にいなくなった。｜……Grandpa's horse had a name. ……It went before he did.
+59｜……じいちゃんは、「家はひとりじゃ建てられん」って言ってた。｜……Grandpa used to say, “You can't build a house alone.”
+60｜……じゃあ、こはくさんの手の感じ、機械に覚えさせてみるっス〜｜…Then I'll try teaching the machine how your hands feel, Kohaku~
+61｜……すみません、少しぼんやりしていました。｜…I'm sorry, I was a little lost in thought.
+62｜……そいつ、いちばん年寄り。｜……That one's the oldest.
+63｜……そう。それが、檜。｜……Yeah. That's cypress.
+64｜……そっか。名前がなくても、ちゃんと「このこ」なんですね！｜…I see. Even without a name, it's still its own little self!
+65｜……その、くま。……腕、また取れかけてる。｜……That bear. ……Its arm's coming off again.
+66｜……その顔、やめてくださいます？なんだか負けた気がしますわ。｜…Would you stop making that face? It makes me feel like I've lost.
+67｜……それがいま、本当にここにあるんですよね。｜…And now it's really here, isn't it?
+68｜……それなら、いい。｜……That works.
+69｜……たぶん、だれも急かさないからっスね。｜…Probably 'cause nobody rushes me.
+70｜……たまには、いいかもしれませんね｜…Maybe once in a while is nice.
+71｜……たまには、こういう日もいいですね｜…A day like this is nice once in a while.
+72｜……だから、あの、もう少しだけそばにいてくれます？｜…So, um, could you stay with me a little longer?
+73｜……だから、あんたも。｜……So, you too.
+74｜……つけると、情がうつるから。｜……Name it, and you get attached.
+75｜……でも、ブラシはかける。……毎日。｜……But I brush it. ……Every day.
+76｜……でも、飯を作っても、「うまい」って言う人がいない。｜……But when I cooked, no one was there to say “tasty.”
+77｜……どうも。……もらっとく｜……Thanks. ……I'll take it.
+78｜……にわとりの声を、目覚ましの音にできたら……ちょっと起きられそうっス〜｜…If I could make a chicken my alarm sound… I might actually wake up~
+79｜……はい。祖母の手帳にはさんでおきますね。ありがとうございます｜…Yes. I'll tuck it into my grandmother's notebook. Thank you.
+80｜……はっ。寝てないっス。今のは、まばたきが長かっただけっス〜。｜…Huh. I wasn't sleeping. That was just a long blink~.
+81｜……ひとりで平気だと思ってた。｜……I thought I was fine alone.
+82｜……ひと口だけ、いただきますわ。……あら。｜…Just one bite, then. …Oh my.
+83｜……ひなたさん……まだ、外、うすぐらいっスよ〜……｜…Hinata… it's still dark out~…
+84｜……ふうん。悪くはありませんわね。｜…Hmm. Not bad, I suppose.
+85｜……ふふ。じゃあ、少しだけですよ｜…Hehe. Just for a little while, then.
+86｜……ふふ。そうかもしれませんね。でも、長雨は根が弱ってしまうことも。｜…Hehe. Maybe so. But long rains can weaken the roots, too.
+87｜……ふふ。答えなくていいっスよ。いまのは、ひとりごとっス。｜…Heh. You don't have to answer. I was talking to myself.
+88｜……ふふっ。いいと思います。｜…Hehe. I think that's lovely.
+89｜……まだ、早い。｜……Too early.
+90｜……みのりさん、やさしいっス〜……zzz｜…You're so nice, Minori~… zzz
+91｜……やはり。沸かしたてのお湯をそのまま注いだでしょう。茶葉がびっくりしていますわ。｜…Just as I thought. You poured boiling water straight in, didn't you? The leaves are in shock.
+92｜……よろしくってよ。わたくし、絵には少し自信がありますの。｜…Very well. I'm rather good at drawing, you know.
+93｜……ん。｜……Mm.
+94｜……ん。……あんたは、分かってる。｜……Mm. ……You get it.
+95｜……ん。……いいの、作る。｜……Mm. ……I'll make a good one.
+96｜……ん。……そっと、やる。｜……Mm. ……I'll be gentle.
+97｜……ん。……分かってる。｜……Mm. ……I know.
+98｜……ん〜……あ、{name}さん……おはようございっス〜……｜…Mm~… oh, {name}… mornin'~…
+99｜……ブーツ。……森の中も、これなら歩ける｜……Boots. ……I can walk the woods in these.
+100｜……レベル{1}。……おめでと｜……Level {1}. ……Congrats.
+101｜……レベル{1}。……縺翫ａ縺ｧ縺ｨ縺?。｜……Level {1}. ……縺翫ａ縺ｧ縺ｨ縺?.
+102｜……三角。｜……Triangle.
+103｜……三角も、うまい。｜……Triangles are good too.
+104｜……二度は言いませんわよ！さあ、お茶が冷めないうちにどうぞ。｜…I won't say it twice! Now, drink up before the tea gets cold.
+105｜……今のは、たまたま。｜……That was luck.
+106｜……今日、少し手、貸して。……機械じゃなくて、あんたの手で｜……Lend a hand today. ……Yours, not a machine's.
+107｜……今日は、ちゃんと起きてるっスよ〜。めずらしいでしょ。｜…I'm actually awake today~. Rare, huh.
+108｜……仕方ありませんわね。お茶はわたくしが淹れます。｜…Very well. I shall brew the tea.
+109｜……任せて。｜……Leave it to me.
+110｜……似合っていますわ。わたくしも、椿の髪飾りを持っていますの。｜…It suits you. I have a camellia hair ornament myself.
+111｜……何。｜……What.
+112｜……何。……呼んだだけ。……仕事、戻る。｜……What. ……Just said your name. ……Back to work.
+113｜……候補に、入れとく。……「おもち」。｜……I'll put it on the list. ……“Omochi.”
+114｜……分かった。……五段。……漆は、ちょっと待って。｜……Fine. ……Five tiers. ……Lacquer, give me time.
+115｜……助かった。……ありがと｜……That helped. ……Thanks.
+116｜……右上。……遒ｺ隱阪＠縺ｦ。｜……Top right. ……遒ｺ隱阪＠縺ｦ.
+117｜……名前は、しばらく見てから決める。……その子に合うやつ。｜……I watch a while before naming. ……Something that fits.
+118｜……名前？……ない。｜……A name? ……None.
+119｜……多い。｜……Too much.
+120｜……当然ですわ。でも、そう言っていただけるのは、悪くありませんわね｜…Naturally. But I don't mind hearing you say so.
+121｜……当然ですわ。ねえ、しずくさん｜…Naturally. Isn't that right, Shizuku?
+122｜……情がうつっても、いい。……そう思えた。｜……Getting attached is okay. ……I can think that now.
+123｜……意味、やっとわかった。｜……I finally get what he meant.
+124｜……振り向かない！あれー！？｜…She's not turning! Whaaat!?
+125｜……握り飯。……うまい。……また、食いたい｜……Rice ball. ……Tasty. ……Want another sometime.
+126｜……明日、作ってくる。……でかいの。｜……I'll make some tomorrow. ……Big ones.
+127｜……昼寝は、否定しない。｜……Won't argue with naps.
+128｜……木は、一本ずつ違う。……手で触ると、分かる。｜……Every board's different. ……You can tell by touch.
+129｜……木は、削ると匂いが変わる。……嗅いでみる？｜……Wood smells different when you shave it. ……Want a sniff?
+130｜……知ってる。｜……I know.
+131｜……窶ｦ窶ｦ縺ゅｊ縺後→（……ありがと）｜……窶ｦ窶ｦ縺ゅｊ縺後→（……thanks）
+132｜……窶ｦ窶ｦ縺翫�ｭ縺後＞（……おねがい）｜……窶ｦ窶ｦ縺翫�ｭ縺後＞（……please）
+133｜……窶ｦ窶ｦ（……）｜……窶ｦ窶ｦ（……）
+134｜……立派なロビーですわね。わたくしの家の旅館も、こんな風でしたの。｜…What a fine lobby. My family's inn was like this, too.
+135｜……約束します。こんどの雨の日は、わたしも一緒に畑を見回ります。｜…I promise. Next time it rains, I'll walk the field with you.
+136｜……紙、持ってくる。｜……I'll get paper.
+137｜……縺ゅ◆繧峨＠縺�縲√°縺�（あたらしい、かさ）｜……縺ゅ◆繧峨＠縺�縲√°縺�（a new… umbrella）
+138｜……縺ゅａ縲√☆縺�（あめ、すき）｜……縺ゅａ縲√☆縺�（rain… I like it）
+139｜……縺ゅｊ縺後→（ありがと）｜……縺ゅｊ縺後→（thanks）
+140｜……縺上∪縲√�ｵ繧九＞（くま、ふるい）｜……縺上∪縲√�ｵ繧九＞（bear… old）
+141｜……縺九▲縺�（かった）｜……縺九▲縺�（won）
+142｜……縺九＆縲√＞繧峨↑縺�（かさ、いらない）｜……縺九＆縲√＞繧峨↑縺�（no umbrella… needed）
+143｜……縺励★縺上√″繧�縺�縺昴≧（しずく、きょうそう）｜……縺励★縺上√″繧�縺�縺昴≧（raindrops… racing）
+144｜……縺吶″（すき）｜……縺吶″（I like it）
+145｜……縺昴ｉ（そら）｜……縺昴ｉ（sky）
+146｜……縺溘ｓ縺倥ｇ縺�縺ｳ縲√≧繧後＠縺�（たんじょうび、うれしい）｜……縺溘ｓ縺倥ｇ縺�縺ｳ縲√≧繧後＠縺�（birthday… happy）
+147｜……縺薙→縺ｰ縲√％繧上ｌ縺ｦ繧�（ことば、こわれてる）｜……縺薙→縺ｰ縲√％繧上ｌ縺ｦ繧�（my words… are broken）
+148｜……縺薙％縲√＠縺壹°（ここ、しずか）｜……縺薙％縲√＠縺壹°（it's quiet here）
+149｜……縺薙�ｮ縺薙�√�ｲ縺ｨ縺ｫ 縺ｨ縺ｾ繧峨↑縺�（このこ、ひとに とまらない）｜……縺薙�ｮ縺薙�√�ｲ縺ｨ縺ｫ 縺ｨ縺ｾ繧峨↑縺�（it never lands on people）
+150｜……縺薙�ｮ縺薙�ｯ縲√％縺ｮ縺�（このこは、このこ）｜……縺薙�ｮ縺薙�ｯ縲√％縺ｮ縺�（it's… just itself）
+
+（151〜300行目）
+
+151｜……縺阪ｉ縺阪ｉ縲√☆縺�（きらきら、すき）｜……縺阪ｉ縺阪ｉ縲√☆縺�（sparkly… I like it）
+152｜……縺､縺ｰ縺阪√″繧後＞（つばき、きれい）｜……縺､縺ｰ縺阪√″繧後＞（Tsubaki… pretty）
+153｜……縺ｦ縺､縺縺｣縺ｦ（てつだって）｜……縺ｦ縺､縺縺｣縺ｦ（help me）
+154｜……縺ｧ繧ゅ�√▽縺溘ｏ縺｣縺ｦ繧具ｼ�（でも、つたわってる？）｜……縺ｧ繧ゅ�√▽縺溘ｏ縺｣縺ｦ繧具ｼ�（but… do they get through?）
+155｜……縺ｪ縺翫○繧具ｼ�（なおせる？）｜……縺ｪ縺翫○繧具ｼ�（can you fix it?）
+156｜……縺ｪ縺ｾ縺医√↑縺�（なまえ、ない）｜……縺ｪ縺ｾ縺医√↑縺�（no… name）
+157｜……縺ｫ縺ｦ繧�（にてる）｜……縺ｫ縺ｦ繧�（like you）
+158｜……縺ｯ縺溘￠繧ゅ√ｈ繧阪％繧薙〒繧�（はたけも、よろこんでる）｜……縺ｯ縺溘￠繧ゅ√ｈ繧阪％繧薙〒繧�（the field… is happy too）
+159｜……縺ｯ繧後◆（はれた）｜……縺ｯ繧後◆（it cleared）
+160｜……縺ｵ縺倥√♀縺昴ｍ縺�（ふじ、おそろい）｜……縺ｵ縺倥√♀縺昴ｍ縺�（wisteria… matching）
+161｜……縺ｿ縺�（みぎ）｜……縺ｿ縺�（right one）
+162｜……縺�縺溘￥縲√＠縺ｪ縺��ｼ�（いたく、しない？）｜……縺�縺溘￥縲√＠縺ｪ縺��ｼ�（won't… hurt it?）
+163｜……縺�縺｣縺励ｇ縺ｫ縲√＞縺�（いっしょに、いく）｜……縺�縺｣縺励ｇ縺ｫ縲√＞縺�（I'll… come too）
+164｜……縺�縺｣縺励ｇ（いっしょ）｜……縺�縺｣縺励ｇ（together）
+165｜……縺�縺�縺�（だいじ）｜……縺�縺�縺�（precious）
+166｜……縺�繧�（うん）｜……縺�繧�（yeah）
+167｜……繧√★繧峨＠縺�（めずらしい）｜……繧√★繧峨＠縺�（that's rare）
+168｜……繧医°縺｣縺�（よかった）｜……繧医°縺｣縺�（good）
+169｜……設計図。……みんなで使う、休憩小屋。｜……A blueprint. ……A rest hut for everyone.
+170｜……誕生日。……誰かに祝われるの、ひさしぶり｜……Birthday. ……Been a while since anyone celebrated.
+171｜……貸して。……木の板で、添え木する。｜……Let me see. ……I'll splint it with a strip of wood.
+172｜……野の花。……こういうのが、いちばんいい｜……Wildflowers. ……These are the best.
+173｜……！……いい工具。……一生、使う。……ありがと｜……! ……Good tools. ……I'll use them forever. ……Thanks.
+174｜⚠️ お金が足りません｜⚠️ Not enough money
+175｜「おもち」、かわいいと思う｜“Omochi” is cute
+176｜「かぶ、よく育つ。孫が笑う」……ふふ、これ、わたしのことです。｜“Turnips growing well. Granddaughter smiling.” …Hehe, that's me.
+177｜「そら」！すっごくいいです！しずくさん、天才です！｜“Sora”! That's perfect! Shizuku, you're a genius!
+178｜「そらまめ」、いいかも｜“Soramame” sounds good
+179｜あ……それ、祖母が飼っていた牛のものです。「はなこ」という名前でした。｜Oh… that belonged to my grandmother's cow. Her name was “Hanako.”
+180｜あ、ありがとっス〜。あとでいただくっス｜Oh, thanks~. I'll have it later.
+181｜あ、その手帳……棚の奥にしまってあったものですね。｜Oh, that notebook… it was tucked away at the back of the shelf.
+182｜あかりさん。この織り機、糸の張りが少しきつすぎますわ。｜Akari. The thread tension on this loom is a little too tight.
+183｜あかりさーん！おはようございまーす！朝ですよー！｜Akariii! Good morniiing! It's morning!
+184｜あかりと同じ、左！｜Same as Akari, the left!
+185｜あかりのストーリーを全部見ました！｜You've seen all of Akari's story!
+186｜あかりの調整で試してみよう｜Try Akari's settings
+187｜あたしね、最近、朝がちょっと楽しみなんすよ。｜Lately, I kinda look forward to mornings.
+188｜あのね、ここにいる子たち、全員に名前つけたんですよ！｜Guess what? I gave names to every single one of them!
+189｜あら、あかりさん。こんなところで……お昼寝ですか？｜Oh, Akari. Napping… here of all places?
+190｜あら、気が利きますのね。いただいておきますわ｜My, how thoughtful. I'll accept it.
+191｜ありがとうございます。みんな、きっと喜んでいますね｜Thank you. I'm sure everyone's happy.
+192｜ありがとうございます。大事にいただきますね｜Thank you. I'll treasure it.
+193｜あー、その機械、止まっちゃったんすか〜？｜Ah, that machine stopped~?
+194｜あー、雨つぶの競争っスか。……あたしは、左のやつに一票っス〜｜Oh, a raindrop race. …I'm betting on the left one~
+195｜いちおう……目覚ましのつもりっス。音、ちっちゃいけど。｜It's meant to be… an alarm clock. Kinda quiet, though.
+196｜いっしょに図面を描いたら？｜Why not draw the plans together?
+197｜いや、サボってないっスよ〜。機械の音を……聞いてただけっス。｜No, I'm not slacking~. I was just… listening to the machines.
+198｜うう、じゃあ毎日見に来ます！決まったら教えてくださいね！｜Ugh, then I'll come see it every day! Tell me when you decide!
+199｜うわわわ！{name}さん、助けてください！｜Waaah! {name}, help me!
+200｜え、なんでわかるのかって？……んー、前の仕事で、ちょっとだけっス。｜How do I know? …Mm, a little from my old job.
+201｜え〜、数字の上では、ぴったりなんスけどね〜。｜Eh~, the numbers say it's perfect, though~.
+202｜ええ。祖母は毎朝、いちばんに牛舎へあいさつに来ていました。｜Yes. Every morning, my grandmother came to greet the cowshed first thing.
+203｜ええ。藤は、雨の日にいちばん映える花ですもの｜Indeed. Wisteria looks its best on rainy days.
+204｜えっ……。は、はい。二杯目も、そのまま注いでいました……｜Oh… Y-yes. I pour the second cup straight from it…
+205｜えっ、食べ物ばっかり？……あはは！ばれました？｜Huh? They're all foods? …Ahaha! You noticed?
+206｜えっ！じゃあ、わたしがつけてもいいですか！「そらまめ」とか！｜What! Then can I name it? Like “Soramame”!
+207｜えへへ、なんか目がしょぼしょぼします！花粉です！たぶん！｜Hehe, my eyes are all blurry! It's pollen! Probably!
+208｜えへへ！じゃあ毎朝、起こしに行きます！｜Hehe! Then I'll come wake you every morning!
+209｜えー！？名前を呼んだら、すぐ仲良くなれるんですよ！｜Whaaat!? Calling their names makes you friends right away!
+210｜え？あ、はい。祖母に教わった形なんです。こはくさんのおうちは、違いました？｜Huh? Oh, yes. My grandmother taught me this shape. Was it different at your home, Kohaku?
+211｜お〜…¥{1}っス〜…｜Ooh~… ¥{1}~…
+212｜お〜…レベル{1}っス〜…おめでとうっス〜…｜Ooh~… level {1}~… congrats~…
+213｜おつかれさまっス〜。……ちょっと、目が覚めたっス｜Good work~. …That woke me up a little.
+214｜おめでとうございます。レベル{1}になりましたね｜Congratulations! You've reached level {1}.
+215｜お客さまが減って、三年前に閉じましたわ。父も母も、もう年ですから。｜Guests dwindled, and it closed three years ago. Father and Mother are getting on in years.
+216｜お湯は、一度湯呑みに移して冷ますの。……そう、丁寧に。｜First, pour the water into a cup to cool it. …Yes, carefully.
+217｜お疲れさまです。¥{1}になりました｜Good work. That's ¥{1}.
+218｜お祝いなんて……。……でも、とてもうれしいですわ｜A celebration, for me… …But I'm very happy.
+219｜お茶はお茶で味わいたいな｜I'd rather enjoy tea as tea
+220｜お茶菓子、用意してきますね｜I'll go get some sweets to go with it.
+221｜お菓子作りセット！これで、もっとおいしいプリンが作れます！{name}さんに一番に食べてもらいますね！｜A baking set! Now I can make even yummier pudding! You'll get the first taste, {name}!
+222｜かいこが桑の葉っぱ食べる音っス。さらさらって、雨みたいでしょ。｜It's the silkworms eating mulberry leaves. Rustle, rustle, like rain, right?
+223｜くまのぬいぐるみの腕が、ほつれている。｜The teddy bear's arm is coming apart.
+224｜ここが、わたしの新しい実家です！……って、勝手に決めちゃいました！｜This is my new home! …I just decided that all by myself!
+225｜ここのライン、いい音するんすよ〜。ごうん、ごうんって……｜This line sounds nice~. Whirr, whirr…
+226｜ここの機械の音は、なんか平気なんすよね〜。……不思議っス。｜The machines here don't bother me~. …Weird.
+227｜こっちが「もちこ」、こっちが「きなこ」、あっちのにわとりが「ごまだんご」！｜This one's “Mochiko,” this one's “Kinako,” and that chicken over there is “Gomadango”!
+228｜この器……見事な焼きですわ。お茶を点てるときに、使わせていただきます｜This dish… beautifully fired. I shall use it when I make tea.
+229｜この子たち、何日もかけて、ちょっとずつ糸を吐くんすよ〜。｜They spin their thread bit by bit, over days~.
+230｜この牧場の茶畑で摘んだお茶と、工房で焼いた器ですの。｜Tea picked in this farm's Tea Field, served in cups fired at our workshop.
+231｜この牧場は、もともと祖母のものだったんです。｜This farm originally belonged to my grandmother.
+232｜この端末では全画面にできません。⚙️設定の「📐 画面の大きさ」で調整できます｜This device can't go fullscreen. Adjust it in “📐 Screen size” in ⚙️ Settings
+233｜こはくさん、お昼のおにぎりです。よかったら、どうぞ。｜Kohaku, here's a rice ball for lunch. Please, have one.
+234｜こはくさん。工房で焼いた器を並べる棚を、作っていただけませんこと？｜Kohaku. Would you make a shelf to display the dishes fired at the workshop?
+235｜こはくさん〜、板にかんなかけるの、機械にやらせたら一瞬っスよ〜？｜Kohaku~, a machine could plane those boards in no time~?
+236｜こはくさん！この子の名前、「おもち」にしましょう！ほら、白くてふわふわ！｜Kohaku! Let's name this one “Omochi”! Look, it's white and fluffy!
+237｜こはくなら、大丈夫｜Kohaku will be careful
+238｜こはくのストーリーを全部見ました！｜You've seen all of Kohaku's story!
+239｜こはくの大きな手が、くまの腕をていねいに包んだ。｜Kohaku's big hands carefully wrap the bear's arm.
+240｜これ、最新のやつっスよね！？……やば、完全に目が覚めたっス。大事に使うっス｜This is the newest model, right!? …Whoa, I'm wide awake now. I'll take good care of it.
+241｜これからも、どうぞよろしくお願いします。ずっと、ずっと。｜I hope we'll keep working together. For a long, long time.
+242｜これは、{farm}の桜です。わたしと、{name}さんの。｜This is {farm}'s cherry tree. Yours and mine, {name}.
+243｜さあさあ、温かいうちに！いや、プリンは冷たいうちに！どうぞ！｜Come on, eat it while it's warm! Wait, pudding's best cold! Go ahead!
+244｜さんせいっス〜……｜Seconded~…
+245｜しずくが、くもったガラスに指で文字を書く。書いた文字も、くずれている。｜Shizuku writes on the fogged glass with her finger. The letters are broken too.
+246｜しずくが、ほんの少しだけ笑った気がした。｜It seemed like Shizuku smiled, just a little.
+247｜しずくが決めていいよ｜It's your call, Shizuku
+248｜しずくさん、ずっとガラス見てるっスね〜。……なにか見えるんスか？｜Shizuku, you've been staring at the glass forever~. …See something?
+249｜しずくさん、傘もささずに……。雨、あたりすぎると冷えてしまいますよ。｜Shizuku, without an umbrella…? You'll get cold out in the rain too long.
+250｜しずくさん。その髪の藤の花、いつもつけていらっしゃるのね。｜Shizuku. You always wear that wisteria in your hair, don't you?
+251｜しずくさん！その青い鳥さん、名前はなんていうんですか！？｜Shizuku! What's that blue bird's name!?
+252｜しずくと同じ、右！｜Same as Shizuku, the right!
+253｜しずくに決めてもらおう｜Let Shizuku decide
+254｜しずくのストーリーを全部見ました！｜You've seen all of Shizuku's story!
+255｜しずくの藤も、きれいだよ｜Your wisteria is pretty too, Shizuku
+256｜しずくの言葉が、はじめて文字化けせずに届いた。｜For the first time, Shizuku's words came through unbroken.
+257｜しずくは傘をたたみ、{name} の横に並んで雨を見ている。｜Shizuku folds her umbrella and watches the rain beside {name}.
+258｜しーっ……聞こえますっスか〜？｜Shhh… can you hear it~?
+259｜じいちゃんの。……大工だった。｜Grandpa's. ……He was a carpenter.
+260｜じゃあ、つばきさんの「ちょうどいい」を数字にしてみるっス〜｜Then I'll try turning Tsubaki's “just right” into numbers~
+261｜じゃあ、名前は「はなこ二世」！？｜Then her name will be “Hanako the Second”!?
+262｜じゃあ、朝ごはんができたら起こしますね！｜Then I'll wake you when breakfast is ready!
+263｜じゃあ〜……みのりさんの麦わら帽子、貸してほしいっス〜｜Then~… can I borrow your straw hat, Minori~?
+264｜じゃあなんで手でやるんスか〜。腕、疲れないんスか？｜Then why do it by hand~? Don't your arms get tired?
+265｜じゃあプリンは、お茶のおともってことで！｜Then pudding can be a snack with the tea!
+266｜じゃーん！これ、なんだと思います？｜Ta-da! What do you think this is?
+267｜せ、先生だなんて……。……よろしい、きびしくいきますわよ｜T-teacher? …Very well, I'll be strict.
+268｜そうですね。あの木の下なら、ゆっくり休めます｜Good idea. Under that tree, she can rest properly.
+269｜そしたら、もうどこの牧場も、空っぽにならないって思ったんです！｜And then no farm would ever be empty again. That's what I thought!
+270｜その封筒……見つかってしまいましたね。｜That envelope… so you found it.
+271｜その心がけ、悪くありませんわ｜That attitude isn't bad at all.
+272｜それからずっと、種をまくのが少しこわかったんです。｜Ever since then, sowing seeds has scared me a little.
+273｜それでは渋くなりますわ。最後の一滴まで、注ぎ切るのが作法ですの。｜Then it turns bitter. The proper way is to pour out every last drop.
+274｜だから……畑にも、{name}さんのことを覚えてもらいましょうね。｜So… let's have the field remember you too, {name}.
+275｜だから、ここがにぎやかなのが、うれしくてたまらないんです！｜That's why I'm so, so happy it's lively here!
+276｜だからわたくしが、家の名を取り戻すと決めたのです。ひとりで。｜So I decided to restore my family's name. On my own.
+277｜だから決めたんです。こわいけど、仲良くなるって！｜So I decided. Scary or not, we're going to be friends!
+278｜だから辞めて、とにかく寝られるところに行こうって……それでここに来たんす。｜So I quit and figured I'd go somewhere I could sleep… and ended up here.
+279｜ちょっと、{name}さん。そのお茶、どなたが淹れましたの？｜Excuse me, {name}. Who brewed that tea?
+280｜ちょっと貸してくださいっス。……ここと……ここ……はい、動いたっス。｜Lemme see. …Here… and here… there, it's running.
+281｜っスよね〜。空いた時間は昼寝に使えるっス〜｜Right~? Free time means nap time~
+282｜つばき、照れてる？｜Tsubaki, are you blushing?
+283｜つばきさんが触って、あたしが数字を見る……いいコンビっスね〜｜Tsubaki feels it, I watch the numbers… we make a good team~
+284｜つばきさん！新作です！牧場のお茶を入れた、抹茶プリン！｜Tsubaki! New recipe! Matcha pudding made with our farm's tea!
+285｜つばきのこだわり、すてきだと思う｜I love how particular you are, Tsubaki
+286｜つばきのストーリーを全部見ました！｜You've seen all of Tsubaki's story!
+287｜つばきの手ざわりを信じよう｜Trust Tsubaki's touch
+288｜つばき先生に教わりたい｜I'd like lessons from Teacher Tsubaki
+289｜て、照れてなどいませんわ！……少ししか｜I-I am not blushing! …Only a little.
+290｜でしょう？今度、きちんと淹れてさしあげますわ。｜Exactly. Next time, I shall brew you a proper cup.
+291｜でしょう？器は、見せ方まで含めて器ですのよ｜Don't I? How a dish is shown is part of the dish.
+292｜ですから……この柿を。いちばん生りの良いものを選びましたわ。｜So… these persimmons. I picked the very best of the harvest.
+293｜ですよね！そらまめー！｜Right!? Soramame!
+294｜ですよね！？おもちー！……あ、こっち向いた！｜Right!? Omochi! …Oh, it looked over!
+295｜でっかい工場で、機械の面倒みてたんすよ〜。ずーっと。｜I looked after machines at a huge factory~. For ages.
+296｜では、とっておきの茶葉を出しますわ｜Then I shall bring out my finest leaves.
+297｜では、明日は半分ずつ作りましょうか｜Then shall we each make half tomorrow?
+298｜でも、{name}さんがまいた種は、ちゃんと芽を出しました。ひとつも取りこぼさずに。｜But the seeds you sowed, {name}, all sprouted. Every last one.
+299｜でも、この子たちが集めたはちみつ、すっごくおいしいんです！｜But the honey they collect is super delicious!
+300｜でも、小学生のときにやめることになって。牛たちも、よその牧場へ行っちゃいました。｜But it closed when I was in elementary school. The cows all went to other farms.
+
+（301〜450行目）
+
+301｜でも、翌朝、{name}さんが「畑はどこですか」って聞いてくれて……｜But the next morning, you asked me, “Where's the field?”…
+302｜でもいまは、この手帳の続きを書いています。ちゃんと、毎日。｜But now I'm writing the rest of this notebook. Every single day.
+303｜でもでも、ひと口だけ！ほら、ほろ苦くておいしいですよ！｜But just one bite! See? It's bittersweet and yummy!
+304｜でもね、名前を呼ぶとちゃんと振り向いてくれるんです！ほら、もちこー！｜But when you call their names, they turn around! Watch — Mochiko!
+305｜どっちも好き！｜I like both!
+306｜な……！{name}さん、今の、聞きまして？｜Wha…! {name}, did you hear that?
+307｜なっ……！{name}さん、わたくし、無茶を言っていまして？｜Wha…! {name}, am I asking too much?
+308｜なのに養蜂の担当って、おかしいですよね！｜And I'm in charge of beekeeping! Funny, right?
+309｜なめらかで、きれい……。大切な日に巻きますね｜So smooth and pretty… I'll wear it on special days.
+310｜なんでもありませんわ。独り言ですの。聞かなかったことになさい。｜It's nothing. Just talking to myself. Pretend you didn't hear.
+311｜にわとりさんは、もう起きてます！コケコッコーって！｜The chickens are already up! Cock-a-doodle-doo!
+312｜にわとり目覚まし、作ってみよう｜Let's make a chicken alarm clock
+313｜のんびりいこう〜｜Let's take it easy~
+314｜はい、どうぞ！{name}さんの分もちゃんとあります！｜Here you go! There's some for you too, {name}!
+315｜はい。いっしょに見回りましょう。……ありがとうございます｜Yes. Let's walk around together. …Thank you.
+316｜はい！もちこのミルクと、ごまだんごのたまごで作ったプリンです！｜Here! Pudding made with Mochiko's milk and Gomadango's eggs!
+317｜はい！毎朝、はなこにもあいさつします！｜Yes! I'll say good morning to Hanako every day!
+318｜はなこも、きっと喜んでます！｜I bet Hanako's happy too!
+319｜はなこ！かわいい名前！ここで、ずっと大事にされてたんですね！｜Hanako! What a cute name! She must have been loved here for so long!
+320｜ひなたのストーリーを全部見ました！｜You've seen all of Hinata's story!
+321｜ひなたの声がいちばんの目覚まし｜Hinata's voice is the best alarm
+322｜ひまわり！わたしみたいって、よく言われるんです！えへへ！｜Sunflowers! People always say they're just like me! Hehe!
+323｜ふたりで合わせてみたら？｜Why not tune it together?
+324｜ふたりで決めたら？｜Why not decide together?
+325｜ふたりとも、花が似合うね｜Flowers suit you both
+326｜ふふ……祖母と同じですね。｜Hehe… just like my grandmother.
+327｜ふふ、うれしいです。明日も三角で作りますね｜Hehe, I'm glad. I'll make triangles again tomorrow.
+328｜ふふ。でも、畑のまんなかだと、日に焼けてしまいますよ。｜Hehe. But in the middle of the field, you'll get sunburned.
+329｜べ、別に褒めていませんわよ。「悪くない」と申し上げただけですの。｜I-it's not as if I'm praising you. I merely said “not bad.”
+330｜まあ、和菓子……！分かっていらっしゃるのね。……お礼は申しませんわよ｜Oh, Japanese sweets…! You do understand me. …I won't be thanking you, mind.
+331｜まずは、こはくに任せてみよう｜Let's leave it to Kohaku first
+332｜まんなかのやつ！｜The middle one!
+333｜まんなかの雨つぶは、途中でぴたりと止まってしまった。｜The middle raindrop stops dead halfway down.
+334｜まんまる……！{name}さんは、どちらがお好きですか？｜Round…! Which do you like, {name}?
+335｜まんまるも食べてみたい｜I want to try a round one
+336｜みのりが持っていてあげて｜You should keep it, Minori
+337｜みのりさん。あなた、お茶はいつも急須に入れっぱなしにしていませんこと？｜Minori. Don't you always leave the tea sitting in the pot?
+338｜みのりさん！この古い首輪、牛舎のすみっこから出てきました！｜Minori! I found this old collar in a corner of the cowshed!
+339｜みのりのお茶も好きだよ｜I like Minori's tea too
+340｜みのりのストーリーを全部見ました！｜You've seen all of Minori's story!
+341｜みんなでお昼寝しよう｜Let's all take a nap
+342｜むむむ……。{name}さんは、どう思います！？｜Hmmm… What do you think, {name}!?
+343｜むー……。{name}さん、どっちが正しいと思うっスか〜？｜Hmm… {name}, who do you think is right~?
+344｜も、もちろんですわ。……{name}さんも、ご一緒にいかが？｜O-of course. …Would you care to join us, {name}?
+345｜もう……。{name}さん、どうしましょう？｜Oh, honestly… {name}, what should we do?
+346｜もう、必要ありませんね。……これは、わたしの宝物にしておきます。｜I don't need it anymore. …I'll keep it as a treasure.
+347｜もう。この繊維工場の品、ひとつでも雑なものを出したら承知しませんわよ。｜Honestly. If even one sloppy item leaves this Textile Mill, you'll answer to me.
+348｜もう一度、牛舎がにぎやかな場所に立てて、すっごくうれしいんです！｜I get to stand in a lively cowshed again, and I'm so, so happy!
+349｜もう少し寝かせてあげよう｜Let her sleep a little longer
+350｜やったっス〜！……え、合体はありっスよね？｜Yesss~! …Wait, merging counts, right?
+351｜やったー！¥{1}ゲット！｜Yay! Got ¥{1}!
+352｜やったー！ありがとうございます！みんなもごきげんです！｜Yay! Thank you! Everyone's in a great mood!
+353｜やったー！候補入りです！｜Yay! It made the list!
+354｜やったー！！レベル{1}だよ！おめでとう！｜Yay!! Level {1}! Congratulations!
+355｜ゆっくり見てから決めよう｜Let's watch a while, then decide
+356｜ようこそお越しくださいました。……今日は、わたくしがおもてなしいたしますわ。｜Welcome. …Today, I shall be your host.
+357｜よろしくお願いします、つばき先生｜Please teach us, Teacher Tsubaki.
+358｜よーし、しんみり終わり！ごはんの時間ですよー、みんなー！｜Okay, enough mushy stuff! Dinnertime, everyone!
+359｜わあ、ありがとうございます！うれしいです！｜Wow, thank you! I'm so happy!
+360｜わあ、お花……！祖母も、お花が大好きだったんです。ありがとうございます｜Oh, flowers…! My grandmother loved flowers too. Thank you.
+361｜わあ、ぬいぐるみ！……名前、つけなきゃ！なににしようかな！｜Wow, a stuffed toy! …I have to name it! What should I call it?
+362｜わあ、楽しみです｜Oh, I can't wait.
+363｜わたくし、借りを作ったままにするのは性に合いませんの。｜Leaving a debt unpaid doesn't suit me.
+364｜わたくしが口うるさいのは、きっとそのせいですのよ。｜That must be why I'm so particular.
+365｜わたしの実家も、小さい牧場だったんです。牛が{1}頭だけの！｜My family had a little farm too. Just {1} cows!
+366｜わたしの誕生日、覚えていてくださったんですか……？とってもうれしいです｜You remembered my birthday…? I'm so happy.
+367｜わーい、ありがとっス〜。……おひさまのにおいがするっス｜Yay, thanks~. …It smells like sunshine.
+368｜わーい！お茶会です！｜Yay! A tea party!
+369｜ん〜……みのりさん……。ここ、風が気持ちいいんスよ〜……｜Mm~… Minori… The breeze feels nice here~…
+370｜カモミール……これでぐっすり眠れそうっス〜。……起きてたい日は、飲まないっスけど｜Chamomile… I'll sleep like a log with this~. …Won't drink it on days I want to stay up, though.
+371｜カーディガン……あったかいっス〜。これ着て、昼寝……いや、仕事するっス｜A cardigan… so warm~. I'll wear it to nap… I mean, to work.
+372｜ガラスの屋根を、雨が静かにたたいている。｜Rain taps softly on the glass roof.
+373｜クッキー……！甘い香り、大好きなんです。いただきますね｜Cookies…! I love that sweet smell. Thank you, I'll enjoy them.
+374｜コ、コンビだなんて……。……まあ、よろしいですわ。｜A t-team? …Well, very well.
+375｜コーヒー……！これで今日も起きてられるっス〜｜Coffee…! Now I can stay awake today~
+376｜ストーリーは全部見ました｜You've seen every story
+377｜プリンとお茶、両方ください｜Both pudding and tea, please
+378｜プリン！！わたしの大好物です！一生ついていきます！｜Pudding!! My absolute favorite! I'll follow you forever!
+379｜レベル{1}……ようやくですわね。まあ、おめでとうございますわ｜Level {1}… about time. Well, congratulations, I suppose.
+380｜三人で、雨を見ていこう｜Let's watch the rain, all three of us
+381｜三人でお茶会にしよう｜Let's have a tea party, the three of us
+382｜三人でやろう｜Let's do it together
+383｜三人で考えよう｜Let's think of one together
+384｜三日後、つばきの器が映える、すっきりとした棚ができあがった。｜Three days later, a clean, simple shelf that shows off Tsubaki's dishes is finished.
+385｜三角がいいな｜I like triangles
+386｜了解っス〜。……ほら、糸切れ、ゼロっス｜Got it~. …See? Zero broken threads.
+387｜了解っス〜。録音して……鳴る時間も設定して……｜Got it~. Record it… set the time…
+388｜全画面にできませんでした。⚙️設定の「画面の大きさ」で調整できます｜Couldn't go fullscreen. You can adjust it in “Screen size” in ⚙️ Settings
+389｜前の工場では、逆だったんすよ。夜も電話が鳴るから、全然眠れなくて……｜At my old factory it was the opposite. The phone rang all night, so I couldn't sleep at all…
+390｜右の雨つぶが、すっと先にガラスのふちへ落ちた。｜The right raindrop slides to the edge of the glass first.
+391｜咲くまでには何年もかかります。でも、待つのは得意なんですよ。｜It'll take years to bloom. But I'm good at waiting.
+392｜子どものころにクレヨンで描いた、「ひなたランド」の地図です！｜It's a map of “Hinata Land” that I drew in crayon as a kid!
+393｜子守唄みたいで……ふぁ……｜Like a lullaby… *yawn*…
+394｜完成したら、わたしにもください！｜When it's done, I want one too!
+395｜家の名を取り戻すのは、ひとりじゃなくてもいい。……そう思えるようになりましたの。｜Restoring my family's name doesn't have to be done alone. …I've come to think so.
+396｜左の雨つぶが、ほかのつぶとくっついて一気に落ちた。｜The left raindrop merges with another and drops all at once.
+397｜帽子、貸してあげたら？｜Why not lend her your hat?
+398｜当然の結果ですわ。¥{1}ですのよ｜A natural result, of course. ¥{1}, you know.
+399｜急がなくていいんだなーって、見てると思うっス。｜Watching them makes me think there's no need to hurry.
+400｜手で触って分かること、あるよね｜Some things you can only tell by touch
+401｜抹茶プリン、食べてみたい！｜I want to try the matcha pudding!
+402｜採水地の森。しずくが、くまのぬいぐるみを抱いて立っている。｜The forest by the water source. Shizuku stands holding her teddy bear.
+403｜数字ではなく、手ざわりですの。母はいつも、糸の声を聞きなさいと。｜It's not about numbers, it's about feel. Mother always told me to listen to the thread.
+404｜新しい子に、つけてあげよう｜Let's give it to a new calf
+405｜木かげに移動しよう｜Let's move into the shade
+406｜桜……！祖母と見た、畑の桜を思い出します。ありがとうございます｜Cherry blossoms…! They remind me of the field's cherry tree I saw with my grandmother. Thank you.
+407｜桜の苗を、ひとつだけ植えたいんです。畑の入り口の、あの場所に。｜I'd like to plant one cherry sapling. Right there, at the entrance to the field.
+408｜植木鉢……！祖母の桜の苗、これに植え替えてもいいですか？｜A flower pot…! May I replant my grandmother's cherry sapling in it?
+409｜椿……わたくしの名前の花ですわね。……覚えていてくださったの？｜Camellias… the flower I'm named after. …You remembered?
+410｜機械に任せて、楽をしよう｜Let the machine do it and take it easy
+411｜母が織ってくれたものですわ。うちは代々、旅館と織物をしていましたの。｜My mother wove it for me. For generations, my family ran an inn and wove cloth.
+412｜気がついたら、この封筒のこと、忘れていたんです。｜And before I knew it, I'd forgotten all about this envelope.
+413｜気づいたら、機械の音がうるさいだけになってたっス。｜Before I knew it, the machines were just noise.
+414｜水はけだけ、見ておこう｜Let's just check the drainage
+415｜決まりっスね〜。設定、ちょちょいとやっとくっス〜｜Settled~. I'll tweak the settings real quick~
+416｜渡す｜Give
+417｜温室のガラスを、雨つぶが伝っていく。｜Raindrops trickle down the greenhouse glass.
+418｜温室の雨が、はじめて止んだ。ガラスの向こうに青い空が見える。｜For the first time, the rain in the greenhouse stops. Blue sky shows through the glass.
+419｜漆塗りで、五段で、すべての器が正面を向くように。それから——｜Lacquered, five tiers, every dish facing forward. And also—
+420｜牛舎に飾って、みんなで大事にしよう｜Let's hang it in the cowshed and treasure it together
+421｜牧場のガラスで作った風鈴っス。ちりーんって鳴るんすよ〜。｜A wind chime made from farm glass. It goes ting~.
+422｜牧場を離れて、どこかへ行こうと思っていました。｜I was going to leave the farm and go somewhere else.
+423｜用意なさい。今日はわたくしがお手本を見せて差し上げます。｜Get ready. Today I shall show you how it's done.
+424｜畑に、しとしとと雨が降っている。｜A soft rain is falling on the field.
+425｜畑の朝は、少しだけ空気が甘いんですよ。土と、葉っぱと、朝露の匂いです。｜Mornings in the field smell a little sweet. Soil, leaves and morning dew.
+426｜着物……！こ、これは……。……一生、大切にいたしますわ｜A kimono…! Th-this is… …I shall treasure it all my life.
+427｜知りませんでした……。つばきさん、教えていただけますか？｜I didn't know… Tsubaki, would you teach me?
+428｜祖母がはじめてここに来たときも、桜を一本植えたそうです。｜They say my grandmother planted a cherry tree too, when she first came here.
+429｜祖母がよく言っていました。「畑は、朝いちばんに会いに来た人を覚えている」って。｜My grandmother used to say, “The field remembers whoever visits it first thing in the morning.”
+430｜祖母が亡くなってから、牧場は一度、閉めるつもりだったんです。｜After my grandmother passed away, I was going to close the farm.
+431｜祖母が倒れた年、わたしひとりで畑を任されたんです。｜The year my grandmother fell ill, I was left to run the field on my own.
+432｜祖母の作付けの記録です。何十年分も、天気と種と、その日のひと言が書いてあるんですよ。｜It's my grandmother's planting record. Decades of weather, seeds, and a line or two about each day.
+433｜秋晴れ｜Clear autumn sky
+434｜空っぽの牛舎って、すごく静かなんですよ。……あの音のしない感じ、今でも覚えてます！｜An empty cowshed is so quiet. …I still remember that silence!
+435｜糸の声……。センサーより、むずかしそうっスね〜。｜Listen to the thread… sounds harder than a sensor~.
+436｜糸を一本でも掛け違えると、母は最初からやり直していましたわ。｜If even one thread was out of place, Mother would start over from the beginning.
+437｜花束｜Bouquet
+438｜荒削りは機械、仕上げは手で｜Machine for rough cuts, hands for finishing
+439｜誕生日……自分でも忘れてたっス〜。……ありがとっス｜My birthday… I forgot it myself~. …Thanks.
+440｜誕生日プレゼント！？わーい！今日は最高の日です！｜A birthday present!? Yay! Today's the best day ever!
+441｜起きてたいって思えるの、すっごいひさしぶりで……たぶん、{name}さんのせいっス。｜It's been forever since I wanted to stay awake… probably your fault, {name}.
+442｜都会の会社への履歴書です。{name}さんが来る前の日に、書き終えていたんです。｜It's a résumé for a company in the city. I finished it the day before you came, {name}.
+443｜都会の子も、牛やにわとりと遊べる場所。そうしたら、牧場を好きな子が増えるでしょ？｜A place where city kids can play with cows and chickens. Then more kids would love farms, right?
+444｜酒造の仕込みの日を、わたくしが間違えたのを……黙って直してくださったでしょう。｜When I got the brewing day wrong… you quietly fixed it, didn't you?
+445｜長雨の年でした。水はけを後回しにして、作物をほとんどだめにしてしまいました。｜It was a year of endless rain. I put off the drainage and lost almost all the crops.
+446｜雨も、畑のごちそうだね｜Rain is a treat for the field too
+447｜雪｜Snow
+448｜青い鳥が、{name} の肩にとまった。｜The blue bird lands on {name}'s shoulder.
+449｜青い鳥が、ちいさく一度だけ鳴いた。｜The blue bird chirps once, softly.
+450｜青い鳥が空へ飛び、また戻ってきた。しずくは傘を開かない。｜The blue bird flies into the sky and comes back. Shizuku doesn't open her umbrella.
+
+（451〜462行目）
+
+451｜青い鳥は、知らん顔で羽づくろいをしている。｜The blue bird preens, ignoring her completely.
+452｜（タップで戻す）｜(tap to bring back)
+453｜🌱 空いている畑が {1}か所あるよ｜🌱 {1} empty field spots!
+454｜🎁 持っていません。ショップの「🎁 プレゼント」で買えます｜🎁 You don't have any. Buy them at “🎁 Gifts” in the Store
+455｜🎂誕生日｜🎂Birthday
+456｜🎵 季節のテーマに戻しました｜🎵 Back to the seasonal theme
+457｜🔇 BGM を消しました｜🔇 Music off
+458｜🔇 BGM を消しました（タップでもとに戻ります）｜🔇 Music off (tap to turn it back on)
+459｜🔇 ミュート｜🔇 Mute
+460｜🔊 BGM を流します｜🔊 Music on
+461｜🔊 音を出す｜🔊 Sound on
+462｜{farm}の桜｜The Cherry Trees of {farm}

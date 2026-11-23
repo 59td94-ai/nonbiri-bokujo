@@ -338,8 +338,181 @@
 文,{1}日{2}回・好きな物だと ♥ が多め,{2} time(s) a day · more ♥ for favorites
 文,{1}棟目の条件：Lv.{2}（いま Lv.{3}・総収穫数{4}）,Building {1} needs Lv.{2} (now Lv.{3} · total harvest {4})
 文,{1}秒で消えます,Disappears in {1}s
+文,{farm}に来てから、まだちゃんとお礼を言ってなかったなって！,I realized I never properly thanked you since coming to {farm}!
+文,{name} がうなずく。,{name} nods.
+文,{name} が針と糸で縫うあいだ、しずくはまばたきもせずに見ている。,"While {name} sews it with needle and thread, Shizuku watches without blinking."
+文,{name}さん、おはようございます。ごめんなさい、早すぎましたか？,"Good morning, {name}. Sorry, am I too early?"
+文,{name}さん、この首輪、どうしましょう！,"{name}, what should we do with this collar?"
+文,{name}さん、たまにはご自分の手でなさいませ。……見ていてさしあげますわ,"{name}, do try doing things by hand once in a while. …I shall watch over you."
 文,{name}さん、ですね。「{farm}」……とってもすてきな名前です！,"{name}, is it? And “{farm}”… what a lovely name!"
 文,{name}さん、ですね。「{farm}」、これからもよろしくお願いしますね！,"{name}, is it? And “{farm}.” I look forward to working with you!"
+文,{name}さん、どうしましょうか。,"{name}, what should we do?"
+文,{name}さん、どう思います！？,"What do you think, {name}!?"
+文,{name}さん、もしよければ今日は少しだけ、ご自分の手で見てあげてくれませんか？,"{name}, if you don't mind, could you look after things by hand a little today?"
+文,{name}さん、少しだけお時間をいただけますか？,"{name}, could you spare me a moment?"
+文,{name}さん。,{name}.
+文,{name}さん。どちらに合わせるべきかしら。,{name}. Which should we go by?
+文,{name}さん。昨日のことですけれど。,{name}. About yesterday.
+文,{name}さん〜、今日はちょっとだけ、手で作業してもらえるとうれしいっス〜,"{name}~, I'd be happy if you did a bit of work by hand today~"
+文,{name}さん〜。これ、あげるっス。,{name}~. This is for you.
+文,{name}さんは、どっちだと思うっス？,"Which one do you think, {name}?"
+文,{name}さん！ちょうどいいところに！,{name}! Perfect timing!
+文,{name}さん！今日はいっしょに手を動かしませんか！みんな喜びます！,{name}! Want to work together by hand today? Everyone will love it!
+文,{name}さん！目をつぶって、手を出してください！,{name}! Close your eyes and hold out your hands!
+文,……{name}、押さえてて。,"……{name}, hold it steady."
+文,……{name}さん、天使っス〜……zzz,"…{name}, you're an angel~… zzz"
+文,……{name}さん。あなたはどちらの味方ですの？,…{name}. Whose side are you on?
+文,……{name}は、どう思う。,"……What do you think, {name}."
+文,……¥{1}。……螢ｲ繧後◆。,……¥{1}. ……螢ｲ繧後◆.
+文,……¥{1}。悪くない,……¥{1}. Not bad.
+文,……………。（じっと {name} を見ている）,……………. (She's staring at {name})
+文,…………あんた、わりと鼻がいい。,…………You've got a decent nose.
+文,…………そう。そのまま。動かないで。,…………Yeah. Like that. Don't move.
+文,…………ひとりで、のつもりでしたのに。,"…………On my own. That was the plan, anyway."
+文,…………牧場の飯は、うるさい。,…………Meals at the farm are noisy.
+文,…………（傘の雨粒を、じっと見ている）,………… (She's gazing at the raindrops on her umbrella)
+文,…………（右上の「発生イベント」を指さしている）,………… (She's pointing at “Events” at the top right)
+文,……。……今回だけは、認めてさしあげますわ。,"…. …Just this once, I'll admit it."
+文,……「こむぎ」。……毛の色が、小麦粉みたいだから。,……“Komugi.” ……Its coat's the color of flour.
+文,……あ、{name}さん。えへへ、見られちゃいましたね！,"…Oh, {name}. Hehe, you caught me!"
+文,……あ、この話、内緒でお願いしますっス。めんどくさい仕事、増えそうなんで〜。,"…Oh, keep this between us, okay? I'd just get more annoying work~."
+文,……あいつに、名前つけた。,……I named that one.
+文,……あたしも、ちょっとずつでいいっスかね〜。,…Maybe I can go bit by bit too~.
+文,……あはは、のんびり屋さんっスね〜,"…Haha, that one's a slowpoke~"
+文,……あら、笑いましたわね？今、笑いましたわね！,"…Oh? You laughed, didn't you? You just laughed!"
+文,……ありがとう。,……Thank you.
+文,……ありがとうございます。でも、もっとおいしく淹れたいです,…Thank you. But I want to brew it even better.
+文,……ありがとうございます。心から、そう思っていますわ。,"…Thank you. I mean that, from the bottom of my heart."
+文,……あんた。柱、支えてて。,……You. Hold the post.
+文,……あー、ちょっと寝ぼけてないこと言ったっスね。じゃ、おやすみなさいっス〜。,"…Ah, I said something way too awake there. Well, g'night~."
+文,……いい。……大きさは。,……Sure. ……What size.
+文,……うるさいのは、嫌いじゃない。,……I don't mind noisy.
+文,……えへへ。じつはわたし、ハチがちょっとだけ……いえ、かなりこわいんです！,"…Hehe. Actually, I'm a little bit… no, really scared of bees!"
+文,……お手やわらかにっス〜,…Go easy on me~
+文,……お礼ではありませんわよ？借りを返しただけですの。,"…It's not a thank-you, mind you. I'm simply repaying a debt."
+文,……お茶を、プリンに？お茶は淹れて香りを味わうものですわ。,"…Tea, in pudding? Tea is meant to be brewed and its aroma savored."
+文,……ここ。前に住んでた。,……Here. I used to live here.
+文,……この着物が気になりますの？,…Curious about this kimono?
+文,……これ、見て。,……Look at this.
+文,……これ。鉋（かんな）。,……This. A plane. For wood.
+文,……じいちゃんが建てた小屋。……今は、屋根が半分ない。,……A cabin Grandpa built. ……Half the roof's gone now.
+文,……じいちゃんのは、まんまる。……でかい。,……Grandpa's were round. ……Big.
+文,……じいちゃんの馬には、名前があった。……先にいなくなった。,……Grandpa's horse had a name. ……It went before he did.
+文,……じいちゃんは、「家はひとりじゃ建てられん」って言ってた。,"……Grandpa used to say, “You can't build a house alone.”"
+文,……じゃあ、こはくさんの手の感じ、機械に覚えさせてみるっス〜,"…Then I'll try teaching the machine how your hands feel, Kohaku~"
+文,……すみません、少しぼんやりしていました。,"…I'm sorry, I was a little lost in thought."
+文,……そいつ、いちばん年寄り。,……That one's the oldest.
+文,……そう。それが、檜。,……Yeah. That's cypress.
+文,……そっか。名前がなくても、ちゃんと「このこ」なんですね！,"…I see. Even without a name, it's still its own little self!"
+文,……その、くま。……腕、また取れかけてる。,……That bear. ……Its arm's coming off again.
+文,……その顔、やめてくださいます？なんだか負けた気がしますわ。,…Would you stop making that face? It makes me feel like I've lost.
+文,……それがいま、本当にここにあるんですよね。,"…And now it's really here, isn't it?"
+文,……それなら、いい。,……That works.
+文,……たぶん、だれも急かさないからっスね。,…Probably 'cause nobody rushes me.
+文,……たまには、いいかもしれませんね,…Maybe once in a while is nice.
+文,……たまには、こういう日もいいですね,…A day like this is nice once in a while.
+文,……だから、あの、もう少しだけそばにいてくれます？,"…So, um, could you stay with me a little longer?"
+文,……だから、あんたも。,"……So, you too."
+文,……つけると、情がうつるから。,"……Name it, and you get attached."
+文,……でも、ブラシはかける。……毎日。,……But I brush it. ……Every day.
+文,……でも、飯を作っても、「うまい」って言う人がいない。,"……But when I cooked, no one was there to say “tasty.”"
+文,……どうも。……もらっとく,……Thanks. ……I'll take it.
+文,……にわとりの声を、目覚ましの音にできたら……ちょっと起きられそうっス〜,…If I could make a chicken my alarm sound… I might actually wake up~
+文,……はい。祖母の手帳にはさんでおきますね。ありがとうございます,…Yes. I'll tuck it into my grandmother's notebook. Thank you.
+文,……はっ。寝てないっス。今のは、まばたきが長かっただけっス〜。,…Huh. I wasn't sleeping. That was just a long blink~.
+文,……ひとりで平気だと思ってた。,……I thought I was fine alone.
+文,……ひと口だけ、いただきますわ。……あら。,"…Just one bite, then. …Oh my."
+文,……ひなたさん……まだ、外、うすぐらいっスよ〜……,…Hinata… it's still dark out~…
+文,……ふうん。悪くはありませんわね。,"…Hmm. Not bad, I suppose."
+文,……ふふ。じゃあ、少しだけですよ,"…Hehe. Just for a little while, then."
+文,……ふふ。そうかもしれませんね。でも、長雨は根が弱ってしまうことも。,"…Hehe. Maybe so. But long rains can weaken the roots, too."
+文,……ふふ。答えなくていいっスよ。いまのは、ひとりごとっス。,…Heh. You don't have to answer. I was talking to myself.
+文,……ふふっ。いいと思います。,…Hehe. I think that's lovely.
+文,……まだ、早い。,……Too early.
+文,……みのりさん、やさしいっス〜……zzz,"…You're so nice, Minori~… zzz"
+文,……やはり。沸かしたてのお湯をそのまま注いだでしょう。茶葉がびっくりしていますわ。,"…Just as I thought. You poured boiling water straight in, didn't you? The leaves are in shock."
+文,……よろしくってよ。わたくし、絵には少し自信がありますの。,"…Very well. I'm rather good at drawing, you know."
+文,……ん。,……Mm.
+文,……ん。……あんたは、分かってる。,……Mm. ……You get it.
+文,……ん。……いいの、作る。,……Mm. ……I'll make a good one.
+文,……ん。……そっと、やる。,……Mm. ……I'll be gentle.
+文,……ん。……分かってる。,……Mm. ……I know.
+文,……ん〜……あ、{name}さん……おはようございっス〜……,"…Mm~… oh, {name}… mornin'~…"
+文,……ブーツ。……森の中も、これなら歩ける,……Boots. ……I can walk the woods in these.
+文,……レベル{1}。……おめでと,……Level {1}. ……Congrats.
+文,……レベル{1}。……縺翫ａ縺ｧ縺ｨ縺?。,……Level {1}. ……縺翫ａ縺ｧ縺ｨ縺?.
+文,……三角。,……Triangle.
+文,……三角も、うまい。,……Triangles are good too.
+文,……二度は言いませんわよ！さあ、お茶が冷めないうちにどうぞ。,"…I won't say it twice! Now, drink up before the tea gets cold."
+文,……今のは、たまたま。,……That was luck.
+文,……今日、少し手、貸して。……機械じゃなくて、あんたの手で,"……Lend a hand today. ……Yours, not a machine's."
+文,……今日は、ちゃんと起きてるっスよ〜。めずらしいでしょ。,"…I'm actually awake today~. Rare, huh."
+文,……仕方ありませんわね。お茶はわたくしが淹れます。,…Very well. I shall brew the tea.
+文,……任せて。,……Leave it to me.
+文,……似合っていますわ。わたくしも、椿の髪飾りを持っていますの。,…It suits you. I have a camellia hair ornament myself.
+文,……何。,……What.
+文,……何。……呼んだだけ。……仕事、戻る。,……What. ……Just said your name. ……Back to work.
+文,……候補に、入れとく。……「おもち」。,……I'll put it on the list. ……“Omochi.”
+文,……分かった。……五段。……漆は、ちょっと待って。,"……Fine. ……Five tiers. ……Lacquer, give me time."
+文,……助かった。……ありがと,……That helped. ……Thanks.
+文,……右上。……遒ｺ隱阪＠縺ｦ。,……Top right. ……遒ｺ隱阪＠縺ｦ.
+文,……名前は、しばらく見てから決める。……その子に合うやつ。,……I watch a while before naming. ……Something that fits.
+文,……名前？……ない。,……A name? ……None.
+文,……多い。,……Too much.
+文,……当然ですわ。でも、そう言っていただけるのは、悪くありませんわね,…Naturally. But I don't mind hearing you say so.
+文,……当然ですわ。ねえ、しずくさん,"…Naturally. Isn't that right, Shizuku?"
+文,……情がうつっても、いい。……そう思えた。,……Getting attached is okay. ……I can think that now.
+文,……意味、やっとわかった。,……I finally get what he meant.
+文,……振り向かない！あれー！？,…She's not turning! Whaaat!?
+文,……握り飯。……うまい。……また、食いたい,……Rice ball. ……Tasty. ……Want another sometime.
+文,……明日、作ってくる。……でかいの。,……I'll make some tomorrow. ……Big ones.
+文,……昼寝は、否定しない。,……Won't argue with naps.
+文,……木は、一本ずつ違う。……手で触ると、分かる。,……Every board's different. ……You can tell by touch.
+文,……木は、削ると匂いが変わる。……嗅いでみる？,……Wood smells different when you shave it. ……Want a sniff?
+文,……知ってる。,……I know.
+文,……窶ｦ窶ｦ縺ゅｊ縺後→（……ありがと）,……窶ｦ窶ｦ縺ゅｊ縺後→（……thanks）
+文,……窶ｦ窶ｦ縺翫�ｭ縺後＞（……おねがい）,……窶ｦ窶ｦ縺翫�ｭ縺後＞（……please）
+文,……窶ｦ窶ｦ（……）,……窶ｦ窶ｦ（……）
+文,……立派なロビーですわね。わたくしの家の旅館も、こんな風でしたの。,"…What a fine lobby. My family's inn was like this, too."
+文,……約束します。こんどの雨の日は、わたしも一緒に畑を見回ります。,"…I promise. Next time it rains, I'll walk the field with you."
+文,……紙、持ってくる。,……I'll get paper.
+文,……縺ゅ◆繧峨＠縺�縲√°縺�（あたらしい、かさ）,……縺ゅ◆繧峨＠縺�縲√°縺�（a new… umbrella）
+文,……縺ゅａ縲√☆縺�（あめ、すき）,……縺ゅａ縲√☆縺�（rain… I like it）
+文,……縺ゅｊ縺後→（ありがと）,……縺ゅｊ縺後→（thanks）
+文,……縺上∪縲√�ｵ繧九＞（くま、ふるい）,……縺上∪縲√�ｵ繧九＞（bear… old）
+文,……縺九▲縺�（かった）,……縺九▲縺�（won）
+文,……縺九＆縲√＞繧峨↑縺�（かさ、いらない）,……縺九＆縲√＞繧峨↑縺�（no umbrella… needed）
+文,……縺励★縺上√″繧�縺�縺昴≧（しずく、きょうそう）,……縺励★縺上√″繧�縺�縺昴≧（raindrops… racing）
+文,……縺吶″（すき）,……縺吶″（I like it）
+文,……縺昴ｉ（そら）,……縺昴ｉ（sky）
+文,……縺溘ｓ縺倥ｇ縺�縺ｳ縲√≧繧後＠縺�（たんじょうび、うれしい）,……縺溘ｓ縺倥ｇ縺�縺ｳ縲√≧繧後＠縺�（birthday… happy）
+文,……縺薙→縺ｰ縲√％繧上ｌ縺ｦ繧�（ことば、こわれてる）,……縺薙→縺ｰ縲√％繧上ｌ縺ｦ繧�（my words… are broken）
+文,……縺薙％縲√＠縺壹°（ここ、しずか）,……縺薙％縲√＠縺壹°（it's quiet here）
+文,……縺薙�ｮ縺薙�√�ｲ縺ｨ縺ｫ 縺ｨ縺ｾ繧峨↑縺�（このこ、ひとに とまらない）,……縺薙�ｮ縺薙�√�ｲ縺ｨ縺ｫ 縺ｨ縺ｾ繧峨↑縺�（it never lands on people）
+文,……縺薙�ｮ縺薙�ｯ縲√％縺ｮ縺�（このこは、このこ）,……縺薙�ｮ縺薙�ｯ縲√％縺ｮ縺�（it's… just itself）
+文,……縺阪ｉ縺阪ｉ縲√☆縺�（きらきら、すき）,……縺阪ｉ縺阪ｉ縲√☆縺�（sparkly… I like it）
+文,……縺､縺ｰ縺阪√″繧後＞（つばき、きれい）,……縺､縺ｰ縺阪√″繧後＞（Tsubaki… pretty）
+文,……縺ｦ縺､縺縺｣縺ｦ（てつだって）,……縺ｦ縺､縺縺｣縺ｦ（help me）
+文,……縺ｧ繧ゅ�√▽縺溘ｏ縺｣縺ｦ繧具ｼ�（でも、つたわってる？）,……縺ｧ繧ゅ�√▽縺溘ｏ縺｣縺ｦ繧具ｼ�（but… do they get through?）
+文,……縺ｪ縺翫○繧具ｼ�（なおせる？）,……縺ｪ縺翫○繧具ｼ�（can you fix it?）
+文,……縺ｪ縺ｾ縺医√↑縺�（なまえ、ない）,……縺ｪ縺ｾ縺医√↑縺�（no… name）
+文,……縺ｫ縺ｦ繧�（にてる）,……縺ｫ縺ｦ繧�（like you）
+文,……縺ｯ縺溘￠繧ゅ√ｈ繧阪％繧薙〒繧�（はたけも、よろこんでる）,……縺ｯ縺溘￠繧ゅ√ｈ繧阪％繧薙〒繧�（the field… is happy too）
+文,……縺ｯ繧後◆（はれた）,……縺ｯ繧後◆（it cleared）
+文,……縺ｵ縺倥√♀縺昴ｍ縺�（ふじ、おそろい）,……縺ｵ縺倥√♀縺昴ｍ縺�（wisteria… matching）
+文,……縺ｿ縺�（みぎ）,……縺ｿ縺�（right one）
+文,……縺�縺溘￥縲√＠縺ｪ縺��ｼ�（いたく、しない？）,……縺�縺溘￥縲√＠縺ｪ縺��ｼ�（won't… hurt it?）
+文,……縺�縺｣縺励ｇ縺ｫ縲√＞縺�（いっしょに、いく）,……縺�縺｣縺励ｇ縺ｫ縲√＞縺�（I'll… come too）
+文,……縺�縺｣縺励ｇ（いっしょ）,……縺�縺｣縺励ｇ（together）
+文,……縺�縺�縺�（だいじ）,……縺�縺�縺�（precious）
+文,……縺�繧�（うん）,……縺�繧�（yeah）
+文,……繧√★繧峨＠縺�（めずらしい）,……繧√★繧峨＠縺�（that's rare）
+文,……繧医°縺｣縺�（よかった）,……繧医°縺｣縺�（good）
+文,……設計図。……みんなで使う、休憩小屋。,……A blueprint. ……A rest hut for everyone.
+文,……誕生日。……誰かに祝われるの、ひさしぶり,……Birthday. ……Been a while since anyone celebrated.
+文,……貸して。……木の板で、添え木する。,……Let me see. ……I'll splint it with a strip of wood.
+文,……野の花。……こういうのが、いちばんいい,……Wildflowers. ……These are the best.
+文,……！……いい工具。……一生、使う。……ありがと,……! ……Good tools. ……I'll use them forever. ……Thanks.
 文,…きれいだと、お客が増える。売上も上がる。…地味だけど、大事。,"…Clean means more customers. Sales go up too. …Not flashy, but it matters."
 文,…ここは厩舎。馬を育てる場所。,…This is the stable. Where you raise horses.
 文,…こはく。厩舎とか、木材とか…力仕事の担当。,"…Kohaku. Stable, lumber… I handle the heavy work."
@@ -428,6 +601,7 @@
 文,⚙️ 🧃ジュース工場 {1}P目を機械化しますか？,⚙️ Mechanize 🧃Juice Factory page {1}?
 文,⚠️ AIの維持費が払えず停止しました,⚠️ Stopped: couldn't pay the AI's upkeep
 文,⚠️ ⏸ 止めたままのもの {1}件！ ✉️を見てみよう,⚠️ ⏸ {1} things left stopped! Check ✉️
+文,⚠️ お金が足りません,⚠️ Not enough money
 文,⚠️ このブラウザにはまだセーブデータがありません。,⚠️ This browser has no save data yet.
 文,⚠️ コピーできませんでした。選択された状態なので「コピー」を押してください,"⚠️ Couldn't copy. The text is selected, so press “Copy.”"
 文,⚠️ 人数が一気に増えると給料の負担も大きくなります。資金が尽きたところで止まります。,⚠️ Hiring many people at once means big wage costs. It stops when the money runs out.
@@ -466,6 +640,10 @@
 文,。作業・受け取り・建築は続けるので、木材が在庫にたまって建築に回せます。,". Work, receiving and construction continue, so lumber builds up in stock for construction."
 文,。製造中のものは完成して納品待ちで残ります。手動の操作はいつでもできます。,. Anything in production is finished and waits for delivery. You can still do things by hand anytime.
 文,「⚙️ 設定」では、音量の調整だけでなく、セーブややり直しもできます。,"In “⚙️ Settings,” you can adjust the volume, save, or start over."
+文,「おもち」、かわいいと思う,“Omochi” is cute
+文,「かぶ、よく育つ。孫が笑う」……ふふ、これ、わたしのことです。,"“Turnips growing well. Granddaughter smiling.” …Hehe, that's me."
+文,「そら」！すっごくいいです！しずくさん、天才です！,"“Sora”! That's perfect! Shizuku, you're a genius!"
+文,「そらまめ」、いいかも,“Soramame” sounds good
 文,「とっておき」のプレゼント。好きな子にあげると ♥+{1}、それ以外の子でも ♥+{2}。\n💗（吹き出しの上のハート）から、{3}人に{4}日{5}回渡せます。誕生日の旬は ♥{6}倍。\n誰の好きな物かは、渡してみると分かります。,"A “Treasures” gift. ♥+{1} for someone who loves it, ♥+{2} for anyone else.\nGive it from 💗 (the heart above the speech bubble), {5} time(s) per person per {4} day. ♥×{6} around their birthday.\nGive it a try to find out who loves it."
 文,「やり直し」を選ぶとデータが初めからになりますので、気をつけてくださいね。,"“Start over” resets your data to the beginning, so please be careful."
 文,「人事」では、人手の足りない持ち場へ、まとめて人を配置することもできますよ。,"In “HR,” you can also send people to short-staffed workplaces all at once."
@@ -477,10 +655,19 @@
 文,「食べ物」のプレゼント。好きな子にあげると ♥+{1}、それ以外の子でも ♥+{2}。\n💗（吹き出しの上のハート）から、{3}人に{4}日{5}回渡せます。誕生日の旬は ♥{6}倍。\n💝 みのりの好きな物です。,"A “Food” gift. ♥+{1} for someone who loves it, ♥+{2} for anyone else.\nGive it from 💗 (the heart above the speech bubble), {5} time(s) per person per {4} day. ♥×{6} around their birthday.\n💝 Minori loves this."
 文,「🌾 耕種」は畑のお仕事です。畑のページを開くと、作物を植える区画が並んでいます。,“🌾 Crops” is field work. Open the field page and you'll see rows of plots for planting.
 文,「🏢 事務所」で最初に使えるのは、「総務/経理」「人事」「営業」の{1}つの部署です。,"In the “🏢 Office,” you can use {1} departments at first: “General Affairs/Accounting,” “HR” and “Sales.”"
+文,あ……それ、祖母が飼っていた牛のものです。「はなこ」という名前でした。,Oh… that belonged to my grandmother's cow. Her name was “Hanako.”
+文,あ、ありがとっス〜。あとでいただくっス,"Oh, thanks~. I'll have it later."
+文,あ、その手帳……棚の奥にしまってあったものですね。,"Oh, that notebook… it was tucked away at the back of the shelf."
 文,あ〜…はじめましてっス〜…あかりっス〜…,Ah~… nice to meet you~… I'm Akari~…
 文,あかり 登場,Akari appears
+文,あかりさん。この織り機、糸の張りが少しきつすぎますわ。,Akari. The thread tension on this loom is a little too tight.
+文,あかりさーん！おはようございまーす！朝ですよー！,Akariii! Good morniiing! It's morning!
+文,あかりと同じ、左！,"Same as Akari, the left!"
 文,あかりに渡す,Give to Akari
 文,あかりのお願い：担当の持ち場で自分で作業を{1}回（♥+{2}）,Akari's request: work by hand at her workplace {1} times (♥+{2})
+文,あかりのストーリーを全部見ました！,You've seen all of Akari's story!
+文,あかりの調整で試してみよう,Try Akari's settings
+文,あたしね、最近、朝がちょっと楽しみなんすよ。,"Lately, I kinda look forward to mornings."
 文,あと {1}秒,{1}s left
 文,あと{1}秒・そろえば自動で引き渡し,{1}s left · handed over automatically once stocked
 文,あと{1}秒・防げないと所持金の{2}%の被害,"{1}s left · if not prevented, you lose {2}% of your money"
@@ -488,27 +675,67 @@
 文,あとから雇った人も、この方針を引き継いで働きます。,People you hire later will follow this plan too.
 文,あとで,Later
 文,あとで治療する,Treat later
+文,あのね、ここにいる子たち、全員に名前つけたんですよ！,Guess what? I gave names to every single one of them!
 文,あめ玉,Candy
+文,あら、あかりさん。こんなところで……お昼寝ですか？,"Oh, Akari. Napping… here of all places?"
+文,あら、気が利きますのね。いただいておきますわ,"My, how thoughtful. I'll accept it."
+文,ありがとうございます。みんな、きっと喜んでいますね,Thank you. I'm sure everyone's happy.
+文,ありがとうございます。大事にいただきますね,Thank you. I'll treasure it.
+文,あー、その機械、止まっちゃったんすか〜？,"Ah, that machine stopped~?"
+文,あー、雨つぶの競争っスか。……あたしは、左のやつに一票っス〜,"Oh, a raindrop race. …I'm betting on the left one~"
+文,いちおう……目覚ましのつもりっス。音、ちっちゃいけど。,"It's meant to be… an alarm clock. Kinda quiet, though."
 文,いちご狩りイベント,Strawberry-picking event
+文,いっしょに図面を描いたら？,Why not draw the plans together?
 文,いまの売値：{1}倍（レベルで上がります）,Current price: ×{1} (rises with level)
 文,いま体験を開ける馬がいません,No horse can host a ride right now
 文,いま増設できるものはありません,Nothing can be expanded right now
+文,いや、サボってないっスよ〜。機械の音を……聞いてただけっス。,"No, I'm not slacking~. I was just… listening to the machines."
+文,うう、じゃあ毎日見に来ます！決まったら教えてくださいね！,"Ugh, then I'll come see it every day! Tell me when you decide!"
+文,うわわわ！{name}さん、助けてください！,"Waaah! {name}, help me!"
+文,え、なんでわかるのかって？……んー、前の仕事で、ちょっとだけっス。,"How do I know? …Mm, a little from my old job."
+文,え〜、数字の上では、ぴったりなんスけどね〜。,"Eh~, the numbers say it's perfect, though~."
+文,ええ。祖母は毎朝、いちばんに牛舎へあいさつに来ていました。,"Yes. Every morning, my grandmother came to greet the cowshed first thing."
+文,ええ。藤は、雨の日にいちばん映える花ですもの,Indeed. Wisteria looks its best on rainy days.
+文,えっ……。は、はい。二杯目も、そのまま注いでいました……,Oh… Y-yes. I pour the second cup straight from it…
+文,えっ、食べ物ばっかり？……あはは！ばれました？,Huh? They're all foods? …Ahaha! You noticed?
+文,えっ！じゃあ、わたしがつけてもいいですか！「そらまめ」とか！,What! Then can I name it? Like “Soramame”!
+文,えへへ、なんか目がしょぼしょぼします！花粉です！たぶん！,"Hehe, my eyes are all blurry! It's pollen! Probably!"
+文,えへへ！じゃあ毎朝、起こしに行きます！,Hehe! Then I'll come wake you every morning!
+文,えー！？名前を呼んだら、すぐ仲良くなれるんですよ！,Whaaat!? Calling their names makes you friends right away!
+文,え？あ、はい。祖母に教わった形なんです。こはくさんのおうちは、違いました？,"Huh? Oh, yes. My grandmother taught me this shape. Was it different at your home, Kohaku?"
+文,お〜…¥{1}っス〜…,Ooh~… ¥{1}~…
+文,お〜…レベル{1}っス〜…おめでとうっス〜…,Ooh~… level {1}~… congrats~…
 文,おいしそうでしょ！ 材料は酪農と養鶏から届くよ！,"Looks yummy, right? The ingredients come from the dairy and poultry!"
 文,おかえりなさい！ ……あっ、そういえば、まだお名前を伺っていませんでした。,"Welcome back! …Oh, come to think of it, I never asked your name."
+文,おつかれさまっス〜。……ちょっと、目が覚めたっス,Good work~. …That woke me up a little.
 文,おにぎり,Rice balls
+文,おめでとうございます。レベル{1}になりましたね,Congratulations! You've reached level {1}.
 文,おもてなしに妥協は許されませんわ。わたくしがしっかり仕切って差し上げますわよ。,"There's no compromising on hospitality. I shall run things properly, you'll see."
+文,お客さまが減って、三年前に閉じましたわ。父も母も、もう年ですから。,"Guests dwindled, and it closed three years ago. Father and Mother are getting on in years."
 文,お客さん,Customers
 文,お客さんがいっぱい来るとうれしいね！ 清掃でパークをきれいにしておくと、売上も上がるよ！,It's so nice when lots of visitors come! Keep the park clean and sales go up too!
+文,お湯は、一度湯呑みに移して冷ますの。……そう、丁寧に。,"First, pour the water into a cup to cool it. …Yes, carefully."
+文,お疲れさまです。¥{1}になりました,Good work. That's ¥{1}.
+文,お祝いなんて……。……でも、とてもうれしいですわ,"A celebration, for me… …But I'm very happy."
+文,お茶はお茶で味わいたいな,I'd rather enjoy tea as tea
 文,お茶工場ですわ。茶畑の茶葉から、緑茶・紅茶などを作りますの。,"This is the Tea Factory. We make green tea, black tea and more from tea field leaves."
 文,お茶工場（🌾耕種の🍵茶畑を開くと増築できます）,Tea Factory (expand after opening 🍵Tea Field in 🌾Crops)
+文,お茶菓子、用意してきますね,I'll go get some sweets to go with it.
 文,お菓子作りセット,Baking set
+文,お菓子作りセット！これで、もっとおいしいプリンが作れます！{name}さんに一番に食べてもらいますね！,"A baking set! Now I can make even yummier pudding! You'll get the first taste, {name}!"
 文,お金・レベル・収穫数・畑の状態・肥料の効果はすべて消え、元に戻すことはできません。,"Money, level, harvest count, field states and fertilizer effects will all be erased. This can't be undone."
 文,お願い,Requests
+文,かいこが桑の葉っぱ食べる音っス。さらさらって、雨みたいでしょ。,"It's the silkworms eating mulberry leaves. Rustle, rustle, like rain, right?"
 文,が上乗せされます。（いまの🏬 本店の評価額 ¥{1}）,. (Current valuation of the 🏬 Main store: ¥{1})
+文,くまのぬいぐるみの腕が、ほつれている。,The teddy bear's arm is coming apart.
+文,ここが、わたしの新しい実家です！……って、勝手に決めちゃいました！,This is my new home! …I just decided that all by myself!
 文,ここでは牧場でとれた品物を棚に並べて、お客さまに買っていただきます。,"Here, we put farm goods on the shelves for customers to buy."
 文,ここで決めた内容には、従業員・バイト・短期バイトを問わず{1}人全員が従います。,"All {1} people follow what you decide here, whether employees, part-timers or short-term workers."
+文,ここのライン、いい音するんすよ〜。ごうん、ごうんって……,"This line sounds nice~. Whirr, whirr…"
 文,ここの担当っス〜…よろしくっス〜…,I'm in charge here~… nice to meet you~…
+文,ここの機械の音は、なんか平気なんすよね〜。……不思議っス。,The machines here don't bother me~. …Weird.
 文,ここは厩舎。馬を育てる場所。,"This is the stable, where you raise horses."
+文,こっちが「もちこ」、こっちが「きなこ」、あっちのにわとりが「ごまだんご」！,"This one's “Mochiko,” this one's “Kinako,” and that chicken over there is “Gomadango”!"
 文,このふれあいエリアの動物がいません（畜産で飼育すると開けます）,No animals for this petting area (raise them in Livestock to open it)
 文,このページには作業を始められる空きブロックがありません。,This page has no empty blocks to start work on.
 文,このページには日雇いバイト{1}人を入れられる製造中のブロックがありません。,No block in production on this page can take {1} day laborer(s).
@@ -516,39 +743,116 @@
 文,このページには肥料({1}マス分)を使える成長中の区画がありません。,No growing plots on this page can use fertilizer ({1} plots).
 文,このページには重機レンタル（建築現場）を入れられる製造中のブロックがありません。,No block in production on this page can take heavy machinery rental (construction site).
 文,この動物をまだ飼っていません（畜産で飼育すると開けます）,You don't have this animal yet (raise it in Livestock to open)
+文,この器……見事な焼きですわ。お茶を点てるときに、使わせていただきます,This dish… beautifully fired. I shall use it when I make tea.
+文,この子たち、何日もかけて、ちょっとずつ糸を吐くんすよ〜。,"They spin their thread bit by bit, over days~."
 文,この店舗の在庫：,This store's stock:
 文,この店舗はすべての売り場がオープンしています！,Every section of this store is open!
 文,この持ち場はまだ始めていません。,This workplace hasn't started yet.
 文,この持ち場を定員の {1}人 まで埋めます。（いま {2}人／あと {3}人）\n\n・雇用形態はこだわらず、安く雇える人から順に採用します\n・👔従業員が足りない持ち場は、先に従業員でそろえます\n・🏠寮希望の人を最優先で採用します（給料半額／生活費 ¥{4}）\n・待機している人がいれば、先にその人を配置します\n\n資金が尽きたところまで採用します。,Fill this workplace up to its capacity of {1}. (Now {2} / {3} more)\n\n· Any type of contract; the cheapest hires come first\n· Workplaces short of 👔employees are filled with employees first\n· People who want 🏠the dorm are hired first (half pay / living costs ¥{4})\n· Anyone on standby is assigned first\n\nHiring continues until the money runs out.
 文,この方針で再開する,Resume with this plan
+文,この牧場の茶畑で摘んだお茶と、工房で焼いた器ですの。,"Tea picked in this farm's Tea Field, served in cups fired at our workshop."
+文,この牧場は、もともと祖母のものだったんです。,This farm originally belonged to my grandmother.
 文,この種類の持ち場はまだありません。,There are no workplaces of this type yet.
+文,この端末では全画面にできません。⚙️設定の「📐 画面の大きさ」で調整できます,This device can't go fullscreen. Adjust it in “📐 Screen size” in ⚙️ Settings
 文,こはく 登場,Kohaku appears
+文,こはくさん、お昼のおにぎりです。よかったら、どうぞ。,"Kohaku, here's a rice ball for lunch. Please, have one."
+文,こはくさん。工房で焼いた器を並べる棚を、作っていただけませんこと？,Kohaku. Would you make a shelf to display the dishes fired at the workshop?
+文,こはくさん〜、板にかんなかけるの、機械にやらせたら一瞬っスよ〜？,"Kohaku~, a machine could plane those boards in no time~?"
+文,こはくさん！この子の名前、「おもち」にしましょう！ほら、白くてふわふわ！,"Kohaku! Let's name this one “Omochi”! Look, it's white and fluffy!"
+文,こはくなら、大丈夫,Kohaku will be careful
 文,こはくに渡す,Give to Kohaku
 文,こはくのお願い：担当の持ち場で自分で作業を{1}回（♥+{2}）,Kohaku's request: work by hand at her workplace {1} times (♥+{2})
+文,こはくのストーリーを全部見ました！,You've seen all of Kohaku's story!
+文,こはくの大きな手が、くまの腕をていねいに包んだ。,Kohaku's big hands carefully wrap the bear's arm.
 文,こぶたのレースとふれあいコーナーです。,Piglet races and a petting corner.
+文,これ、最新のやつっスよね！？……やば、完全に目が覚めたっス。大事に使うっス,"This is the newest model, right!? …Whoa, I'm wide awake now. I'll take good care of it."
+文,これからも、どうぞよろしくお願いします。ずっと、ずっと。,"I hope we'll keep working together. For a long, long time."
+文,これは、{farm}の桜です。わたしと、{name}さんの。,"This is {farm}'s cherry tree. Yours and mine, {name}."
 文,ごきげんよう。わたくし、つばきと申しますわ。,Good day. My name is Tsubaki.
+文,さあさあ、温かいうちに！いや、プリンは冷たいうちに！どうぞ！,"Come on, eat it while it's warm! Wait, pudding's best cold! Go ahead!"
 文,さっそくですが、あなたのお名前と、この牧場の名前を教えていただけますか？,"First things first: may I ask your name, and the name of this farm?"
 文,さらに「人事」では、育てるものの方針もまとめて決められます。ぜひ活用してみてくださいね。,“HR” also lets you set a plan for what everyone grows. Do make good use of it!
+文,さんせいっス〜……,Seconded~…
 文,しずく 登場,Shizuku appears
+文,しずくが、くもったガラスに指で文字を書く。書いた文字も、くずれている。,Shizuku writes on the fogged glass with her finger. The letters are broken too.
+文,しずくが、ほんの少しだけ笑った気がした。,"It seemed like Shizuku smiled, just a little."
+文,しずくが決めていいよ,"It's your call, Shizuku"
+文,しずくさん、ずっとガラス見てるっスね〜。……なにか見えるんスか？,"Shizuku, you've been staring at the glass forever~. …See something?"
+文,しずくさん、傘もささずに……。雨、あたりすぎると冷えてしまいますよ。,"Shizuku, without an umbrella…? You'll get cold out in the rain too long."
+文,しずくさん。その髪の藤の花、いつもつけていらっしゃるのね。,"Shizuku. You always wear that wisteria in your hair, don't you?"
+文,しずくさん！その青い鳥さん、名前はなんていうんですか！？,Shizuku! What's that blue bird's name!?
+文,しずくと同じ、右！,"Same as Shizuku, the right!"
+文,しずくに決めてもらおう,Let Shizuku decide
 文,しずくに渡す,Give to Shizuku
 文,しずくのお願い：担当の持ち場で自分で作業を{1}回（♥+{2}）,Shizuku's request: work by hand at her workplace {1} times (♥+{2})
+文,しずくのストーリーを全部見ました！,You've seen all of Shizuku's story!
+文,しずくの藤も、きれいだよ,"Your wisteria is pretty too, Shizuku"
+文,しずくの言葉が、はじめて文字化けせずに届いた。,"For the first time, Shizuku's words came through unbroken."
+文,しずくは傘をたたみ、{name} の横に並んで雨を見ている。,Shizuku folds her umbrella and watches the rain beside {name}.
 文,しない・通常出荷（等倍）,Off · normal shipping (×1)
+文,しーっ……聞こえますっスか〜？,Shhh… can you hear it~?
+文,じいちゃんの。……大工だった。,Grandpa's. ……He was a carpenter.
+文,じゃあ、つばきさんの「ちょうどいい」を数字にしてみるっス〜,Then I'll try turning Tsubaki's “just right” into numbers~
+文,じゃあ、名前は「はなこ二世」！？,Then her name will be “Hanako the Second”!?
+文,じゃあ、朝ごはんができたら起こしますね！,Then I'll wake you when breakfast is ready!
+文,じゃあ〜……みのりさんの麦わら帽子、貸してほしいっス〜,"Then~… can I borrow your straw hat, Minori~?"
+文,じゃあなんで手でやるんスか〜。腕、疲れないんスか？,Then why do it by hand~? Don't your arms get tired?
+文,じゃあプリンは、お茶のおともってことで！,Then pudding can be a snack with the tea!
+文,じゃーん！これ、なんだと思います？,Ta-da! What do you think this is?
 文,すぐ治療する（¥{1}）,Treat now (¥{1})
 文,すべてのページに機械が入っていて、アップグレードも済んでいます。,"Every page has machines, and all upgrades are done."
 文,すべての持ち場に従業員が{1}人以上います。,Every workplace has at least {1} employee.
+文,せ、先生だなんて……。……よろしい、きびしくいきますわよ,"T-teacher? …Very well, I'll be strict."
+文,そうですね。あの木の下なら、ゆっくり休めます,"Good idea. Under that tree, she can rest properly."
+文,そしたら、もうどこの牧場も、空っぽにならないって思ったんです！,And then no farm would ever be empty again. That's what I thought!
 文,そのまま再開,Resume as is
 文,そのまま収穫する,Harvest as is
 文,そのまま納品する,Deliver as is
 文,その下に並んでいるのが「部門」のボタンです。,The buttons below it are your “departments.”
+文,その封筒……見つかってしまいましたね。,That envelope… so you found it.
+文,その心がけ、悪くありませんわ,That attitude isn't bad at all.
+文,それからずっと、種をまくのが少しこわかったんです。,"Ever since then, sowing seeds has scared me a little."
 文,それぞれの見出しを開くと、そこから働く人を増やせます。人手が増えると、お仕事を任せられるようになりますよ。,"Open each heading to hire more people. With more hands, you can leave the work to them."
 文,それでは、さっそく始めましょう！ まずは畑に種を植えてみてくださいね。,"Well then, let's get started! Try planting some seeds in the field first."
+文,それでは渋くなりますわ。最後の一滴まで、注ぎ切るのが作法ですの。,Then it turns bitter. The proper way is to pour out every last drop.
+文,だから……畑にも、{name}さんのことを覚えてもらいましょうね。,"So… let's have the field remember you too, {name}."
+文,だから、ここがにぎやかなのが、うれしくてたまらないんです！,"That's why I'm so, so happy it's lively here!"
+文,だからわたくしが、家の名を取り戻すと決めたのです。ひとりで。,So I decided to restore my family's name. On my own.
+文,だから決めたんです。こわいけど、仲良くなるって！,"So I decided. Scary or not, we're going to be friends!"
+文,だから辞めて、とにかく寝られるところに行こうって……それでここに来たんす。,So I quit and figured I'd go somewhere I could sleep… and ended up here.
+文,ちょっと、{name}さん。そのお茶、どなたが淹れましたの？,"Excuse me, {name}. Who brewed that tea?"
+文,ちょっと貸してくださいっス。……ここと……ここ……はい、動いたっス。,"Lemme see. …Here… and here… there, it's running."
+文,っスよね〜。空いた時間は昼寝に使えるっス〜,Right~? Free time means nap time~
 文,ついにホームセンターを開きましたね！,You've finally opened the Home Center!
 文,つばき 登場,Tsubaki appears
+文,つばき、照れてる？,"Tsubaki, are you blushing?"
+文,つばきさんが触って、あたしが数字を見る……いいコンビっスね〜,"Tsubaki feels it, I watch the numbers… we make a good team~"
+文,つばきさん！新作です！牧場のお茶を入れた、抹茶プリン！,Tsubaki! New recipe! Matcha pudding made with our farm's tea!
 文,つばきに渡す,Give to Tsubaki
 文,つばきのお願い：担当の持ち場で自分で作業を{1}回（♥+{2}）,Tsubaki's request: work by hand at her workplace {1} times (♥+{2})
+文,つばきのこだわり、すてきだと思う,"I love how particular you are, Tsubaki"
+文,つばきのストーリーを全部見ました！,You've seen all of Tsubaki's story!
+文,つばきの手ざわりを信じよう,Trust Tsubaki's touch
+文,つばき先生に教わりたい,I'd like lessons from Teacher Tsubaki
+文,て、照れてなどいませんわ！……少ししか,I-I am not blushing! …Only a little.
 文,できあがった製品が {1}個あります。\n\n「小売販売」に出すと納品価格が上がります。どうしますか？,You have {1} finished products.\n\nSelling them through “Retail” raises the price. What will you do?
 文,できあがった製品を自動でまとめて納品します。,Finished products are delivered automatically in bulk.
 文,できたガラスは、工芸品とかの材料になるっス〜…割らないように…っス〜…,The glass gets used for crafts and stuff~… Try not to break it~…
+文,でしょう？今度、きちんと淹れてさしあげますわ。,"Exactly. Next time, I shall brew you a proper cup."
+文,でしょう？器は、見せ方まで含めて器ですのよ,Don't I? How a dish is shown is part of the dish.
+文,ですから……この柿を。いちばん生りの良いものを選びましたわ。,So… these persimmons. I picked the very best of the harvest.
+文,ですよね！そらまめー！,Right!? Soramame!
+文,ですよね！？おもちー！……あ、こっち向いた！,"Right!? Omochi! …Oh, it looked over!"
+文,でっかい工場で、機械の面倒みてたんすよ〜。ずーっと。,I looked after machines at a huge factory~. For ages.
+文,では、とっておきの茶葉を出しますわ,Then I shall bring out my finest leaves.
+文,では、明日は半分ずつ作りましょうか,Then shall we each make half tomorrow?
+文,でも、{name}さんがまいた種は、ちゃんと芽を出しました。ひとつも取りこぼさずに。,"But the seeds you sowed, {name}, all sprouted. Every last one."
+文,でも、この子たちが集めたはちみつ、すっごくおいしいんです！,But the honey they collect is super delicious!
+文,でも、小学生のときにやめることになって。牛たちも、よその牧場へ行っちゃいました。,But it closed when I was in elementary school. The cows all went to other farms.
+文,でも、翌朝、{name}さんが「畑はどこですか」って聞いてくれて……,"But the next morning, you asked me, “Where's the field?”…"
+文,でもいまは、この手帳の続きを書いています。ちゃんと、毎日。,But now I'm writing the rest of this notebook. Every single day.
+文,でもでも、ひと口だけ！ほら、ほろ苦くておいしいですよ！,But just one bite! See? It's bittersweet and yummy!
+文,でもね、名前を呼ぶとちゃんと振り向いてくれるんです！ほら、もちこー！,"But when you call their names, they turn around! Watch — Mochiko!"
 文,で売り、,", and they count as"
 文,で案内します（動物{1}匹につき{2}人まで）。,(up to {2} per {1} animal).
 文,とうもろこし×{1}　参加しますか？,Corn ×{1}　Will you join?
@@ -556,22 +860,49 @@
 文,として棚に回り、「🚚 物流」を通って売り場に届きます。売り場の労働者が{1}点ずつ,", reaching the sections through “🚚 Logistics”. Section workers sell them {1} at a time at"
 文,とっておき,Treasures
 文,どこか{1}つの施設で全ての売り場をそろえると、その翌日（次のシーズン）から地方へ出店できます。,"Once any {1} store has every section, you can open regional stores from the next day (next season)."
+文,どっちも好き！,I like both!
 文,どの小屋を建てますか？,Which barn will you build?
 文,どの持ち場も定員までそろっています。,Every workplace is fully staffed.
 文,どれを小売販売しますか？,What will you sell at retail?
+文,な……！{name}さん、今の、聞きまして？,"Wha…! {name}, did you hear that?"
+文,なっ……！{name}さん、わたくし、無茶を言っていまして？,"Wha…! {name}, am I asking too much?"
+文,なのに養蜂の担当って、おかしいですよね！,"And I'm in charge of beekeeping! Funny, right?"
+文,なめらかで、きれい……。大切な日に巻きますね,So smooth and pretty… I'll wear it on special days.
+文,なんでもありませんわ。独り言ですの。聞かなかったことになさい。,It's nothing. Just talking to myself. Pretend you didn't hear.
 文,になります。（小売販売の「商業施設（他社）」は他社への卸で、自社の売上にはなりません）,. (“Shops (other companies)” in Retail is wholesale to other firms and doesn't count as your sales.)
+文,にわとりさんは、もう起きてます！コケコッコーって！,The chickens are already up! Cock-a-doodle-doo!
+文,にわとり目覚まし、作ってみよう,Let's make a chicken alarm clock
 文,ぬいぐるみ,Stuffed toy
+文,のんびりいこう〜,Let's take it easy~
+文,はい、どうぞ！{name}さんの分もちゃんとあります！,"Here you go! There's some for you too, {name}!"
+文,はい。いっしょに見回りましょう。……ありがとうございます,Yes. Let's walk around together. …Thank you.
+文,はい！もちこのミルクと、ごまだんごのたまごで作ったプリンです！,Here! Pudding made with Mochiko's milk and Gomadango's eggs!
+文,はい！毎朝、はなこにもあいさつします！,Yes! I'll say good morning to Hanako every day!
 文,はじめまして！ わたし、ひなた！ 動物のお世話ならまかせてね！,Nice to meet you! I'm Hinata! Leave the animal care to me!
 文,はじめまして！ 今日からこの牧場のお手伝いをさせていただく、みのりと申します。,"Nice to meet you! I'm Minori, and I'll be helping out on this farm starting today."
 文,はちみつレモネード×{1} 完成,Honey lemonade ×{1} done
+文,はなこも、きっと喜んでます！,I bet Hanako's happy too!
+文,はなこ！かわいい名前！ここで、ずっと大事にされてたんですね！,Hanako! What a cute name! She must have been loved here for so long!
 文,ひつじとのお散歩や毛刈りショーを楽しめます。,Enjoy walks with sheep and a shearing show.
 文,ひなた 登場,Hinata appears
 文,ひなたに渡す,Give to Hinata
 文,ひなたのお願い：担当の持ち場で自分で作業を{1}回（♥+{2}）,Hinata's request: work by hand at her workplace {1} times (♥+{2})
+文,ひなたのストーリーを全部見ました！,You've seen all of Hinata's story!
+文,ひなたの声がいちばんの目覚まし,Hinata's voice is the best alarm
+文,ひまわり！わたしみたいって、よく言われるんです！えへへ！,Sunflowers! People always say they're just like me! Hehe!
 文,ひよこや鶏とふれあい、卵拾いを体験できます。,Meet chicks and chickens and try collecting eggs.
+文,ふたりで合わせてみたら？,Why not tune it together?
+文,ふたりで決めたら？,Why not decide together?
+文,ふたりとも、花が似合うね,Flowers suit you both
+文,ふふ……祖母と同じですね。,Hehe… just like my grandmother.
+文,ふふ、うれしいです。明日も三角で作りますね,"Hehe, I'm glad. I'll make triangles again tomorrow."
+文,ふふ。でも、畑のまんなかだと、日に焼けてしまいますよ。,"Hehe. But in the middle of the field, you'll get sunburned."
+文,べ、別に褒めていませんわよ。「悪くない」と申し上げただけですの。,I-it's not as if I'm praising you. I merely said “not bad.”
 文,ほか,and more
 文,ほか {1}件 ›,{1} more ›
+文,まあ、和菓子……！分かっていらっしゃるのね。……お礼は申しませんわよ,"Oh, Japanese sweets…! You do understand me. …I won't be thanking you, mind."
 文,まあ、悪くありませんでしたわ。お疲れさまでした,"Well, that wasn't bad. Good work today."
+文,まずは、こはくに任せてみよう,Let's leave it to Kohaku first
 文,まずは、最初に使える場所を説明させてくださいね。,"First, let me show you the places you can use right away."
 文,まずは木材から。始めると各資材の持ち場が使えるようになります。,"Start with lumber. Once you begin, each materials workplace opens up."
 文,まだ出店できません,Can't open a store yet
@@ -580,12 +911,50 @@
 文,まとめて増設（+{1}区画・¥{2}）,Expand all (+{1} plots · ¥{2})
 文,まとめて増設（+{1}棟・¥{2}）,Expand all (+{1} buildings · ¥{2})
 文,まとめて雇う,Hire in bulk
+文,まんなかのやつ！,The middle one!
+文,まんなかの雨つぶは、途中でぴたりと止まってしまった。,The middle raindrop stops dead halfway down.
+文,まんまる……！{name}さんは、どちらがお好きですか？,"Round…! Which do you like, {name}?"
+文,まんまるも食べてみたい,I want to try a round one
 文,みのり 登場,Minori appears
+文,みのりが持っていてあげて,"You should keep it, Minori"
+文,みのりさん。あなた、お茶はいつも急須に入れっぱなしにしていませんこと？,Minori. Don't you always leave the tea sitting in the pot?
+文,みのりさん！この古い首輪、牛舎のすみっこから出てきました！,Minori! I found this old collar in a corner of the cowshed!
 文,みのりに渡す,Give to Minori
+文,みのりのお茶も好きだよ,I like Minori's tea too
 文,みのりのお願い：担当の持ち場で自分で作業を{1}回（♥+{2}）,Minori's request: work by hand at her workplace {1} times (♥+{2})
+文,みのりのストーリーを全部見ました！,You've seen all of Minori's story!
+文,みんなでお昼寝しよう,Let's all take a nap
+文,むむむ……。{name}さんは、どう思います！？,"Hmmm… What do you think, {name}!?"
+文,むー……。{name}さん、どっちが正しいと思うっスか〜？,"Hmm… {name}, who do you think is right~?"
+文,も、もちろんですわ。……{name}さんも、ご一緒にいかが？,"O-of course. …Would you care to join us, {name}?"
+文,もう……。{name}さん、どうしましょう？,"Oh, honestly… {name}, what should we do?"
+文,もう、必要ありませんね。……これは、わたしの宝物にしておきます。,I don't need it anymore. …I'll keep it as a treasure.
+文,もう。この繊維工場の品、ひとつでも雑なものを出したら承知しませんわよ。,"Honestly. If even one sloppy item leaves this Textile Mill, you'll answer to me."
+文,もう一度、牛舎がにぎやかな場所に立てて、すっごくうれしいんです！,"I get to stand in a lively cowshed again, and I'm so, so happy!"
+文,もう少し寝かせてあげよう,Let her sleep a little longer
+文,やったっス〜！……え、合体はありっスよね？,"Yesss~! …Wait, merging counts, right?"
+文,やったー！¥{1}ゲット！,Yay! Got ¥{1}!
+文,やったー！ありがとうございます！みんなもごきげんです！,Yay! Thank you! Everyone's in a great mood!
+文,やったー！候補入りです！,Yay! It made the list!
+文,やったー！！レベル{1}だよ！おめでとう！,Yay!! Level {1}! Congratulations!
 文,やめる,Stop
 文,やり直す,Start over
+文,ゆっくり見てから決めよう,"Let's watch a while, then decide"
+文,ようこそお越しくださいました。……今日は、わたくしがおもてなしいたしますわ。,"Welcome. …Today, I shall be your host."
+文,よろしくお願いします、つばき先生,"Please teach us, Teacher Tsubaki."
 文,よろしければ、あなたのお名前と、この牧場の名前を教えていただけますか？,"If you don't mind, may I ask your name, and the name of this farm?"
+文,よーし、しんみり終わり！ごはんの時間ですよー、みんなー！,"Okay, enough mushy stuff! Dinnertime, everyone!"
+文,わあ、ありがとうございます！うれしいです！,"Wow, thank you! I'm so happy!"
+文,わあ、お花……！祖母も、お花が大好きだったんです。ありがとうございます,"Oh, flowers…! My grandmother loved flowers too. Thank you."
+文,わあ、ぬいぐるみ！……名前、つけなきゃ！なににしようかな！,"Wow, a stuffed toy! …I have to name it! What should I call it?"
+文,わあ、楽しみです,"Oh, I can't wait."
+文,わたくし、借りを作ったままにするのは性に合いませんの。,Leaving a debt unpaid doesn't suit me.
+文,わたくしが口うるさいのは、きっとそのせいですのよ。,That must be why I'm so particular.
+文,わたしの実家も、小さい牧場だったんです。牛が{1}頭だけの！,My family had a little farm too. Just {1} cows!
+文,わたしの誕生日、覚えていてくださったんですか……？とってもうれしいです,You remembered my birthday…? I'm so happy.
+文,わーい、ありがとっス〜。……おひさまのにおいがするっス,"Yay, thanks~. …It smells like sunshine."
+文,わーい！お茶会です！,Yay! A tea party!
+文,ん〜……みのりさん……。ここ、風が気持ちいいんスよ〜……,Mm~… Minori… The breeze feels nice here~…
 文,アップグレード（¥{1}）,Upgrade (¥{1})
 文,アミューズメントパークがオープン！,The amusement park is open!
 文,アミューズメントパークだよ！ 畜産の動物たちとふれあえるんだ！,It's the amusement park! Visitors get to meet our farm animals!
@@ -598,8 +967,11 @@
 文,エサをあげてお世話すると、どんどん卵を産んでくれるよ！,"Feed them and take care of them, and they'll lay lots and lots of eggs!"
 文,オートにする（チェックした販売先）,Set to auto (checked outlets)
 文,カモミール,Chamomile
+文,カモミール……これでぐっすり眠れそうっス〜。……起きてたい日は、飲まないっスけど,"Chamomile… I'll sleep like a log with this~. …Won't drink it on days I want to stay up, though."
 文,カーディガン,Cardigan
+文,カーディガン……あったかいっス〜。これ着て、昼寝……いや、仕事するっス,"A cardigan… so warm~. I'll wear it to nap… I mean, to work."
 文,ガジェット,Gadget
+文,ガラスの屋根を、雨が静かにたたいている。,Rain taps softly on the glass roof.
 文,ガラスの持ち場っス〜…砂からガラスを作るっス〜…,This is the glass workplace~… We make glass from sand~…
 文,ガラス温室がまだありません（Lv.{1}〜）,No glass greenhouse yet (Lv.{1}+)
 文,ガラス温室で冬に植えられます。{1}袋で{2}区画。約{3}秒で咲き、{4}本とれます（いま{5}本¥{6}）。,Plant in a glass greenhouse in winter. {1} bag = {2} plot. Blooms in about {3}s and yields {4} stems (now {5} = ¥{6}).
@@ -616,12 +988,16 @@
 文,キャラへの贈り物（💗から渡す）,Gifts for characters (give from 💗)
 文,キャンセル,Cancel
 文,クッキー,Cookies
+文,クッキー……！甘い香り、大好きなんです。いただきますね,"Cookies…! I love that sweet smell. Thank you, I'll enjoy them."
+文,コ、コンビだなんて……。……まあ、よろしいですわ。,"A t-team? …Well, very well."
 文,コーヒー,Coffee
+文,コーヒー……！これで今日も起きてられるっス〜,Coffee…! Now I can stay awake today~
 文,ショップでプレゼントを買う,Buy gifts at the Store
 文,ジュース×{1} 完成,Juice ×{1} done
 文,ジュース工場っス〜…果樹園の果実から、ジュースを作るっス〜…,This is the Juice Factory~… We make juice from orchard fruit~…
 文,ジュース：果実{1}個→{2}本（約{3}秒・{4}倍）　🍶酒：果実{5}個→{6}本（約{7}秒・{8}倍）,Juice: {1} fruit → {2} bottles (about {3}s · ×{4})　🍶Liquor: {5} fruit → {6} bottles (about {7}s · ×{8})
 文,スズメの群れが実った穂をついばんでいます。,A flock of sparrows is pecking at the ripe ears.
+文,ストーリーは全部見ました,You've seen every story
 文,タイトル,Title
 文,タップで派遣,Tap to dispatch
 文,タップで選択,Tap to choose
@@ -659,6 +1035,8 @@
 文,ブロックで山開拓,blocks clearing the mountain
 文,ブロックで植林,blocks planting trees
 文,ブーツ,Boots
+文,プリンとお茶、両方ください,"Both pudding and tea, please"
+文,プリン！！わたしの大好物です！一生ついていきます！,Pudding!! My absolute favorite! I'll follow you forever!
 文,プレゼント,Gifts
 文,プレゼントは、キャラの💗（吹き出しの上のハート）から{1}人に{2}日{3}回渡せます。種は「植える・見る」から在庫を植えられます。,"Give gifts from a character's 💗 (the heart above the speech bubble), {3} time(s) per person per day. Plant seeds from stock with “Plant / View”."
 文,プレゼントを持っていません。,You don't have any gifts.
@@ -678,6 +1056,7 @@
 文,ホームセンターを開くと始められます,Available once you open the Home Center
 文,ホームセンターを開くと建てられます,You can build it once you open the Home Center
 文,ミルク収穫,Collect milk
+文,レベル{1}……ようやくですわね。まあ、おめでとうございますわ,"Level {1}… about time. Well, congratulations, I suppose."
 文,レベルが上がり、海外から買い付けの話が届きました！,"You leveled up, and buyers from overseas have come calling!"
 文,レベルが上がると、田んぼや養鶏など、新しいお仕事が少しずつ増えていきます。楽しみにしていてくださいね。,"As you level up, new work like rice paddies and poultry opens up little by little. Something to look forward to!"
 文,レベルが上がると増えます,Increases as you level up
@@ -714,6 +1093,12 @@
 文,一括製造：🧃ジュース工場の{1}ブロックで🍋はちみつレモネードの製造を始めました。,Produce all: started making 🍋honey lemonade in {1} blocks of the 🧃Juice Factory.
 文,一括製造：🧃ジュース工場の{1}ブロックで🧃ジュースの製造を始めました。,Produce all: started making 🧃juice in {1} blocks of the 🧃Juice Factory.
 文,一括調教を止めています（治療・乗馬体験の対象もいません）,Bulk training is stopped (no horses to treat or ride either)
+文,三人で、雨を見ていこう,"Let's watch the rain, all three of us"
+文,三人でお茶会にしよう,"Let's have a tea party, the three of us"
+文,三人でやろう,Let's do it together
+文,三人で考えよう,Let's think of one together
+文,三日後、つばきの器が映える、すっきりとした棚ができあがった。,"Three days later, a clean, simple shelf that shows off Tsubaki's dishes is finished."
+文,三角がいいな,I like triangles
 文,上のバーには季節と日付、右上の「✉️」は「発生イベント」です。お知らせが届くと数字や ❗ ⚠️ が付きますので、ときどき確かめてみてください。,"The top bar shows the season and date, and “✉️” at the top right is “Events.” A number, ❗ or ⚠️ appears when news arrives, so check it now and then."
 文,下のボタンから建てられます。🧃ジュース工場の材料は🍒果樹園の果実です。,Build it with the button below. The 🧃Juice Factory uses fruit from the 🍒Orchard.
 文,乳しぼりやエサやりを体験できます。,Try milking and feeding.
@@ -721,6 +1106,8 @@
 文,乳製品工場だよ！ 牛乳や卵から、チーズ・プリン・アイスを作るの！,"This is the Dairy Factory! We make cheese, pudding and ice cream from milk and eggs!"
 文,乳製品工場のチーズなどを運びます。,Carries cheese and more from the Dairy Factory.
 文,乳製品工場のチーズ・プリン・アイス,"Cheese, pudding and ice cream from the Dairy Factory"
+文,了解っス〜。……ほら、糸切れ、ゼロっス,Got it~. …See? Zero broken threads.
+文,了解っス〜。録音して……鳴る時間も設定して……,Got it~. Record it… set the time…
 文,予約,Reservation
 文,予約が入りました（青果売り場・{1}点）,Reservation received (produce section · {1} item(s))
 文,事務所で人を雇ってみよう,Try hiring people at the Office
@@ -760,6 +1147,7 @@
 文,全て最大まで増やす,Max out all
 文,全店の売り場を定員（{1}人）まで補充,Fill every store's sections to capacity ({1} staff)
 文,全店の売り場を定員（{1}人）まで補充（あと{2}人）,"Fill every store's sections to capacity ({1} staff, {2} more needed)"
+文,全画面にできませんでした。⚙️設定の「画面の大きさ」で調整できます,Couldn't go fullscreen. You can adjust it in “Screen size” in ⚙️ Settings
 文,兼任,doubling as guides
 文,兼任{1}人,{1} doubling up
 文,冬になりました（作業を一時停止中）,Winter has come (work paused)
@@ -780,6 +1168,7 @@
 文,出荷を止めていて、作業・建築もできない状態です,"Shipping is stopped, and neither work nor construction is possible"
 文,出走まであと{1}季,{1} seasons until racing
 文,分前のお知らせ,min. warning
+文,前の工場では、逆だったんすよ。夜も電話が鳴るから、全然眠れなくて……,"At my old factory it was the opposite. The phone rang all night, so I couldn't sleep at all…"
 文,前回のセーブデータを読み込みました。,Loaded your previous save data.
 文,前回は 🌾 小麦 を植えていました。\n今回は 🥔 じゃがいも を植えようとしています。\n\n本当にこの種類に変更して植えても大丈夫ですか？,Last time you planted 🌾 Wheat.\nThis time you're about to plant 🥔 Potato.\n\nAre you sure you want to switch crops?
 文,前回は 🌾 小麦 を植えていました。\n今回は 🧅 かぶ を植えようとしています。\n\n本当にこの種類に変更して植えても大丈夫ですか？,Last time you planted 🌾 Wheat.\nThis time you're about to plant 🧅 Turnip.\n\nAre you sure you want to switch crops?
@@ -818,6 +1207,7 @@
 文,古い内容で上書きしないように、この画面からの保存を止めています。ページを開き直すと、最新の状態で続きから遊べます。,"To avoid overwriting it with older data, saving from this screen is stopped. Reopen the page to continue from the latest state."
 文,右の欄では、{name}さんのレベルや作物の育ち具合、いまの依頼、次の季節までの日数が見られます。左下の🐥も、次に行くとよさそうな場所を教えてくれますよ。,"The right panel shows your level, {name}, how your crops are growing, current requests, and days until the next season. The 🐥 at the bottom left also suggests where to go next."
 文,右の牧場主の欄の「⚡ AP」は、畑に種をまくときなどに使う元気のようなものです。区画のボタンで{1}、一括のボタンで{2}使います。収穫と肥料にはAPはいりません。{3}秒ごとに{4}ずつ回復して、レベルが上がると満タンに戻りますよ。,"“⚡ AP” in the farm owner panel on the right is like your energy for things such as sowing. A plot button uses {1}, and an “all” button uses {2}. Harvesting and fertilizing need no AP. It recovers {4} every {3}s and refills when you level up."
+文,右の雨つぶが、すっと先にガラスのふちへ落ちた。,The right raindrop slides to the edge of the glass first.
 文,各区画の確認は、上の「ページを選ぶバー」から。押すと、区画の一覧が開きます。,"To check each plot, use the “page bar” at the top. Tap it to open a list of plots."
 文,各売り場に残す人数,Staff to keep per section
 文,各売り場を {1}人（従業員を優先）に減らし、売り場に品物が並んだ状態を保ちます。\n\n・売り場から外す人：,Reduce each section to {1} (employees first) to keep goods on the shelves.\n\n· People moved out of sections:
@@ -828,6 +1218,7 @@
 文,吹き出しを消す,Hide text
 文,呼ぶ,Call
 文,和菓子,Japanese sweets
+文,咲くまでには何年もかかります。でも、待つのは得意なんですよ。,It'll take years to bloom. But I'm good at waiting.
 文,品物,Goods
 文,品物は「物流」で売り場に運びます。お店をきれいに保つ「清掃」もお忘れなく。,Goods are carried to the sections by “Logistics.” And don't forget “Cleaning” to keep the store tidy.
 文,商業施設を建てると解放,Unlocks when you build shops
@@ -884,6 +1275,8 @@
 文,天然水工場（🪵資材の⛰山開拓が解放されると採水地が見つかります）,Water Plant (a water source is found once 🪵Materials' ⛰Mountain clearing unlocks)
 文,好き,Likes
 文,始める,Start
+文,子どものころにクレヨンで描いた、「ひなたランド」の地図です！,It's a map of “Hinata Land” that I drew in crayon as a kid!
+文,子守唄みたいで……ふぁ……,Like a lullaby… *yawn*…
 文,季節が冬になりました。（{1}年目）,It's now winter. (Year {1})
 文,季節が変わったので、労働者の作業を一旦止めています。,"The season changed, so workers' tasks are paused for now."
 文,季節が変わったので、労働者の作業を一旦止めました。蒔く種を決めると再開します。,"The season changed, so workers' tasks are paused. They'll resume once you choose seeds to sow."
@@ -896,11 +1289,13 @@
 文,季節ノルマ：,Season quota:
 文,季節ノルマ：夏祭り用とうもろこし,Season quota: Corn for the summer festival
 文,季節ノルマ：夏祭り用とうもろこし（達成済み）,Season quota: Corn for the summer festival (done)
+文,完成したら、わたしにもください！,"When it's done, I want one too!"
 文,定員いっぱい,At capacity
 文,実った果実は、そのまま売っても、ジュース工場などの材料にしてもよろしくてよ。,"You may sell the ripe fruit as is, or use it as ingredients for the Juice Factory and such."
 文,実行する,Run
 文,害虫,Pests
 文,害虫が出たときにも役に立つっス〜…あつかいは…慎重にっス〜…,Comes in handy when pests show up~… Handle it… carefully~…
+文,家の名を取り戻すのは、ひとりじゃなくてもいい。……そう思えるようになりましたの。,Restoring my family's name doesn't have to be done alone. …I've come to think so.
 文,対象がありません,Nothing to apply to
 文,寿命あと{1}季,{1} seasons of life left
 文,小売販売にする,Switch to retail
@@ -943,8 +1338,10 @@
 文,工芸品工房ですわ。ガラス・粘土焼成品・植物繊維材から、工芸品を作りますの。,"This is the Craft Workshop. We make crafts from glass, fired clay and plant fiber."
 文,工芸品工房（🪵資材のガラス・粘土焼成品・植物繊維材のどれかを開くと増築できます）,"Craft Workshop (expand after opening Glass, Fired clay or Plant fiber in 🪵Materials)"
 文,左の列の一番上の「🏠 ホーム」では、牧場の様子と、いま使える持ち場のカードが見られます。カードを押すと、その持ち場へすぐ行けますよ。,"“🏠 Home” at the top of the left column shows how the farm is doing, plus cards for the workplaces you can use. Tap a card to go straight there."
+文,左の雨つぶが、ほかのつぶとくっついて一気に落ちた。,The left raindrop merges with another and drops all at once.
 文,席,Seats
 文,席 {1}席・お代 ¥{2}／人　累計 {3}人（¥{4}）,Seats {1} · ¥{2} per guest　Total {3} guests (¥{4})
+文,帽子、貸してあげたら？,Why not lend her your hat?
 文,広げる,Expand
 文,店員が{1}回に最大{2}人までお客さまをおもてなしし、お代が入ります。席はレベルが上がるほど増えます（いま{3}席・最大{4}席）。,Each clerk serves up to {2} guests per {1} round and earns their bills. Seats increase with your level (now {3} · max {4}).
 文,店員を増やすほど、たくさんのお客さまをおもてなしできますわ。席はレベルが上がると増えますのよ。,"The more clerks we have, the more guests we can serve. Seats increase as you level up."
@@ -955,16 +1352,20 @@
 文,建築現場（Lv.{1}で🏗建築が解放されると増築できます）,Construction site (expand once 🏗Construction unlocks at Lv.{1})
 文,建設する,Build
 文,引き継ぎコードの中身が壊れているようです。コード全体がもれなく貼り付けられているか確かめてください。,The transfer code seems to be broken. Check that the whole code was pasted.
+文,当然の結果ですわ。¥{1}ですのよ,"A natural result, of course. ¥{1}, you know."
 文,快晴,Clear skies
+文,急がなくていいんだなーって、見てると思うっス。,Watching them makes me think there's no need to hurry.
 文,急送する,Rush delivery
 文,成功率が低い順,Lowest success rate
 文,成功率が高い順,Highest success rate
 文,成果物の小売販売先（畑・田んぼ・果樹園・養鶏・酪農・工場・資材すべて共通）,"Retail outlet for products (shared by fields, rice paddies, orchards, poultry, dairy, factories and materials)"
 文,成績 {1}戦 {2}勝・{3}〜{4}着{5}回。寿命はあと{6}シーズン。優勝・入着・経験が多く、寿命が残っているほど高く売れます。,"Record: {1} races, {2} wins · top {3}–{4} {5} times. {6} seasons of life left. More wins, placings and experience, and more life left, mean a higher price."
 文,戦{1}勝・あと{2}季,"races, {1} wins · {2} seasons left"
+文,手で触って分かること、あるよね,Some things you can only tell by touch
 文,手伝ってもらうブロックをタップしてください,Tap the blocks to get help with
 文,手動でセーブもできますが、{1}分に一度オートセーブもしていますので、安心して遊べます。,"You can save by hand, but the game also autosaves every {1} minute, so you can play worry-free."
 文,投資先（独立した人の事業）がありません,No investments (businesses of people who went independent)
+文,抹茶プリン、食べてみたい！,I want to try the matcha pudding!
 文,担当の人が、作業中のブロック・育ち中の家畜・運搬中の荷物に、選んだ派遣を自動で呼びます（そのたびに賃金がかかります）。,"Staff automatically call the chosen dispatch workers for blocks in progress, growing animals and loads in transit (wages each time)."
 文,担当の持ち場で自分で作業,Work by hand at their workplace
 文,担当の持ち場を開くと、お願いが届くことがあります,Visit their workplace and they may ask you for something
@@ -972,9 +1373,12 @@
 文,持ち場：,Workplace:
 文,持っていません,You don't have any
 文,排水ポンプで大雨を防ぎました！（¥{1}）,Prevented the heavy rain damage with a drainage pump! (¥{1})
+文,採水地の森。しずくが、くまのぬいぐるみを抱いて立っている。,The forest by the water source. Shizuku stands holding her teddy bear.
 文,採水地の水をボトルに詰めます。温泉源泉が湧くと温泉水も作れます。,"Bottles water from the water source. Once a hot spring appears, it can make hot spring water too."
 文,摘んだ茶葉は、お茶工場で緑茶や紅茶になりますのよ。,The picked leaves become green tea and black tea at the Tea Factory.
 文,散水セットで日照りを防ぎました！（¥{1}）,Prevented the drought with a sprinkler set! (¥{1})
+文,数字ではなく、手ざわりですの。母はいつも、糸の声を聞きなさいと。,"It's not about numbers, it's about feel. Mother always told me to listen to the thread."
+文,新しい子に、つけてあげよう,Let's give it to a new calf
 文,新しい持ち場：「お茶工場」,New workplace: “Tea Factory”
 文,新しい持ち場：「ジュース工場」,New workplace: “Juice Factory”
 文,新しい持ち場：「乳製品工場」,New workplace: “Dairy Factory”
@@ -1010,6 +1414,7 @@
 文,最大まで増やす,Max out
 文,有名ブランド化,Famous brand
 文,有名ブランド化 で販売 ({1}倍),Sell as a famous brand (×{1})
+文,木かげに移動しよう,Let's move into the shade
 文,木材{1}P目の出荷,Shipping from Lumber page {1}
 文,木材{1}P目の出荷　（季節の終わりまであと{2}分）,Shipping from Lumber page {1}　(about {2} min until the season ends)
 文,木材{1}P目の出荷を再開しました。,Resumed shipping from Lumber page {1}.
@@ -1055,20 +1460,25 @@
 文,果樹園の在庫（果実・ジュース・酒）,"Orchard stock (fruit, juice, liquor)"
 文,案内係,Guides
 文,案内係が{1}回に最大{2}人（動物{3}匹につき{4}人まで）を案内し、入場料が入ります。,"Each guide welcomes up to {2} visitors per round (up to {4} per {3} animal), earning admission fees."
+文,桜……！祖母と見た、畑の桜を思い出します。ありがとうございます,Cherry blossoms…! They remind me of the field's cherry tree I saw with my grandmother. Thank you.
 文,桜の枝,Cherry branch
+文,桜の苗を、ひとつだけ植えたいんです。畑の入り口の、あの場所に。,"I'd like to plant one cherry sapling. Right there, at the entrance to the field."
 文,棟,buildings
 文,棟増設（¥{1}）,Add building (¥{1})
 文,棟）,buildings)
 文,森の採水地で湧き水を汲み、ろ過して天然水にします。（{1}-{2}-{3} 追加）,Draw spring water at the forest water source and filter it into bottled spring water.
 文,植える・見る,Plant / View
 文,植え付けの確認,Confirm planting
+文,植木鉢……！祖母の桜の苗、これに植え替えてもいいですか？,A flower pot…! May I replant my grandmother's cherry sapling in it?
 文,植林する,Plant trees
 文,植林を始めました。,Started planting trees.
 文,植物から繊維を取り出して、資材にします。工芸品工房などで使われますよ。,We pull fiber from plants and turn it into materials. It's used in places like the Craft Workshop.
 文,植物繊維材の持ち場です。,This is the plant fiber workplace.
+文,椿……わたくしの名前の花ですわね。……覚えていてくださったの？,Camellias… the flower I'm named after. …You remembered?
 文,椿の花,Camellia flower
 文,横画面版のデータで上書きする前の、本番のデータに戻します。,Restores the main data from before it was overwritten by the landscape version.
 文,横画面版のデータを本番に同期しました。これからは縦でも横でも、同じデータで遊べますよ,Your landscape data is now synced with the main game. From now on you can play with the same data in portrait or landscape.
+文,機械に任せて、楽をしよう,Let the machine do it and take it easy
 文,機械はすべてのページに入っています。,Every page has machines.
 文,機械を{1}台入れると、この{2}ブロックの作業時間が{3}%短くなります。\n人手を増やさずに作業を早められるので、給料をおさえたいときにも向いています。\n\n導入費用: ¥{4}\n寿命: {5}年（{6}シーズン）\n\nこの内容でよろしいですか？,"Installing {1} machine(s) makes work on these {2} blocks {3}% faster.\nIt speeds things up without more staff, so it's good for keeping wages down.\n\nCost: ¥{4}\nLife: {5} years ({6} seasons)\n\nIs this OK?"
 文,機械をアップグレードしますか？,Upgrade the machines?
@@ -1085,6 +1495,11 @@
 文,止めた工場では、労働者と機械が,"At stopped factories, workers and machines"
 文,止める,Stop
 文,止めると導入費は戻りません。もう一度使うときは導入費がかかります。,"If you stop it, the setup fee isn't refunded. Using it again costs the setup fee again."
+文,母が織ってくれたものですわ。うちは代々、旅館と織物をしていましたの。,"My mother wove it for me. For generations, my family ran an inn and wove cloth."
+文,気がついたら、この封筒のこと、忘れていたんです。,"And before I knew it, I'd forgotten all about this envelope."
+文,気づいたら、機械の音がうるさいだけになってたっス。,"Before I knew it, the machines were just noise."
+文,水はけだけ、見ておこう,Let's just check the drainage
+文,決まりっスね〜。設定、ちょちょいとやっとくっス〜,Settled~. I'll tweak the settings real quick~
 文,治療が必要な馬はいません,No horses need treatment
 文,治療しないと{1}分で死んでしまいます。養鶏・酪農のページで「治療」を,"Without treatment, they'll die in {1} min. Use “Treat” on the Poultry or Dairy page"
 文,治療する,Treat
@@ -1097,12 +1512,16 @@
 文,海外へ輸出,Export overseas
 文,海外へ輸出 で販売 ({1}倍 − 郵送料¥{2}),Export overseas (×{1} − shipping ¥{2})
 文,渡したいキャラの持ち場を開いて、吹き出しの上の💗から渡せます,Open that character's workplace and give it from the 💗 above the speech bubble
+文,渡す,Give
 文,温室,Greenhouse
+文,温室のガラスを、雨つぶが伝っていく。,Raindrops trickle down the greenhouse glass.
+文,温室の雨が、はじめて止んだ。ガラスの向こうに青い空が見える。,"For the first time, the rain in the greenhouse stops. Blue sky shows through the glass."
 文,温泉旅館ですわ。湧いた温泉で、お客さまにお泊まりいただきますの。,This is the hot spring inn. Guests stay with us and enjoy the springs.
 文,温泉水も作れるっス〜…温泉…入りたいっス〜…,We can make hot spring water too~… A hot spring… sounds nice right about now~…
 文,温泉源泉の湯で、お客さまに泊まってもらいます。,Guests stay and enjoy the hot spring water.
 文,温泉源泉の湯につかって泊まれる旅館です。お客さま{1}人につき温泉の水を{2}使います。,An inn where guests stay and soak in the hot spring. Each guest uses {2} hot spring water.
 文,満員,Full
+文,漆塗りで、五段で、すべての器が正面を向くように。それから——,"Lacquered, five tiers, every dish facing forward. And also—"
 文,点（売り場の在庫がそろえば自動で引き渡し・{1}倍）あと{2}秒,item(s) (handed over automatically once the section is stocked · ×{1}) {2}s left
 文,無期限,No time limit
 文,焼き加減で出来が変わるっス〜…建築や工芸品の材料になるっス〜…窯の前は…あったかいっス〜…,How long you bake it changes how it turns out~… It's used for construction and crafts~… It's warm… in front of the kiln~…
@@ -1115,8 +1534,11 @@
 文,牛小屋{1}を建設しました！（¥{2}）,Cow barn {1} built! (¥{2})
 文,牛小屋を建設しました,Cow barn built
 文,牛小屋を建設しますか？,Build a cow barn?
+文,牛舎に飾って、みんなで大事にしよう,Let's hang it in the cowshed and treasure it together
+文,牧場のガラスで作った風鈴っス。ちりーんって鳴るんすよ〜。,A wind chime made from farm glass. It goes ting~.
 文,牧場の野菜・卵・ミルク・お肉を使った料理を出すお店です。店員が多いほど、たくさんのお客さまをおもてなしできます。,"A restaurant serving dishes made with the farm's vegetables, eggs, milk and meat. The more clerks, the more guests you can serve."
 文,牧場の食材で作った料理を出すお店です。,A restaurant serving dishes made from farm ingredients.
+文,牧場を離れて、どこかへ行こうと思っていました。,I was going to leave the farm and go somewhere else.
 文,物流の人手ではなく、運ぶ直売品（生産量）が足りていません。前のページが先に棚の品を積むので、後ろのページほど止まりやすくなります。,"It's not a lack of logistics staff — there aren't enough direct-sale items (production) to carry. Earlier pages load goods first, so later pages stall more often."
 文,独立した順,By independence date
 文,珪砂を集めて溶かし、板ガラスに仕上げます。,Collect silica sand and melt it into sheet glass.
@@ -1127,6 +1549,7 @@
 文,現在成長中の作物がありません。先に種を蒔いてください。,No crops are growing. Sow some seeds first.
 文,生糸は繊維工場の材料になりますわ。絹の艶は、丁寧なお世話あってこそですのよ。,Raw silk goes to the Textile Mill. The sheen of silk comes only from careful tending.
 文,生鮮売り場オープン！,Fresh foods section open!
+文,用意なさい。今日はわたくしがお手本を見せて差し上げます。,Get ready. Today I shall show you how it's done.
 文,用水路が干上がり、田んぼの水が足りません。,"The irrigation channel has dried up, and the paddies are short of water."
 文,田んぼ{1}P目,Rice paddy page {1}
 文,田んぼ{1}P目の空き {2}区画に 🍚米 をまとめて植えます。\n費用: ¥{3}\n収穫予定: ¥{4}（約{5}秒後）\n\nこの内容でよろしいですか？,Plant 🍚rice in {2} empty plots on Rice paddy page {1}.\nCost: ¥{3}\nExpected harvest: ¥{4} (in about {5}s)\n\nIs this OK?
@@ -1162,7 +1585,9 @@
 文,畑{1}P目・🍚田んぼ{2}P目・🏠ハウス{3}棟目・🍒果樹園{4}P目）,Field page {1} · 🍚Rice paddy page {2} · 🏠Greenhouse {3} · 🍒Orchard page {4})
 文,畑{1}P目・🏠ハウス{2}棟目・🍒果樹園{3}P目）,Field page {1} · 🏠Greenhouse {2} · 🍒Orchard page {3})
 文,畑とビニールハウスの収穫可能な作物,Harvestable crops in fields and vinyl greenhouses
+文,畑に、しとしとと雨が降っている。,A soft rain is falling on the field.
 文,畑に蒔く種（全員共通）,Seeds to sow in fields (everyone)
+文,畑の朝は、少しだけ空気が甘いんですよ。土と、葉っぱと、朝露の匂いです。,"Mornings in the field smell a little sweet. Soil, leaves and morning dew."
 文,畑を{1}枚増設しました。（¥{2}）,Added {1} field(s). (¥{2})
 文,畑を増やすときは「🛒 ショップ」の「🏗 増設」からどうぞ。新しく増やせるものがあると❗が付きます。畑が増えるほど、たくさん収穫できますよ。,"To add fields, go to “🏗 Expand” in the “🛒 Store.” A ❗ appears when there's something new to add. More fields mean bigger harvests!"
 文,畑・ハウス・果樹園の作物を運びます。,"Carries crops from fields, greenhouses and the orchard."
@@ -1179,8 +1604,15 @@
 文,発注に間に合わず販売が止まっています,Sales are stopped because an order was missed
 文,発生中,Ongoing
 文,直売品,direct-sale items
+文,着物……！こ、これは……。……一生、大切にいたしますわ,A kimono…! Th-this is… …I shall treasure it all my life.
+文,知りませんでした……。つばきさん、教えていただけますか？,"I didn't know… Tsubaki, would you teach me?"
 文,石,Stone
 文,石材。山から石を切り出す。,Stone. Quarry stone from the mountain.
+文,祖母がはじめてここに来たときも、桜を一本植えたそうです。,"They say my grandmother planted a cherry tree too, when she first came here."
+文,祖母がよく言っていました。「畑は、朝いちばんに会いに来た人を覚えている」って。,"My grandmother used to say, “The field remembers whoever visits it first thing in the morning.”"
+文,祖母が亡くなってから、牧場は一度、閉めるつもりだったんです。,"After my grandmother passed away, I was going to close the farm."
+文,祖母が倒れた年、わたしひとりで畑を任されたんです。,"The year my grandmother fell ill, I was left to run the field on my own."
+文,祖母の作付けの記録です。何十年分も、天気と種と、その日のひと言が書いてあるんですよ。,"It's my grandmother's planting record. Decades of weather, seeds, and a line or two about each day."
 文,秋になりました（作業を一時停止中）,Autumn has come (work paused)
 文,秋に植えられます。{1}袋で{2}区画。約{3}秒で育ち、{4}個とれます（いま{5}個¥{6}）。,Plant in autumn. {1} bag = {2} plot. Grows in about {3}s and yields {4} (now {5} = ¥{6}).
 文,秋のテーマ,Autumn theme
@@ -1194,12 +1626,14 @@
 文,秋の花・いまは植えられません,Autumn flower · can't plant now
 文,秋の花・🎒在庫 {1}袋,Autumn flower · 🎒{1} bags in stock
 文,秋まで（約{1}分）,Until autumn (about {1} min)
+文,秋晴れ,Clear autumn sky
 文,種と肥料の種類は、上の欄から選べます。作物ごとに値段や育つまでの時間がちがいますので、見比べてみてくださいね。,"Pick seeds and fertilizer from the boxes at the top. Each crop has its own price and growing time, so take a look and compare."
 文,種と肥料は在庫から使います。はじめは小麦の種が{1}袋と肥料が{2}袋ありますので、足りなくなったら左のメニューの「🛒 ショップ」で買い足してくださいね。,"Seeds and fertilizer come from your stock. You start with {1} bags of wheat seeds and {2} bags of fertilizer. When you run low, buy more at “🛒 Store” in the left menu."
 文,種をまくときは緑のボタン、肥料をまくときは青のボタン。育ったら畑をタップして収穫しましょう。,"The green button sows seeds, and the blue button spreads fertilizer. When crops are grown, tap the field to harvest."
 文,種類が変わります,Crop type changes
 文,空いている区画がありません,No empty plots
 文,空いている畑がありません（収穫するか、畑を増やしましょう）,"No empty fields (harvest, or add more fields)"
+文,空っぽの牛舎って、すごく静かなんですよ。……あの音のしない感じ、今でも覚えてます！,An empty cowshed is so quiet. …I still remember that silence!
 文,第{1}話が届いています（✉️）,Ep. {1} has arrived (✉️)
 文,箱,boxes
 文,米 成長完了,Rice ready
@@ -1207,6 +1641,8 @@
 文,粘土を掘って形を作り、窯で焼いてレンガや瓦にします。,"Dig clay, shape it, and fire it in a kiln into bricks and tiles."
 文,粘土焼成品の持ち場っス〜…粘土を焼いて、レンガとかを作るっス〜…,This is the fired clay workplace~… We bake clay into bricks and stuff~…
 文,精肉工場だよ！ 豚のお肉から、ベーコン・ハム・ソーセージを作るんだ！,"This is the Meat Plant! We make bacon, ham and sausages from pork!"
+文,糸の声……。センサーより、むずかしそうっスね〜。,Listen to the thread… sounds harder than a sensor~.
+文,糸を一本でも掛け違えると、母は最初からやり直していましたわ。,"If even one thread was out of place, Mother would start over from the beginning."
 文,納品する,Deliver
 文,納品完了：¥{1},Delivered: ¥{1}
 文,納期 あと{1}分{2}秒,Due in {1}m {2}s
@@ -1257,12 +1693,14 @@
 文,花卉{1}P目を機械化しました！{2}ブロックの作業時間が{3}%短くなります。（¥{4}／寿命{5}年）,Flowers page {1} mechanized! Work on {2} blocks is {3}% faster. (¥{4} / {5}-year life)
 文,花卉{1}P目を機械化しますか？,Mechanize Flowers page {1}?
 文,花卉栽培を始めますか？,Start growing flowers?
+文,花束,Bouquet
 文,苗木を植えて、次に切り出せる木を増やします。,Plant saplings so there are more trees to cut next time.
 文,茶畑ですわ。茶葉を摘んで仕上げますの。,This is the Tea Field. We pick the leaves and finish them here.
 文,茶畑で茶葉を摘み、蒸して仕上げます。お茶工場の材料になります。,Pick tea leaves in the Tea Field and steam them. They're used by the Tea Factory.
 文,茶畑の茶葉から緑茶・ほうじ茶・紅茶・抹茶を作ります。,"Makes green tea, hojicha, black tea and matcha from Tea Field leaves."
 文,茶葉の質がそのまま味に出ますわ。茶畑もきちんと手入れなさってね。,The quality of the leaves shows right in the taste. Do look after the Tea Field properly.
 文,荒れ地を切り拓き、出てきた木をまとめて木材にします。,Clear wasteland and turn the trees you find into lumber.
+文,荒削りは機械、仕上げは手で,"Machine for rough cuts, hands for finishing"
 文,蒔く,Sow
 文,蒔く種を決めて再開する,Choose seeds and resume
 文,蒔く種を決めると再開します,Resumes once you choose seeds to sow
@@ -1284,6 +1722,8 @@
 文,解雇する,Dismiss
 文,設立する,Establish
 文,評価額が高い順,Highest valuation
+文,誕生日……自分でも忘れてたっス〜。……ありがとっス,My birthday… I forgot it myself~. …Thanks.
+文,誕生日プレゼント！？わーい！今日は最高の日です！,A birthday present!? Yay! Today's the best day ever!
 文,誕生日：冬の上旬（{1}〜{2}日）,Birthday: early Winter (days {1}–{2})
 文,誕生日：冬の下旬（{1}〜{2}日）,Birthday: late Winter (days {1}–{2})
 文,誕生日：冬の中旬（{1}〜{2}日）,Birthday: mid Winter (days {1}–{2})
@@ -1326,6 +1766,7 @@
 文,資材を使って建物を建て、引き渡して収入を得ます。,Put up buildings with materials and earn money by handing them over.
 文,資金が尽きたところまで採用します。,Hiring continues until the money runs out.
 文,資金が足りなくなったら、そこまでで止めます。,Stops when the money runs out.
+文,起きてたいって思えるの、すっごいひさしぶりで……たぶん、{name}さんのせいっス。,"It's been forever since I wanted to stay awake… probably your fault, {name}."
 文,農作業の経験は少しだけあります。,Has a little farm work experience.
 文,農協 で販売 ({1}倍),Sell at the Farm co-op (×{1})
 文,農園を設立すると🍒果樹園が開きます。,Establishing the farm opens the 🍒Orchard.
@@ -1338,9 +1779,12 @@
 文,達成済み,Done
 文,選択をやめる,Cancel selection
 文,郵送料 ¥{1}/回,Shipping ¥{1} each
+文,都会の会社への履歴書です。{name}さんが来る前の日に、書き終えていたんです。,"It's a résumé for a company in the city. I finished it the day before you came, {name}."
+文,都会の子も、牛やにわとりと遊べる場所。そうしたら、牧場を好きな子が増えるでしょ？,"A place where city kids can play with cows and chickens. Then more kids would love farms, right?"
 文,都市部商業施設での販売,City mall sales
 文,都市部商業施設での販売 で販売 ({1}倍),Sell at city malls (×{1})
 文,配置後は「📍 仕事を決める」から細かい指示を変えられます。,"After assigning, adjust their tasks with “📍 Set jobs.”"
+文,酒造の仕込みの日を、わたくしが間違えたのを……黙って直してくださったでしょう。,"When I got the brewing day wrong… you quietly fixed it, didn't you?"
 文,酒造工場ですわ。果実・小麦・米から、果実酒・ビール・焼酎を造りますの。,"This is the Brewery. We make fruit wine, beer and shochu from fruit, wheat and rice."
 文,酒造工場で作るもの,Made at the Brewery
 文,酒造工場に増築,Add to Brewery
@@ -1350,9 +1794,16 @@
 文,鈴木太郎さんが畑{1}P目の{2}区画に🌾小麦を蒔きました。（🎒在庫から{3}袋）,Taro Suzuki sowed 🌾wheat in {2} plots on Field page {1}. ({3} bags from 🎒stock)
 文,鉄鉱石を掘り、製錬・圧延して鉄鋼材にします。,"Mine iron ore, then smelt and roll it into steel."
 文,鉄鋼材の持ち場っス〜…鉄を加工して、建築用の鉄鋼材を作るっス〜…,This is the steel workplace~… We process iron into steel for construction~…
+文,長雨の年でした。水はけを後回しにして、作物をほとんどだめにしてしまいました。,It was a year of endless rain. I put off the drainage and lost almost all the crops.
 文,開く,Open
 文,防げないと所持金の{1}%の被害が出ます。,"If not prevented, you'll lose {1}% of your money."
 文,雑草が広がって稲の育ちが悪くなっています。,Weeds are spreading and slowing the rice.
+文,雨も、畑のごちそうだね,Rain is a treat for the field too
+文,雪,Snow
+文,青い鳥が、{name} の肩にとまった。,The blue bird lands on {name}'s shoulder.
+文,青い鳥が、ちいさく一度だけ鳴いた。,"The blue bird chirps once, softly."
+文,青い鳥が空へ飛び、また戻ってきた。しずくは傘を開かない。,The blue bird flies into the sky and comes back. Shizuku doesn't open her umbrella.
+文,青い鳥は、知らん顔で羽づくろいをしている。,"The blue bird preens, ignoring her completely."
 文,青果売り場で販売,Sell in the produce section
 文,頭の調教を始めました。（¥{1}）,horse(s) started training. (¥{1})
 文,頭の調教を開始,horse(s) started training
@@ -1390,6 +1841,7 @@
 文,（いまの進行は上書きされます）,(Your current progress will be overwritten)
 文,（ここはガラス温室。季節ごとに植えられる花が変わるらしい）,(This is the glass greenhouse. The flowers you can plant seem to change with the season.)
 文,（ここは採水地。森の湧き水を汲んで、天然水にするらしい）,(This is the water source. Spring water from the forest seems to become bottled water.)
+文,（タップで戻す）,(tap to bring back)
 文,（作業ごと止めると木材が増えず建築もできなくなるため、止めるのは出荷だけにしています）,"(Stopping the work itself would stop lumber from piling up and block construction, so only shipping is stopped.)"
 文,（作業は「汲み上げ」「ろ過」「名水の採取」。レベルが上がるとできることが増えるらしい）,"(The jobs seem to be “pumping,” “filtering” and “collecting famous water.” More becomes possible as you level up.)"
 文,（収穫した豚は小屋からいなくなりました）,(The collected pigs have left the barn)
@@ -1413,6 +1865,7 @@
 文,🌧 大雨が発生中！　あと {1}秒,🌧 Heavy rain!　{1}s left
 文,🌱 ハウスの{1}区画に植える（空き {2}）,🌱 Plant in {1} greenhouse plots ({2} empty)
 文,🌱 決めて再開,🌱 Choose and resume
+文,🌱 空いている畑が {1}か所あるよ,🌱 {1} empty field spots!
 文,🌷 {1}袋 買う,🌷 Buy {1} bags
 文,🌷 チューリップ 🎒在庫 {1}袋 → ¥{2}×{3}本 {4}秒,🌷 Tulip 🎒{1} bags → ¥{2}×{3} stems {4}s
 文,🌷花卉{1}P目の{2}ブロック／寿命あと {3}年{4}季,"🌷Flowers page {1}, block {2} / {3} years {4} seasons of life left"
@@ -1487,6 +1940,7 @@
 文,🎁 プレゼント：品物（♥ 大）,🎁 Gift: Goods (♥ large)
 文,🎁 プレゼント：花（♥ 中）,🎁 Gift: Flowers (♥ medium)
 文,🎁 プレゼント：食べ物（♥ 小）,🎁 Gift: Food (♥ small)
+文,🎁 持っていません。ショップの「🎁 プレゼント」で買えます,🎁 You don't have any. Buy them at “🎁 Gifts” in the Store
 文,🎁 🌺椿の花 → みのり 🎂誕生日 ♥+{1},🎁 🌺Camellia flower → Minori 🎂Birthday ♥+{1}
 文,🎁 🍪クッキー → つばき ♥+{1},🎁 🍪Cookies → Tsubaki ♥+{1}
 文,🎁 🍪クッキー → みのり 💝 ♥+{1},🎁 🍪Cookies → Minori 💝 ♥+{1}
@@ -1494,6 +1948,7 @@
 文,🎂 いまはしずくの誕生日（夏の上旬（{1}〜{2}日））！プレゼントを渡すと ♥{3}倍,"🎂 It's Shizuku's birthday (early Summer, days {1}–{2})! Gifts give ♥×{3}"
 文,🎂 いまはひなたの誕生日（夏の下旬（{1}〜{2}日））！プレゼントを渡すと ♥{3}倍,"🎂 It's Hinata's birthday (late Summer, days {1}–{2})! Gifts give ♥×{3}"
 文,🎂 いまはみのりの誕生日（春の上旬（{1}〜{2}日））！プレゼントを渡すと ♥{3}倍,"🎂 It's Minori's birthday (early Spring, days {1}–{2})! Gifts give ♥×{3}"
+文,🎂誕生日,🎂Birthday
 文,🎉 いまが誕生日！プレゼントの ♥ が{1}倍,🎉 It's their birthday! Gifts give ♥×{1}
 文,🎉 出荷イベント「🧃ジュース工場の製品×{1} 納品」を達成しました！,🎉 Completed the shipping event “Deliver 🧃Juice Factory products ×{1}”!
 文,🎌 全国制覇！海外進出が解放されました,🎌 Nationwide! Overseas expansion unlocked
@@ -1508,6 +1963,7 @@
 文,🎡 アミューズメントパーク：来場者 {1}人を案内しました。（¥{2}）,🎡 Amusement park: welcomed {1} visitors. (¥{2})
 文,🎬 タイトル・ムービー,🎬 Title & movies
 文,🎬 レースのムービーが流れます,🎬 The race movie will play
+文,🎵 季節のテーマに戻しました,🎵 Back to the seasonal theme
 文,🏁 レース参加用厩舎に馬を入れてから出走させましょう,🏁 Put a horse in the racing stable before entering a race
 文,🏋 調教 ¥{1},🏋 Train ¥{1}
 文,🏋 調教が終わってから売りましょう,🏋 Sell after training is finished
@@ -1651,6 +2107,11 @@
 文,📱 別の画面で牧場が開かれています,📱 The farm is open on another screen
 文,🔄 売り場の人員を見直しました：パークの案内係へ {1}人、🌾農業 {2}人・🧹清掃 {3}人。（各売り場 {4}人）,"🔄 Section staff rebalanced: {1} to park guides, {2} to 🌾farming · {3} to 🧹cleaning. ({4} per section)"
 文,🔄 売り場の人員を見直しますか？,🔄 Rebalance section staff?
+文,🔇 BGM を消しました,🔇 Music off
+文,🔇 BGM を消しました（タップでもとに戻ります）,🔇 Music off (tap to turn it back on)
+文,🔇 ミュート,🔇 Mute
+文,🔊 BGM を流します,🔊 Music on
+文,🔊 音を出す,🔊 Sound on
 文,🔒 Lv.{1}で解放（いま Lv.{2}）,🔒 Unlocks at Lv.{1} (now Lv.{2})
 文,🔒 まだ商業施設は建てられません,🔒 You can't build shops yet
 文,🔒 アミューズメントパーク：Lv.{1}で解放（いま Lv.{2}）,🔒 Amusement park: unlocks at Lv.{1} (now Lv.{2})
