@@ -363,7 +363,7 @@
 文,……{name}さん、天使っス〜……zzz,"…{name}, you're an angel~… zzz"
 文,……{name}さん。あなたはどちらの味方ですの？,…{name}. Whose side are you on?
 文,……{name}は、どう思う。,"……What do you think, {name}."
-文,……¥{1}。……螢ｲ繧後◆。,……¥{1}. ……螢ｲ繧後◆.
+文,……¥{1}。……螢ｲ繧後◆。,……¥{1}. ……螢ｲ繧後◆（…sold）
 文,……¥{1}。悪くない,……¥{1}. Not bad.
 文,……………。（じっと {name} を見ている）,……………. (She's staring at {name})
 文,…………あんた、わりと鼻がいい。,…………You've got a decent nose.
@@ -394,7 +394,7 @@
 文,……ここ。前に住んでた。,……Here. I used to live here.
 文,……この着物が気になりますの？,…Curious about this kimono?
 文,……これ、見て。,……Look at this.
-文,……これ。鉋（かんな）。,……This. A plane. For wood.
+文,……これ。鉋（かんな）。,……This. A wood plane.
 文,……じいちゃんが建てた小屋。……今は、屋根が半分ない。,……A cabin Grandpa built. ……Half the roof's gone now.
 文,……じいちゃんのは、まんまる。……でかい。,……Grandpa's were round. ……Big.
 文,……じいちゃんの馬には、名前があった。……先にいなくなった。,……Grandpa's horse had a name. ……It went before he did.
@@ -438,9 +438,10 @@
 文,……ん。……そっと、やる。,……Mm. ……I'll be gentle.
 文,……ん。……分かってる。,……Mm. ……I know.
 文,……ん〜……あ、{name}さん……おはようございっス〜……,"…Mm~… oh, {name}… mornin'~…"
+文,……ガラス温室。……莉ｻ縺帙※。,……Glass greenhouse. ……莉ｻ縺帙※（leave it to me）
 文,……ブーツ。……森の中も、これなら歩ける,……Boots. ……I can walk the woods in these.
 文,……レベル{1}。……おめでと,……Level {1}. ……Congrats.
-文,……レベル{1}。……縺翫ａ縺ｧ縺ｨ縺?。,……Level {1}. ……縺翫ａ縺ｧ縺ｨ縺?.
+文,……レベル{1}。……縺翫ａ縺ｧ縺ｨ縺?。,……Level {1}. ……縺翫ａ縺ｧ縺ｨ縺?（…congrats）
 文,……三角。,……Triangle.
 文,……三角も、うまい。,……Triangles are good too.
 文,……二度は言いませんわよ！さあ、お茶が冷めないうちにどうぞ。,"…I won't say it twice! Now, drink up before the tea gets cold."
@@ -455,7 +456,7 @@
 文,……候補に、入れとく。……「おもち」。,……I'll put it on the list. ……“Omochi.”
 文,……分かった。……五段。……漆は、ちょっと待って。,"……Fine. ……Five tiers. ……Lacquer, give me time."
 文,……助かった。……ありがと,……That helped. ……Thanks.
-文,……右上。……遒ｺ隱阪＠縺ｦ。,……Top right. ……遒ｺ隱阪＠縺ｦ.
+文,……右上。……遒ｺ隱阪＠縺ｦ。,……Top right. ……遒ｺ隱阪＠縺ｦ（…check it）
 文,……名前は、しばらく見てから決める。……その子に合うやつ。,……I watch a while before naming. ……Something that fits.
 文,……名前？……ない。,……A name? ……None.
 文,……多い。,……Too much.
@@ -478,10 +479,12 @@
 文,……紙、持ってくる。,……I'll get paper.
 文,……縺ゅ◆繧峨＠縺�縲√°縺�（あたらしい、かさ）,……縺ゅ◆繧峨＠縺�縲√°縺�（a new… umbrella）
 文,……縺ゅａ縲√☆縺�（あめ、すき）,……縺ゅａ縲√☆縺�（rain… I like it）
+文,……縺ゅｊ縺後→縺?。,……縺ゅｊ縺後→縺?（thank you）
 文,……縺ゅｊ縺後→（ありがと）,……縺ゅｊ縺後→（thanks）
 文,……縺上∪縲√�ｵ繧九＞（くま、ふるい）,……縺上∪縲√�ｵ繧九＞（bear… old）
-文,……縺九▲縺�（かった）,……縺九▲縺�（won）
+文,……縺九▲縺�（かった）,……縺九▲縺�（I won）
 文,……縺九＆縲√＞繧峨↑縺�（かさ、いらない）,……縺九＆縲√＞繧峨↑縺�（no umbrella… needed）
+文,……縺励★縺?。,……縺励★縺?（…Shizuku）
 文,……縺励★縺上√″繧�縺�縺昴≧（しずく、きょうそう）,……縺励★縺上√″繧�縺�縺昴≧（raindrops… racing）
 文,……縺吶″（すき）,……縺吶″（I like it）
 文,……縺昴ｉ（そら）,……縺昴ｉ（sky）
@@ -491,12 +494,13 @@
 文,……縺薙�ｮ縺薙�√�ｲ縺ｨ縺ｫ 縺ｨ縺ｾ繧峨↑縺�（このこ、ひとに とまらない）,……縺薙�ｮ縺薙�√�ｲ縺ｨ縺ｫ 縺ｨ縺ｾ繧峨↑縺�（it never lands on people）
 文,……縺薙�ｮ縺薙�ｯ縲√％縺ｮ縺�（このこは、このこ）,……縺薙�ｮ縺薙�ｯ縲√％縺ｮ縺�（it's… just itself）
 文,……縺阪ｉ縺阪ｉ縲√☆縺�（きらきら、すき）,……縺阪ｉ縺阪ｉ縲√☆縺�（sparkly… I like it）
+文,……縺阪ｌ縺?。,……縺阪ｌ縺?（pretty）
 文,……縺､縺ｰ縺阪√″繧後＞（つばき、きれい）,……縺､縺ｰ縺阪√″繧後＞（Tsubaki… pretty）
 文,……縺ｦ縺､縺縺｣縺ｦ（てつだって）,……縺ｦ縺､縺縺｣縺ｦ（help me）
 文,……縺ｧ繧ゅ�√▽縺溘ｏ縺｣縺ｦ繧具ｼ�（でも、つたわってる？）,……縺ｧ繧ゅ�√▽縺溘ｏ縺｣縺ｦ繧具ｼ�（but… do they get through?）
 文,……縺ｪ縺翫○繧具ｼ�（なおせる？）,……縺ｪ縺翫○繧具ｼ�（can you fix it?）
 文,……縺ｪ縺ｾ縺医√↑縺�（なまえ、ない）,……縺ｪ縺ｾ縺医√↑縺�（no… name）
-文,……縺ｫ縺ｦ繧�（にてる）,……縺ｫ縺ｦ繧�（like you）
+文,……縺ｫ縺ｦ繧�（にてる）,……縺ｫ縺ｦ繧�（looks like you）
 文,……縺ｯ縺溘￠繧ゅ√ｈ繧阪％繧薙〒繧�（はたけも、よろこんでる）,……縺ｯ縺溘￠繧ゅ√ｈ繧阪％繧薙〒繧�（the field… is happy too）
 文,……縺ｯ繧後◆（はれた）,……縺ｯ繧後◆（it cleared）
 文,……縺ｵ縺倥√♀縺昴ｍ縺�（ふじ、おそろい）,……縺ｵ縺倥√♀縺昴ｍ縺�（wisteria… matching）
@@ -508,10 +512,14 @@
 文,……縺�繧�（うん）,……縺�繧�（yeah）
 文,……繧√★繧峨＠縺�（めずらしい）,……繧√★繧峨＠縺�（that's rare）
 文,……繧医°縺｣縺�（よかった）,……繧医°縺｣縺�（good）
+文,……繧医ｍ縺励￥。,……繧医ｍ縺励￥（nice to meet you）
 文,……設計図。……みんなで使う、休憩小屋。,……A blueprint. ……A rest hut for everyone.
 文,……誕生日。……誰かに祝われるの、ひさしぶり,……Birthday. ……Been a while since anyone celebrated.
+文,……豌ｴ縺ｮ髻ｳ……,……豌ｴ縺ｮ髻ｳ（the sound of water）……
 文,……貸して。……木の板で、添え木する。,……Let me see. ……I'll splint it with a strip of wood.
 文,……野の花。……こういうのが、いちばんいい,……Wildflowers. ……These are the best.
+文,……闃ｱ縺悟調縺?縺?。,……闃ｱ縺悟調縺?縺?（the flowers are blooming）
+文,……髮ｨ縺ｯ縺吶″。,……髮ｨ縺ｯ縺吶″（I like rain）
 文,……！……いい工具。……一生、使う。……ありがと,……! ……Good tools. ……I'll use them forever. ……Thanks.
 文,…きれいだと、お客が増える。売上も上がる。…地味だけど、大事。,"…Clean means more customers. Sales go up too. …Not flashy, but it matters."
 文,…ここは厩舎。馬を育てる場所。,…This is the stable. Where you raise horses.
@@ -682,7 +690,7 @@
 文,ありがとうございます。みんな、きっと喜んでいますね,Thank you. I'm sure everyone's happy.
 文,ありがとうございます。大事にいただきますね,Thank you. I'll treasure it.
 文,あー、その機械、止まっちゃったんすか〜？,"Ah, that machine stopped~?"
-文,あー、雨つぶの競争っスか。……あたしは、左のやつに一票っス〜,"Oh, a raindrop race. …I'm betting on the left one~"
+文,あー、雨つぶの競争っスか。……あたしは、左のやつに一票っス〜,"Oh, a raindrop race~. …I'm betting on the left one~"
 文,いちおう……目覚ましのつもりっス。音、ちっちゃいけど。,"It's meant to be… an alarm clock. Kinda quiet, though."
 文,いちご狩りイベント,Strawberry-picking event
 文,いっしょに図面を描いたら？,Why not draw the plans together?
@@ -725,7 +733,7 @@
 文,お菓子作りセット！これで、もっとおいしいプリンが作れます！{name}さんに一番に食べてもらいますね！,"A baking set! Now I can make even yummier pudding! You'll get the first taste, {name}!"
 文,お金・レベル・収穫数・畑の状態・肥料の効果はすべて消え、元に戻すことはできません。,"Money, level, harvest count, field states and fertilizer effects will all be erased. This can't be undone."
 文,お願い,Requests
-文,かいこが桑の葉っぱ食べる音っス。さらさらって、雨みたいでしょ。,"It's the silkworms eating mulberry leaves. Rustle, rustle, like rain, right?"
+文,かいこが桑の葉っぱ食べる音っス。さらさらって、雨みたいでしょ。,"It's the silkworms eating mulberry leaves~. Rustle, rustle, like rain, right?"
 文,が上乗せされます。（いまの🏬 本店の評価額 ¥{1}）,. (Current valuation of the 🏬 Main store: ¥{1})
 文,くまのぬいぐるみの腕が、ほつれている。,The teddy bear's arm is coming apart.
 文,ここが、わたしの新しい実家です！……って、勝手に決めちゃいました！,This is my new home! …I just decided that all by myself!
@@ -744,7 +752,7 @@
 文,このページには重機レンタル（建築現場）を入れられる製造中のブロックがありません。,No block in production on this page can take heavy machinery rental (construction site).
 文,この動物をまだ飼っていません（畜産で飼育すると開けます）,You don't have this animal yet (raise it in Livestock to open)
 文,この器……見事な焼きですわ。お茶を点てるときに、使わせていただきます,This dish… beautifully fired. I shall use it when I make tea.
-文,この子たち、何日もかけて、ちょっとずつ糸を吐くんすよ〜。,"They spin their thread bit by bit, over days~."
+文,この子たち、何日もかけて、ちょっとずつ糸を吐くんすよ〜。,"These little guys spin their thread bit by bit, over days~."
 文,この店舗の在庫：,This store's stock:
 文,この店舗はすべての売り場がオープンしています！,Every section of this store is open!
 文,この持ち場はまだ始めていません。,This workplace hasn't started yet.
@@ -811,7 +819,7 @@
 文,その下に並んでいるのが「部門」のボタンです。,The buttons below it are your “departments.”
 文,その封筒……見つかってしまいましたね。,That envelope… so you found it.
 文,その心がけ、悪くありませんわ,That attitude isn't bad at all.
-文,それからずっと、種をまくのが少しこわかったんです。,"Ever since then, sowing seeds has scared me a little."
+文,それからずっと、種をまくのが少しこわかったんです。,"Ever since then, I've been a little scared to sow seeds."
 文,それぞれの見出しを開くと、そこから働く人を増やせます。人手が増えると、お仕事を任せられるようになりますよ。,"Open each heading to hire more people. With more hands, you can leave the work to them."
 文,それでは、さっそく始めましょう！ まずは畑に種を植えてみてくださいね。,"Well then, let's get started! Try planting some seeds in the field first."
 文,それでは渋くなりますわ。最後の一滴まで、注ぎ切るのが作法ですの。,Then it turns bitter. The proper way is to pour out every last drop.
@@ -852,7 +860,7 @@
 文,でも、翌朝、{name}さんが「畑はどこですか」って聞いてくれて……,"But the next morning, you asked me, “Where's the field?”…"
 文,でもいまは、この手帳の続きを書いています。ちゃんと、毎日。,But now I'm writing the rest of this notebook. Every single day.
 文,でもでも、ひと口だけ！ほら、ほろ苦くておいしいですよ！,But just one bite! See? It's bittersweet and yummy!
-文,でもね、名前を呼ぶとちゃんと振り向いてくれるんです！ほら、もちこー！,"But when you call their names, they turn around! Watch — Mochiko!"
+文,でもね、名前を呼ぶとちゃんと振り向いてくれるんです！ほら、もちこー！,"But when you call their names, they turn around! Look — Mochiko!"
 文,で売り、,", and they count as"
 文,で案内します（動物{1}匹につき{2}人まで）。,(up to {2} per {1} animal).
 文,とうもろこし×{1}　参加しますか？,Corn ×{1}　Will you join?
@@ -950,7 +958,7 @@
 文,わあ、楽しみです,"Oh, I can't wait."
 文,わたくし、借りを作ったままにするのは性に合いませんの。,Leaving a debt unpaid doesn't suit me.
 文,わたくしが口うるさいのは、きっとそのせいですのよ。,That must be why I'm so particular.
-文,わたしの実家も、小さい牧場だったんです。牛が{1}頭だけの！,My family had a little farm too. Just {1} cows!
+文,わたしの実家も、小さい牧場だったんです。牛が{1}頭だけの！,My family had a little farm too. With just {1} cows!
 文,わたしの誕生日、覚えていてくださったんですか……？とってもうれしいです,You remembered my birthday…? I'm so happy.
 文,わーい、ありがとっス〜。……おひさまのにおいがするっス,"Yay, thanks~. …It smells like sunshine."
 文,わーい！お茶会です！,Yay! A tea party!
@@ -1587,7 +1595,7 @@
 文,畑とビニールハウスの収穫可能な作物,Harvestable crops in fields and vinyl greenhouses
 文,畑に、しとしとと雨が降っている。,A soft rain is falling on the field.
 文,畑に蒔く種（全員共通）,Seeds to sow in fields (everyone)
-文,畑の朝は、少しだけ空気が甘いんですよ。土と、葉っぱと、朝露の匂いです。,"Mornings in the field smell a little sweet. Soil, leaves and morning dew."
+文,畑の朝は、少しだけ空気が甘いんですよ。土と、葉っぱと、朝露の匂いです。,"Mornings in the field smell a little sweet. Like soil, leaves and morning dew."
 文,畑を{1}枚増設しました。（¥{2}）,Added {1} field(s). (¥{2})
 文,畑を増やすときは「🛒 ショップ」の「🏗 増設」からどうぞ。新しく増やせるものがあると❗が付きます。畑が増えるほど、たくさん収穫できますよ。,"To add fields, go to “🏗 Expand” in the “🛒 Store.” A ❗ appears when there's something new to add. More fields mean bigger harvests!"
 文,畑・ハウス・果樹園の作物を運びます。,"Carries crops from fields, greenhouses and the orchard."
