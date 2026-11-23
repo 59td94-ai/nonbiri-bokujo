@@ -345,7 +345,7 @@
 文,…こはく。厩舎とか、木材とか…力仕事の担当。,"…Kohaku. Stable, lumber… I handle the heavy work."
 文,…よろしく。,…Nice to meet you.
 文,…人手が足りないなら、事務所の人事で雇って。…以上。,"…If you're short on hands, hire at HR in the Office. …That's all."
-文,…切りすぎないこと。…植えるのも、仕事。,…Don't cut too much. …Planting is part of the job.
+文,…切りすぎないこと。…植えるのも、仕事。,…Don't cut too much. …Planting trees is part of the job.
 文,…厩舎を増やせば、飼える馬も増える。増設は、ショップの「🏗 増設」。,"…More stables, more horses. Expand from “🏗 Expand” in the Store."
 文,…建築。資材で建物を建てて、引き渡す。,…Construction. Put up buildings with materials and hand them over.
 文,…建築の材料になる。…重いから、気をつけて。,"…It's for construction. …It's heavy, so be careful."
@@ -387,8 +387,8 @@
 文,⑦ 総務でまとめて,⑦ Bulk actions in General Affairs
 文,⑧ 人事でまとめて,⑧ Bulk actions in HR
 文,⑨ 方針を決める,⑨ Setting a plan
-文,⑩ 設定でできること,⑩ What Settings can do
-文,⑪ やり直しの注意,⑪ About starting over
+文,⑩ 設定でできること,⑩ What you can do in Settings
+文,⑪ やり直しの注意,⑪ Warning about starting over
 文,⑫ セーブ,⑫ Saving
 文,⑬ 画面の大きさ,⑬ Screen size
 文,⑭ 引き継ぎコード,⑭ Transfer code
@@ -682,7 +682,7 @@
 文,レベルが上がると、田んぼや養鶏など、新しいお仕事が少しずつ増えていきます。楽しみにしていてくださいね。,"As you level up, new work like rice paddies and poultry opens up little by little. Something to look forward to!"
 文,レベルが上がると増えます,Increases as you level up
 文,レースのムービーが流れますが、スキップしますか？,The race movie will play. Skip it?
-文,・✨金の卵がまざるようになりました,· ✨Golden eggs now appear now and then
+文,・✨金の卵がまざるようになりました,· ✨Golden eggs sometimes appear
 文,・すべての場所が機械化ずみです。,· Every place is mechanized.
 文,・まだ機械化していない場所が {1}か所 あります（例：🍒果樹園{2}P目／¥{3}）。,· {1} places aren't mechanized yet (e.g. 🍒Orchard page {2} / ¥{3}).
 文,・まだ機械化していない場所が {1}か所 あります（例：🍚田んぼ{2}P目／¥{3}）。,· {1} places aren't mechanized yet (e.g. 🍚Rice paddy page {2} / ¥{3}).
@@ -724,7 +724,7 @@
 文,予約,Reservation
 文,予約が入りました（青果売り場・{1}点）,Reservation received (produce section · {1} item(s))
 文,事務所で人を雇ってみよう,Try hiring people at the Office
-文,事務所で働けるのは👔従業員だけです（係員・係長は勤続年数で自動的に上がってきます）。,Only 👔employees can work in the Office (staff and supervisors rise automatically with years of service).
+文,事務所で働けるのは👔従業員だけです（係員・係長は勤続年数で自動的に上がってきます）。,Only 👔employees can work in the Office (staff and supervisors are promoted automatically with years of service).
 文,事業の経過をチェックし、シーズンの変わり目にルールで追加投資・売却を判断,"Checks how businesses are doing and, at each change of season, decides on more investment or selling by your rules"
 文,人を売り場に配置しました,assigned to sections
 文,人員を見直してパークへ回す,Rebalance staff to the park
@@ -1039,7 +1039,7 @@
 文,材料が足りないか、ブロックが埋まって納品待ちになっています,"Either ingredients are short, or blocks are full and waiting for delivery"
 文,材料が足りません,Not enough ingredients
 文,材料が足りません（買い付けはオフです）,Not enough ingredients (buying is off)
-文,材料の羊毛は酪農の羊から。足りなければ、ひなたさんにお願いなさいな。,"The wool comes from the dairy's sheep. If you're short, ask Hinata."
+文,材料の羊毛は酪農の羊から。足りなければ、ひなたさんにお願いなさいな。,"The wool comes from the dairy's sheep. If you're short, do ask Hinata."
 文,材料は酪農の豚から届くよ！ がんばろうね！,The ingredients come from the dairy's pigs! Let's do our best!
 文,来場者,Visitors
 文,枚,fields
@@ -1059,7 +1059,7 @@
 文,棟,buildings
 文,棟増設（¥{1}）,Add building (¥{1})
 文,棟）,buildings)
-文,森の採水地で湧き水を汲み、ろ過して天然水にします。（{1}-{2}-{3} 追加）,Draw spring water at the forest water source and filter it into bottled water.
+文,森の採水地で湧き水を汲み、ろ過して天然水にします。（{1}-{2}-{3} 追加）,Draw spring water at the forest water source and filter it into bottled spring water.
 文,植える・見る,Plant / View
 文,植え付けの確認,Confirm planting
 文,植林する,Plant trees
@@ -1258,10 +1258,10 @@
 文,花卉{1}P目を機械化しますか？,Mechanize Flowers page {1}?
 文,花卉栽培を始めますか？,Start growing flowers?
 文,苗木を植えて、次に切り出せる木を増やします。,Plant saplings so there are more trees to cut next time.
-文,茶畑ですわ。茶葉を摘んで仕上げますの。,This is the tea field. We pick the leaves and finish them here.
-文,茶畑で茶葉を摘み、蒸して仕上げます。お茶工場の材料になります。,Pick tea leaves in the tea field and steam them. They're used by the Tea Factory.
-文,茶畑の茶葉から緑茶・ほうじ茶・紅茶・抹茶を作ります。,"Makes green tea, hojicha, black tea and matcha from tea field leaves."
-文,茶葉の質がそのまま味に出ますわ。茶畑もきちんと手入れなさってね。,The quality of the leaves shows right in the taste. Do look after the tea field properly.
+文,茶畑ですわ。茶葉を摘んで仕上げますの。,This is the Tea Field. We pick the leaves and finish them here.
+文,茶畑で茶葉を摘み、蒸して仕上げます。お茶工場の材料になります。,Pick tea leaves in the Tea Field and steam them. They're used by the Tea Factory.
+文,茶畑の茶葉から緑茶・ほうじ茶・紅茶・抹茶を作ります。,"Makes green tea, hojicha, black tea and matcha from Tea Field leaves."
+文,茶葉の質がそのまま味に出ますわ。茶畑もきちんと手入れなさってね。,The quality of the leaves shows right in the taste. Do look after the Tea Field properly.
 文,荒れ地を切り拓き、出てきた木をまとめて木材にします。,Clear wasteland and turn the trees you find into lumber.
 文,蒔く,Sow
 文,蒔く種を決めて再開する,Choose seeds and resume
