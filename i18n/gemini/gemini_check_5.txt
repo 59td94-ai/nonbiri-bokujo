@@ -1,0 +1,70 @@
+以下は、のんびりした牧場経営ゲーム「のんびり牧場」の日本語→英語の対訳です。
+先にお渡しした説明資料（gemini_brief.pdf）のキャラクター表・用語集にそって見てください。
+英語として不自然な表現・誤訳・意味のずれがある行だけ、番号と直した英語を書いてください。問題のない行は書かなくてかまいません。
+
+決まりごと：
+・{1} {2} などの記号は数字が入る場所です。そのまま残してください（順番は入れかえてよい）
+・絵文字・¥・Lv. もそのまま残してください
+・画面がせまいので、短く分かりやすい英語にしてください
+・キャラの名前（Minori, Kohaku, Hinata, Akari, Tsubaki, Shizuku）は変えないでください
+
+返事の形：
+番号｜元の日本語｜今の英訳｜直した英訳｜理由（ひとこと）
+
+（1〜55行目）
+
+1｜桃｜Peach
+2｜Lv.{1}で売値が {2}倍 に上がります｜At Lv.{1}, the price rises to ×{2}
+3｜{1}分で直したっス｜Fixed It in {1} Minutes~
+4｜▶️ 労働者の作業を再開しました。（畑：各自におまかせ　/　ハウス：各自におまかせ　/　🏪 小売販売：しない（通常出荷）　/　肥料：各自におまかせ　/　依頼優先：する）｜▶️ Workers' tasks resumed. (Fields: up to each worker　/　Greenhouses: up to each worker　/　🏪 Retail: off (normal shipping)　/　Fertilizer: up to each worker　/　Prioritize requests: on)
+5｜⚙️ 機械化には ¥{1} 必要です。｜⚙️ Mechanizing costs ¥{1}.
+6｜⭐ レベルアップ！ Lv.{1}　⚡AP 全回復｜⭐ Level up! Lv.{1}　⚡AP fully restored
+7｜「{1}分で直したっス」｜“Fixed It in {1} Minutes~”
+8｜「{1}分で直したっス」 💗がたまりました｜“Fixed It in {1} Minutes~” 💗 is full
+9｜あかりのストーリー　第{1}話「{2}分で直したっス」｜Akari's story, Ep. {1} “Fixed It in {2} Minutes~”
+10｜かぶ（季節外🌐）｜Turnip (off-season🌐)
+11｜がたまりました｜is full
+12｜さつまいも（季節外🌐）｜Sweet potato (off-season🌐)
+13｜じゃがいも（季節外🌐）｜Potato (off-season🌐)
+14｜で買えるようになります｜becomes available to buy
+15｜にんじん（季節外🌐）｜Carrot (off-season🌐)
+16｜まとめて増設（いまは{1}区画）｜Expand all (now {1} plots)
+17｜まとめて増設（いまは{1}枚）｜Expand all (now {1})
+18｜まとめて肥料({1}マス分)使用の確認｜Confirm bulk fertilizer ({1} plots)
+19｜キャベツ（季節外🌐）｜Cabbage (off-season🌐)
+20｜ナス（季節外🌐）｜Eggplant (off-season🌐)
+21｜ハウス{1}棟目はLv.{2}｜Greenhouse {1} at Lv.{2}
+22｜プレゼント用に🌸桜の枝を{1}個買いました。（¥{2}）｜Bought {1} 🌸cherry branch(es) as gifts. (¥{2})
+23｜レベルが{1}に上がりました！｜Reached level {1}!
+24｜佐々木蓮さんが果樹園{1}P目の{2}区画に🍑桃を植えました。（¥{3}）｜Ren Sasaki planted 🍑peach in {2} plots on Orchard page {1}. (¥{3})
+25｜佐々木蓮さんが果樹園{1}P目の{2}区画をまとめて収穫しました：🍑桃×{3}｜Ren Sasaki harvested {2} plots on Orchard page {1}: 🍑Peach ×{3}
+26｜使わない｜Don't use
+27｜出荷イベント達成！｜Shipping event complete!
+28｜区画増設｜plots added
+29｜大根（季節外🌐）｜Daikon (off-season🌐)
+30｜対象：畑{1}・畑{2} / この{3}区画にまとめて肥料({4}マス分)を使います。 / 肥料: 🎒在庫から{5}袋（いま{6}袋） / 効果: 収穫までの時間を{7}%短縮 /  / この内容でよろしいですか？｜Targets: Field {1} · Field {2} / Use fertilizer ({4} plots) on these {3} plots at once. / Fertilizer: {5} bag(s) from 🎒stock (now {6}) / Effect: time to harvest {7}% shorter /  / Is this OK?
+31｜建てられます｜Can be built
+32｜枚増設｜fields added
+33｜果樹園を{1}区画増設しました。（¥{2}）｜Added {1} orchard plot(s). (¥{2})
+34｜点｜item(s)
+35｜現在 {1}棟まで展開しています。{2}棟増設しますか？ /  / 🐑 羊小屋：{3} → {4}棟 / 費用: ¥{5} / 増設後の所持金: ¥{6}｜You have {1} buildings now. Add {2}? /  / 🐑 Sheep barns: {3} → {4} / Cost: ¥{5} / Money after: ¥{6}
+36｜田んぼに植えるもの（全員共通）｜What to plant in rice paddies (everyone)
+37｜白菜（季節外🌐）｜Napa cabbage (off-season🌐)
+38｜羊小屋を{1}棟増設しました。（¥{2}）｜Added {1} sheep barn(s). (¥{2})
+39｜肥料({1}マス分)の使用をキャンセルしました。｜Canceled using fertilizer ({1} plots).
+40｜資金が足りません｜Not enough money
+41｜長ネギ（季節外🌐）｜Leek (off-season🌐)
+42｜飲食店に雇いますか？｜Hire for the Restaurant?
+43｜飲食店へ配置しました｜Assigned to the Restaurant
+44｜🌸 桜の枝を{1}個 買いました！💗から渡せます｜🌸 Bought {1} cherry branch(es)! Give them from 💗
+45｜🍒 果樹園　いま {1} / {2}区画。上限まで増設しています。｜🍒 Orchard　{1} / {2} plots now. Fully expanded.
+46｜🎉 出荷イベント「🥔じゃがいも×{1} 出荷」を達成しました！｜🎉 Completed the shipping event “Ship 🥔Potato ×{1}”!
+47｜🏗 🐑 羊小屋 +{1}棟（¥{2}）｜🏗 🐑 Sheep barns +{1} (¥{2})
+48｜🏭 工房の建設には ¥{1} 必要です。｜🏭 Building a workshop costs ¥{1}.
+49｜🏭 🧃ジュースの製造を始めました。（材料 🍇果実{1}個／不足分は ¥{2} で買い付け）｜🏭 Started making 🧃juice. (Ingredients: {1} 🍇fruit / shortfall bought for ¥{2})
+50｜👔従業員を{1}人雇って「🏬 🍽飲食店」に配置します。 / 初回給料: ¥{2} / 契約: 無期限／{3}秒に{4}回作業 /  / 配置後は「📍 仕事を決める」から細かい指示を変えられます。｜Hire {1} 👔employee(s) and assign them to “🏬 🍽Restaurant”. / First pay: ¥{2} / Contract: no time limit / works {4} time(s) every {3}s /  / After assigning, adjust their tasks with “📍 Set jobs”.
+51｜👥 👔従業員の山田悠斗さんを採用し、「🏬 🍽飲食店」に配置しました。（¥{1}）｜👥 Hired 👔employee Yuto Yamada and assigned them to “🏬 🍽Restaurant”. (¥{1})
+52｜📖 あかりのストーリー　第{1}話「{2}分で直したっス」｜📖 Akari's story, Ep. {1} “Fixed It in {2} Minutes~”
+53｜🚚 果樹園 出荷：¥{1}｜🚚 Orchard shipped: ¥{1}
+54｜🚚 果樹園の在庫を出荷：🍑桃×{1}　¥{2} を獲得しました。｜🚚 Shipped orchard stock: 🍑Peach ×{1}　earned ¥{2}.
+55｜🧺 一括収穫：畑{1}区画（{2}個）を収穫して ¥{3} で売りました。｜🧺 Harvest all: harvested {1} field plots ({2}) and sold them for ¥{3}.
