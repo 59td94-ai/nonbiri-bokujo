@@ -18471,10 +18471,14 @@ queueModal(askJoinForcedEvent);
       if(!x||JPX.test(x))return null;out+=x;}
     return out.replace(/ {2,}/g," ").replace(/\( /g,"(").replace(/ \)/g,")").replace(/^ | $/g,"");
   }
+  /* 2026-11-24：英語で数が1のときは単数に（1 bags → 1 bag）。前が数字・小数点・カンマ・¥のときは直さない（11 bags・0.1・2,001 など） */
+  var ENSG={bags:"bag",plots:"plot",blocks:"block",years:"year",seasons:"season",stems:"stem",times:"time",wins:"win",things:"thing",places:"place",races:"race",buildings:"building",pages:"page",bottles:"bottle",machines:"machine",animals:"animal",guests:"guest",visitors:"visitor",fields:"field",eggs:"egg",workplaces:"workplace",departments:"department",cows:"cow",flowers:"flower",openings:"opening",sections:"section",racehorses:"racehorse",batches:"batch",guides:"guide",cookies:"cookie",employees:"employee",requests:"request",stores:"store",spots:"spot",people:"person",seconds:"second",minutes:"minute",days:"day",hours:"hour",items:"item",seeds:"seed",units:"unit",heads:"head",colonies:"colony"};
+  var ENSGRX=new RegExp("(^|[^0-9.,¥$])1 ("+Object.keys(ENSG).join("|")+")(?![A-Za-z])","g");
+  function enSg(x){return typeof x==="string"&&x.indexOf("1 ")>=0?x.replace(ENSGRX,function(_,p,w){return p+"1 "+ENSG[w]}):x}
   function trOne(base){
     if(lang==="ja")return base;
     if(lang==="en"){var c0=CACHE.en||(CACHE.en={});if(base in c0)return c0[base];
-      var e0=enLook(base);if(e0){c0[base]=e0;return e0}}
+      var e0=enLook(base);if(e0){e0=enSg(e0);c0[base]=e0;return e0}}
     var c=CACHE[lang]||(CACHE[lang]={});if(base in c)return c[base];
     var out=null,row=FWD[base];
     if(row)out=row[IDX[lang]]||null;
@@ -18484,6 +18488,7 @@ queueModal(askJoinForcedEvent);
     if(!out&&!trOne._in){trOne._in=1;try{for(var q=0;q<RX.length;q++){var mm=base.match(RX[q][0]);if(mm){out=RX[q][1][IDX[lang]-1].replace(/\$(\d)/g,function(_,i){var g=mm[+i]||"";return /[\u3040-\u30ff\u4e00-\u9fff]/.test(g)?trOne(g):g});break}}}finally{trOne._in=0}}
     if(!out&&lang==="en"&&!trOne._seg){trOne._seg=1;try{out=enSeg(base)}finally{trOne._seg=0}}
     if(!out){out=base;if(lang==="en"&&window.__lsMiss&&JPX.test(base))window.__lsMiss.add(base.replace(NUM,function(){return "#"}))}
+    if(lang==="en")out=enSg(out);
     c[base]=out;return out;
   }
   function fixText(n){
