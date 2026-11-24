@@ -17977,6 +17977,10 @@ queueModal(askJoinForcedEvent);
     '#lsShop .qty button:disabled{opacity:.35}',
     '#lsShop .qty b{min-width:2.2em;text-align:center;font-size:calc(var(--u)*3);font-weight:800}',
     '#lsShop .mx{border:none;border-radius:99px;background:#fff;border:2px solid #f6d6b8;color:#b0602a;font:inherit;font-weight:800;font-size:calc(var(--u)*1.9);padding:calc(var(--u)*.6) calc(var(--u)*1.4);cursor:pointer}',
+    '#lsShop .qks{display:flex;gap:calc(var(--u)*.5)}',
+    '#lsShop .qk{border:2px solid #f6d6b8;border-radius:99px;background:#fff;color:#b0602a;font:inherit;font-weight:800;font-size:calc(var(--u)*1.8);min-width:calc(var(--u)*4.6);padding:calc(var(--u)*.55) calc(var(--u)*.9);cursor:pointer}',
+    '#lsShop .qk.on{background:#ffb27a;border-color:#ffb27a;color:#fff}',
+    '#lsShop .qk:disabled{opacity:.35;cursor:default}',
     '#lsShop .sum{margin-left:auto;text-align:right;font-size:calc(var(--u)*1.8);color:#8a7560;line-height:1.25}',
     '#lsShop .sum b{display:block;font-size:calc(var(--u)*2.8);color:#4a3b2a}',
     '#lsShop .buy{display:block;width:100%;margin-top:calc(var(--u)*.9);min-height:calc(var(--u)*6.4);border:none;border-radius:calc(var(--u)*2);background:linear-gradient(180deg,#9be36d,#4fbf4a);color:#fff;font:inherit;font-weight:800;font-size:calc(var(--u)*2.7);',
@@ -18050,7 +18054,7 @@ queueModal(askJoinForcedEvent);
     '<div class="hm"><div class="ht">🛒 ショップ</div><div class="hs">買い物はすべてここから。種・動物・肥料は在庫や空いている場所へ入ります</div><div class="cards"></div></div>'+
     '<div class="stg"><div class="ttl"></div><div class="cv"><canvas></canvas><div class="emo"></div><div class="ld">🐾 読み込み中…</div></div>'+
     '<div class="info"><div class="nm"></div><div class="ds"></div><div class="row"><div class="qty"><button type="button" data-q="-1">−</button><b>1</b><button type="button" data-q="1">＋</button></div>'+
-    '<button type="button" class="mx">最大</button><div class="sum"></div></div><button type="button" class="buy">購入する</button><button type="button" class="alt" style="display:none"></button><div class="note"></div></div></div>'+
+    '<button type="button" class="mx">最大</button><span class="qks"><button type="button" class="qk" data-set="10">10</button><button type="button" class="qk" data-set="50">50</button><button type="button" class="qk" data-set="100">100</button></span><div class="sum"></div></div><button type="button" class="buy">購入する</button><button type="button" class="alt" style="display:none"></button><div class="note"></div></div></div>'+
     '<div class="lst"></div><div class="lh"></div>';
   panel.appendChild(box);
   box.querySelector(".lh").style.left="calc(var(--u)*1.4)";
@@ -18178,7 +18182,7 @@ queueModal(askJoinForcedEvent);
     box.querySelector(".nm").innerHTML=x.icon+' '+x.name+(x.head?' <small>'+x.head+'</small>':'');
     box.querySelector(".ds").textContent=x.desc||"";
     box.querySelector(".qty b").textContent=qty;
-    box.querySelector('[data-q="-1"]').disabled=busy||qty<=1;box.querySelector('[data-q="1"]').disabled=busy||qty>=mq;box.querySelector(".mx").disabled=busy||mq<=1;
+    box.querySelector('[data-q="-1"]').disabled=busy||qty<=1;box.querySelector('[data-q="1"]').disabled=busy||qty>=mq;box.querySelector(".mx").disabled=busy||mq<=1;box.querySelectorAll(".qk").forEach(function(k){var v=+k.dataset.set;k.disabled=busy||mq<v;k.classList.toggle("on",qty===v)}); /* 2026-11-24：10・50・100個をワンタップで（itch.io のコメントから） */
     box.querySelector(".sum").innerHTML=x.sum?x.sum(qty):"";
     var b=box.querySelector(".buy");b.disabled=busy||mq<1||!!x.noBuy;b.textContent=x.label(qty);
     var al=box.querySelector(".alt");al.style.display=x.alt?"":"none";al.textContent=x.alt||"";al.disabled=busy||!!x.altDisabled;
@@ -18235,6 +18239,7 @@ queueModal(askJoinForcedEvent);
     var lp=e.target.closest("[data-lp]");if(lp&&!lp.disabled){lpage+=+lp.dataset.lp;renderList();return}
     var it=e.target.closest(".it[data-id]");if(it){select(it.dataset.id);return}
     var q=e.target.closest("[data-q]");if(q&&!q.disabled){qty+=+q.dataset.q;renderInfo();return}
+    var qk=e.target.closest(".qk");if(qk&&!qk.disabled){qty=+qk.dataset.set;renderInfo();return}
     if(e.target.closest(".mx")){var x2=cur();qty=Math.max(1,x2?x2.qtyMax:1);renderInfo();return}
     if(e.target.closest(".buy")){buy();return}
   });
