@@ -2198,7 +2198,7 @@
   "🚚 急送": "🚚 Rush",
   "🚚 木材{1}個を出荷しました。¥{2} を獲得しました。": "🚚 Shipped {1} lumber and earned ¥{2}.",
   "🚚 果樹園 出荷：¥{1}": "🚚 Orchard shipped: ¥{1}",
-  "🚚 果樹園の在庫を出荷：🍑桃×{1}　¥{2} を獲得しました。": "🚚 Shipped orchard stock: 🍑Peach ×{1}　earned ¥{2}.",
+  "🚚 果樹園の在庫を出荷：🍑桃×{1}　¥{2} を獲得しました。": "🚚 Shipped orchard stock: 🍑Peach ×{1}, earned ¥{2}.",
   "🚚 物流から届いた直売品は、この売り場がある {1}店舗に均等に配られます（{2}店あたり約{3}%）　　🚚 物流で運んでいる分：{4}点": "🚚 Direct-sale items from logistics are shared equally among the {1} stores with this section (about {3}% per {2} store)　　🚚 In transit: {4}",
   "🚚 物流と棚に {1}点しかありません（あと{2}点）": "🚚 Only {1} in logistics and on shelves ({2} more needed)",
   "🚫 工場の材料の買い付けを止めました。手持ちの材料だけで作ります。": "🚫 Stopped buying factory ingredients. Only what's on hand will be used.",
