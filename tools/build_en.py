@@ -57,7 +57,16 @@ def strip(x): return re.sub("[ \u3000]{2,}", " ", EMO.sub("", x)).strip()
 for k, v in list(text.items()):
     sk = strip(k)
     if sk and sk != k and sk not in text: text[sk] = strip(v) if strip(v) else v
-out = {"nouns": nouns, "text": text}
+# 2026-11-25：名前や数字をつなげて作る文のひな形（pat）。{1}{2}… にはどんな文字列でも入る。具体的なものから順に試す
+def _jsesc(x): return re.sub(r"([.*+?^${}()|\[\]\\/])", r"\\\1", x)
+pats = []
+for k, v in data.get("pat", {}).items():
+    lits = [x for x in re.split(r"\{\d+\}", k)]
+    if not "".join(lits).strip(): continue
+    src = "^" + re.sub(r"\\\{(\d+)\\\}", lambda m: "([\\s\\S]*?)", _jsesc(k)) + "$"
+    pats.append((len("".join(lits)), max(lits, key=len), src, v))
+pats.sort(key=lambda x: -x[0])
+out = {"nouns": nouns, "text": text, "pat": [[a, b, c] for _, a, b, c in pats]}
 s = html.read_text(encoding="utf-8")
 payload = base64.b64encode(gzip.compress(json.dumps(out, ensure_ascii=False, separators=(",", ":")).encode("utf-8"), 9)).decode()
 A, B = "/*EN_EXTRA_BEGIN*/", "/*EN_EXTRA_END*/"
